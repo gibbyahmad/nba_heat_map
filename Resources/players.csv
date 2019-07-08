@@ -1,0 +1,2241 @@
+playerId,firstName,lastName,fullname,affiliation,affiliation_city,affiliation_country,collegeName,country,dateOfBirth,heightInMeters,startNba,teamId,weightInKilograms,yearsPro
+1,Alex,Abrines,Alex Abrines,Spain/Spain,Spain,Spain,,Spain,1993-08-01,,2016,,,0
+2,Quincy,Acy,Quincy Acy,Baylor/USA,Baylor,USA,Baylor,USA,1990-10-06,2.01,2012,28,108.9,6
+3,Jordan,Adams,Jordan Adams,,,,UCLA,United States,1994-07-08,1.96,2014,19,94.8,1
+4,Steven,Adams,Steven Adams,Pittsburgh/New Zealand,Pittsburgh,New Zealand,Pittsburgh,New Zealand,1993-07-20,2.13,2013,25,120.2,6
+5,Arron,Afflalo,Arron Afflalo,UCLA/USA,UCLA,USA,UCLA,USA,1985-10-15,1.96,2007,26,95.3,11
+6,Alexis,Ajinca,Alexis Ajinca,,,,,,,,0,,,0
+7,Cole,Aldrich,Cole Aldrich,,,,,,,,0,,,0
+8,LaMarcus,Aldridge,LaMarcus Aldridge,Texas/USA,Texas,USA,Texas,USA,1985-07-19,2.11,2006,31,117.9,13
+9,Cliff,Alexander,Cliff Alexander,,,,Kansas,United States,1995-11-16,2.03,2015,29,108.9,0
+10,Lavoy,Allen,Lavoy Allen,,,,,,,,0,,,0
+11,Tony,Allen,Tony Allen,Oklahoma State/USA,Oklahoma State,USA,Oklahoma State,USA,1982-01-11,1.93,2004,,96.6,12
+12,Al-Farouq,Aminu,Al-Farouq Aminu,Wake Forest/USA,Wake Forest,USA,Wake Forest,USA,1990-09-21,2.06,2010,29,99.8,9
+13,Lou,Amundson,Lou Amundson,,,,Nevada-Las Vegas,USA,1982-12-07,2.06,2006,24,99.8,9
+14,Chris,Andersen,Chris Andersen,,,,Blinn,USA,1978-07-07,2.08,2001,,111.1,13
+15,Alan,Anderson,Alan Anderson,Michigan State/USA,Michigan State,USA,Michigan State,USA,1982-10-16,1.98,2005,,99.8,7
+16,James,Anderson,James Anderson,,,,Oklahoma State,USA,1989-03-25,1.98,2010,30,96.6,4
+17,Justin,Anderson,Justin Anderson,Virginia/USA,Virginia,USA,Virginia,USA,1993-11-19,1.98,2015,1,104.3,4
+18,Kyle,Anderson,Kyle Anderson,UCLA/USA,UCLA,USA,California-Los Angeles,USA,1993-09-20,2.06,2014,19,104.3,5
+19,Ryan,Anderson,Ryan Anderson,California/USA,California,USA,California,USA,1988-05-06,2.08,2008,20,108.9,11
+20,Giannis,Antetokounmpo,Giannis Antetokounmpo,Greece/Greece,Greece,Greece,,Greece,1994-12-06,2.11,2013,21,109.8,6
+21,Carmelo,Anthony,Carmelo Anthony,Syracuse/USA,Syracuse,USA,Syracuse,USA,1984-05-29,,2003,,,0
+22,Joel,Anthony,Joel Anthony,UNLV/Canada,UNLV,Canada,Nevada-Las Vegas,Canada,1982-08-09,2.06,2007,,111.1,9
+23,Trevor,Ariza,Trevor Ariza,UCLA/USA,UCLA,USA,California-Los Angeles,USA,1985-06-30,2.03,2004,41,97.5,15
+24,Egehan,Arna,Egehan Arna,,,,,,,,0,,,0
+25,Darrell,Arthur,Darrell Arthur,Kansas/USA,Kansas,USA,Kansas,USA,1988-03-25,2.06,2008,28,106.6,9
+26,Netanel,Artzi,Netanel Artzi,,,,,,,,0,,,0
+27,Omer,Asik,Omer Asik,,,,,,,,0,,,0
+28,D.J.,Augustin,D.J. Augustin,Texas/USA,Texas,USA,Texas,USA,1987-11-10,1.83,2008,26,83.0,11
+29,Jeff,Ayres,Jeff Ayres,,,,Arizona State,USA,1987-04-29,2.06,2009,16,113.4,5
+30,Luke,Babbitt,Luke Babbitt,Nevada-Reno/USA,Nevada-Reno,USA,Nevada,USA,1989-06-20,2.06,2010,20,102.1,8
+31,Cameron,Bairstow,Cameron Bairstow,,,,New Mexico,Australia,1990-12-07,2.06,2014,,113.4,1
+32,Ron,Baker,Ron Baker,Wichita State/USA,Wichita State,USA,Wichita State,USA,1993-03-30,,2016,,,0
+33,Wade,Baldwin IV,Wade Baldwin IV,Vanderbilt/USA,Vanderbilt,USA,Vanderbilt,USA,1996-03-29,1.93,2016,15,90.7,2
+34,Leandro,Barbosa,Leandro Barbosa,Palmeiras/Brazil,Palmeiras,Brazil,"Sau Paulo, Brazil",Brazil,1982-11-28,1.9,2003,,88.0,13
+35,J.J.,Barea,J.J. Barea,Northeastern/Puerto Rico,Northeastern,Puerto Rico,Northeastern,Puerto Rico,1984-06-26,1.83,2006,8,83.9,13
+36,Harrison,Barnes,Harrison Barnes,North Carolina/USA,North Carolina,USA,North Carolina,USA,1992-05-30,2.03,2012,30,102.1,7
+37,Matt,Barnes,Matt Barnes,UCLA/USA,UCLA,USA,UCLA,USA,1980-03-09,2.01,2003,,102.5,13
+38,Will,Barton,Will Barton,Memphis/USA,Memphis,USA,Memphis,USA,1991-01-06,1.98,2012,9,86.2,7
+39,Brandon,Bass,Brandon Bass,Louisiana State/USA,Louisiana State,USA,Louisiana State,USA,1985-04-30,2.03,2005,,113.4,11
+40,Nicolas,Batum,Nicolas Batum,Le Mans/France,Le Mans,France,,France,1988-12-14,2.03,2008,5,90.7,11
+41,Jerryd,Bayless,Jerryd Bayless,Arizona/USA,Arizona,USA,Arizona,USA,1988-08-20,1.9,2008,22,90.7,11
+42,Aron,Baynes,Aron Baynes,Washington State/Australia,Washington State,Australia,Washington State,Australia,1986-12-09,2.08,2012,2,117.9,7
+43,Ercan,Bayrak,Ercan Bayrak,,,,,,,,0,,,0
+44,Kent,Bazemore,Kent Bazemore,Old Dominion/USA,Old Dominion,USA,Old Dominion,USA,1989-07-01,1.96,2012,29,91.2,7
+45,Bradley,Beal,Bradley Beal,Florida/USA,Florida,USA,Florida,USA,1993-06-28,1.96,2012,41,93.9,7
+46,Malik,Beasley,Malik Beasley,Florida State/USA,Florida State,USA,Florida State,USA,1996-11-26,1.96,2016,9,88.5,3
+47,Michael,Beasley,Michael Beasley,Kansas State/USA,Kansas State,USA,Kansas State,USA,1989-01-09,,2008,,,0
+48,Marco,Belinelli,Marco Belinelli,Fortitudo Bologna/Italy,Fortitudo Bologna,Italy,,Italy,1986-03-25,1.96,2007,31,95.3,12
+49,DeAndre',Bembry,DeAndre' Bembry,St. Joseph's (PA)/USA,St. Joseph's (PA),USA,Saint Joseph's,USA,1994-07-04,1.98,2016,1,95.3,3
+50,Dragan,Bender,Dragan Bender,Croatia/Croatia,Croatia,Croatia, ,Croatia,1997-11-17,2.16,2016,28,102.1,3
+51,Anthony,Bennett,Anthony Bennett,,,,Nevada-Las Vegas,Canada,1993-03-14,,2013,4,,0
+52,Davis,Bertans,Davis Bertans, Latvia/Latvia, Latvia,Latvia,,Latvia,1992-11-12,2.08,2016,31,102.1,3
+53,Patrick,Beverley,Patrick Beverley,Arkansas/USA,Arkansas,USA,,USA,1988-07-12,1.85,2012,16,83.9,7
+54,Bismack,Biyombo,Bismack Biyombo,Baloncesto Fuenlabrada/Democratic Republic of Cong,Baloncesto Fuenlabrada,Democratic Republic of Cong,,Democratic Republic of the Congo,1992-08-28,2.06,2011,5,115.7,8
+55,Nemanja,Bjelica,Nemanja Bjelica,Fenerbahce Ulker/Serbia,Fenerbahce Ulker,Serbia,,Serbia,1988-05-09,2.08,2015,30,106.1,4
+56,Tarik,Black,Tarik Black,KansasUSA/USA,KansasUSA,USA,Kansas,USA,1991-11-22,2.06,2014,14,113.4,4
+57,Steve,Blake,Steve Blake,,,,Maryland,USA,1980-02-26,1.9,2003,10,78.0,12
+58,Oz,Blayzer,Oz Blayzer,,,,,,,,0,,,0
+59,Eric,Bledsoe,Eric Bledsoe,Kentucky/USA,Kentucky,USA,Kentucky,USA,1989-12-09,1.85,2010,21,93.0,9
+60,Bojan,Bogdanovic,Bojan Bogdanovic,Croatia/Croatia,Croatia,Croatia,,Croatia,1989-04-18,2.03,2014,15,98.0,5
+61,Andrew,Bogut,Andrew Bogut,Utah/Australia,Utah,Australia,Utah,Australia,1984-11-28,2.13,2005,11,117.9,14
+62,Joel,Bolomboy,Joel Bolomboy,Weber State/Russia,Weber State,Russia,Weber State,Russia,1994-01-28,2.06,2016,,106.6,0
+63,Matt,Bonner,Matt Bonner,,,,Florida,USA,1980-04-05,2.08,2004,31,106.6,11
+64,Devin,Booker,Devin Booker,Kentucky/USA,Kentucky,USA,Kentucky,USA,1996-10-30,1.98,2015,28,95.3,4
+65,Trevor,Booker,Trevor Booker,Clemson/USA,Clemson,USA,Clemson,USA,1987-11-25,2.03,2010,15,103.4,8
+66,Paulinho,Boracini,Paulinho Boracini,,,,,,,,0,83,,0
+67,Chris,Bosh,Chris Bosh,Georgia Tech/USA,Georgia Tech,USA,Georgia Tech,USA,1984-03-24,2.11,2003,,106.6,13
+68,Avery,Bradley,Avery Bradley,Texas/USA,Texas,USA,Texas,USA,1990-11-26,1.88,2010,19,81.6,9
+69,Elton,Brand,Elton Brand,,,,Duke,USA,1979-03-11,2.06,1999,27,115.2,16
+70,Corey,Brewer,Corey Brewer,Florida/USA,Florida,USA,Florida,USA,1986-03-05,2.06,2007,30,84.4,12
+71,Malcolm,Brogdon,Malcolm Brogdon,Virginia/USA,Virginia,USA,Virginia,USA,1992-12-11,1.96,2016,21,103.9,3
+72,Aaron,Brooks,Aaron Brooks,Oregon/USA,Oregon,USA,Oregon,USA,1985-01-14,1.83,2007,22,73.0,10
+73,Anthony,Brown,Anthony Brown,Stanford/USA,Stanford,USA,Stanford,USA,1992-10-10,2.01,2015,27,101.6,3
+74,Bobby,Brown,Bobby Brown,CalUnited StatesState-Fullerton/USA,CalUnited StatesState-Fullerton,USA,Cal State-Fullerton,USA,1984-09-24,1.88,2008,,79.4,2
+75,Jaylen,Brown,Jaylen Brown,California/USA,California,USA,California,USA,1996-10-24,2.01,2016,2,99.8,3
+76,Lorenzo,Brown,Lorenzo Brown,North Carolina State/USA,North Carolina State,USA,North Carolina State,USA,1990-08-26,1.96,2013,38,85.7,4
+77,Markel,Brown,Markel Brown,Oklahoma State/USA,Oklahoma State,USA,Oklahoma State,USA,1992-01-29,1.9,2014,14,86.2,3
+78,Nicolas,Brussino,Nicolas Brussino,Argentina/Argentina,Argentina,Argentina,,Argentina,1993-03-02,2.03,2016,,97.5,0
+79,Kobe,Bryant,Kobe Bryant,,,,Lower Merion HS (PA),USA,1978-08-23,1.98,1996,17,96.2,19
+80,Reggie,Buckner,Reggie Buckner,,,,,,,,0,,,0
+81,Chase,Budinger,Chase Budinger,,,,Arizona,USA,1988-05-22,2.01,2009,28,94.8,6
+82,Reggie,Bullock,Reggie Bullock,North Carolina/USA,North Carolina,USA,North Carolina,USA,1991-03-16,2.01,2013,17,93.0,6
+83,Trey,Burke,Trey Burke,Michigan/USA,Michigan,USA,Michigan,USA,1992-11-12,1.85,2013,8,79.4,6
+84,Alec,Burks,Alec Burks,Colorado/USA,Colorado,USA,Colorado,USA,1991-07-20,1.98,2011,30,97.1,8
+85,Caron,Butler,Caron Butler,,,,Connecticut,USA,1980-03-13,2.01,2002,30,103.4,13
+86,Jimmy,Butler,Jimmy Butler,Marquette/USA,Marquette,USA,Marquette,USA,1989-09-14,2.03,2011,27,105.2,8
+87,Bruno,Caboclo,Bruno Caboclo,Brazil/Brazil,Brazil,Brazil,,Brazil,1995-09-21,2.06,2014,19,98.9,5
+88,Jose,Calderon,Jose Calderon,Tau Ceramica/Spain,Tau Ceramica,Spain,"Villanueva de la Serena, Spain",Spain,1981-09-28,1.9,2005,10,90.7,14
+89,Kentavious,Caldwell-Pope,Kentavious Caldwell-Pope,Georgia/USA,Georgia,USA,Georgia,USA,1993-02-18,1.96,2013,17,93.0,6
+90,Mathias,Calfani,Mathias Calfani,,,,,,,,0,89,,0
+91,Isaiah,Canaan,Isaiah Canaan,Murray State/USA,Murray State,USA,Murray State,USA,1991-05-21,,2013,,,0
+92,Clint,Capela,Clint Capela,Switzerland/Switzerland,Switzerland,Switzerland,Switzerland,Switzerland,1994-05-18,2.08,2014,14,108.9,5
+93,DeMarre,Carroll,DeMarre Carroll,Missouri/USA,Missouri,USA,Missouri,USA,1986-07-27,2.03,2009,4,97.5,10
+94,Vince,Carter,Vince Carter,North Carolina/USA,North Carolina,USA,North Carolina,USA,1977-01-26,1.98,1998,1,99.8,21
+95,Michael,Carter-Williams,Michael Carter-Williams,Syracuse/USA,Syracuse,USA,Syracuse,USA,1991-10-10,1.98,2013,26,86.2,6
+96,Omri,Casspi,Omri Casspi,HapoelIsraelGalilIsraelElyon/Israel,HapoelIsraelGalilIsraelElyon,Israel,,Israel,1988-06-22,,2009,,,0
+97,Willie,Cauley-Stein,Willie Cauley-Stein,Kentucky/USA,Kentucky,USA,Kentucky,USA,1993-08-18,2.13,2015,30,108.9,4
+98,Amir,Celestin,Amir Celestin,,,,,,,,0,,,0
+99,Bruno,Cerella,Bruno Cerella,,,,,,,,0,85,,0
+100,Leandro,Cerminato,Leandro Cerminato,,,,,,,,0,89,,0
+101,Tyson,Chandler,Tyson Chandler,Dominguez HS (CA)/USA,Dominguez HS (CA),USA,Dominguez,USA,1982-10-02,2.16,2001,17,108.9,18
+102,Wilson,Chandler,Wilson Chandler,DePaul/USA,DePaul,USA,DePaul,USA,1987-05-10,2.06,2007,16,102.1,12
+103,Orane,Chin,Orane Chin,,,,,,,,0,,,0
+104,Marquese,Chriss,Marquese Chriss,Washington/USA,Washington,USA,Washington,USA,1997-07-02,2.08,2016,7,108.9,3
+105,Rakeem,Christmas,Rakeem Christmas,Syracuse/USA,Syracuse,USA,Syracuse,USA,1991-12-01,2.06,2015,,113.4,1
+106,Semaj,Christon,Semaj Christon,Xavier/USA,Xavier,USA,Xavier,USA,1992-11-01,1.9,2016,,86.2,0
+107,Andrea,Cinciarini,Andrea Cinciarini,,,,,,,,0,85,,0
+108,Ian,Clark,Ian Clark,Belmont University/USA,Belmont University,USA,Belmont,USA,1991-03-07,1.9,2013,23,79.4,6
+109,Jordan,Clarkson,Jordan Clarkson,Missouri/USA,Missouri,USA,Missouri,USA,1992-06-07,1.96,2014,7,88.0,5
+110,Norris,Cole,Norris Cole,Cleveland State/USA,Cleveland State,USA,Cleveland State,USA,1988-10-13,1.88,2011,,79.4,5
+111,Darren,Collison,Darren Collison,UCLA/USA,UCLA,USA,California-Los Angeles,USA,1987-08-23,1.83,2009,15,79.4,10
+112,Nick,Collison,Nick Collison,Kansas/USA,Kansas,USA,Kansas,USA,1980-10-26,2.08,2004,25,115.7,14
+113,Chanan,Colman,Chanan Colman,,,,,,,,0,,,0
+114,Mike,Conley,Mike Conley,Ohio State/USA,Ohio State,USA,Ohio State,USA,1987-10-11,1.85,2007,19,79.4,12
+115,Pat,Connaughton,Pat Connaughton,Notre Dame/USA,Notre Dame,USA,Notre Dame,USA,1993-01-06,1.93,2015,21,94.8,4
+116,Bryce,Cotton,Bryce Cotton,,,,,,,,0,,,0
+117,DeMarcus,Cousins,DeMarcus Cousins,Kentucky/USA,Kentucky,USA,Kentucky,USA,1990-08-13,2.11,2010,11,122.5,9
+118,Robert,Covington,Robert Covington,Tennessee State/USA,Tennessee State,USA,Tennessee State,USA,1990-12-14,2.06,2013,22,102.1,6
+119,Allen,Crabbe,Allen Crabbe,California/USA,California,USA,California,USA,1992-04-09,1.98,2013,4,96.2,6
+120,Jamal,Crawford,Jamal Crawford,Michigan/USA,Michigan,USA,Michigan,USA,1980-03-20,1.96,2000,28,83.9,19
+121,Jae,Crowder,Jae Crowder,Marquette/USA,Marquette,USA,Marquette,USA,1990-07-06,1.98,2012,40,106.6,7
+122,Dante,Cunningham,Dante Cunningham,Villanova/USA,Villanova,USA,Villanova,USA,1987-04-22,2.03,2009,31,104.3,10
+123,Seth,Curry,Seth Curry,DukeUSA/USA,DukeUSA,USA,Duke,USA,1990-08-23,1.88,2013,29,83.9,6
+124,Stephen,Curry,Stephen Curry,Davidson/USA,Davidson,USA,Davidson,USA,1988-03-14,1.9,2009,11,86.2,10
+125,Troy,Daniels,Troy Daniels,Virginia Commonwealth/USA,Virginia Commonwealth,USA,Va Commonwealth,USA,1991-07-15,1.93,2013,28,93.0,6
+126,Anthony,Davis,Anthony Davis,Kentucky/USA,Kentucky,USA,Kentucky,USA,1993-03-11,2.08,2012,23,114.8,7
+127,Deyonta,Davis,Deyonta Davis,Michigan State/USA,Michigan State,USA,Michigan State,USA,1996-12-02,2.11,2016,14,107.5,3
+128,Ed,Davis,Ed Davis,North Carolina/USA,North Carolina,USA,North Carolina,USA,1989-06-05,2.08,2010,4,102.1,9
+129,Branden,Dawson,Branden Dawson,,,,Michigan State,United States,1993-02-01,1.98,2015,16,102.1,0
+130,Robert,Day,Robert Day,,,,,,,,0,83,,0
+131,Dewayne,Dedmon,Dewayne Dedmon,USC/USA,USC,USA,Southern California,USA,1989-08-12,2.13,2013,1,111.1,6
+132,Sam,Dekker,Sam Dekker,Wisconsin/USA,Wisconsin,USA,Wisconsin,USA,1994-05-08,2.06,2015,41,104.3,4
+133,Malcolm,Delaney,Malcolm Delaney,Virginia Tech/USA,Virginia Tech,USA,Virginia Tech,USA,1989-03-11,1.9,2016,1,86.2,2
+134,Matthew,Dellavedova,Matthew Dellavedova,St. Mary's (CA)/Australia,St. Mary's (CA),Australia,Saint Mary's (CA),Australia,1990-09-08,1.93,2013,7,90.7,6
+135,Luol,Deng,Luol Deng,Duke/United Kingdom,Duke,United Kingdom,Duke,United Kingdom,1985-04-16,2.06,2004,22,107.5,15
+136,DeMar,DeRozan,DeMar DeRozan,USC/USA,USC,USA,Southern California,USA,1989-08-07,2.01,2009,31,99.8,10
+137,Atoumane,Diagne,Atoumane Diagne,,,,,,,,0,88,,0
+138,Cheick,Diallo,Cheick Diallo,Kansas/Mali,Kansas,Mali,Kansas,Mali,1996-09-13,2.06,2016,23,99.8,3
+139,Boris,Diaw,Boris Diaw,Pau France Orthez/France,Pau France Orthez,France,"Cormeille-en-Parisis, France",France,1982-04-16,2.03,2003,,113.4,13
+140,John,DiBartolomeo,John DiBartolomeo,,,,,,,,0,,,0
+141,Gorgui,Dieng,Gorgui Dieng,Louisville/Senegal,Louisville,Senegal,Louisville,Senegal,1990-01-18,2.11,2013,22,114.3,6
+142,Spencer,Dinwiddie,Spencer Dinwiddie,Colorado/USA,Colorado,USA,Colorado,USA,1993-04-06,1.98,2014,4,95.3,5
+143,Justin,Doellman,Justin Doellman,,,,,,,,0,88,,0
+144,Luka,Doncic,Luka Doncic,,,,,,,,0,86,,0
+145,Toney,Douglas,Toney Douglas,,,,Florida State,USA,1986-03-16,1.88,2009,23,88.5,6
+146,Goran,Dragic,Goran Dragic,Union Olimpija/Slovenia/Slovenia,,, ,Slovenia,1986-05-06,1.9,2008,20,86.2,11
+147,Andre,Drummond,Andre Drummond,Connecticut/USA,Connecticut,USA,Connecticut,USA,1993-08-10,2.11,2012,10,126.6,7
+148,Jared,Dudley,Jared Dudley,Boston College/USA,Boston College,USA,Boston College,USA,1985-07-10,2.01,2007,4,107.5,12
+149,Duje,Dukan,Duje Dukan,,,,Wisconsin,Croatia,1991-12-04,2.06,2015,30,99.8,0
+150,Tim,Duncan,Tim Duncan,,,,Wake Forest,U.S. Virgin Islands,1976-04-25,2.11,1997,31,113.4,18
+151,Mike,Dunleavy,Mike Dunleavy,Duke/USA,Duke,USA,Duke,USA,1980-09-15,2.06,2002,,104.3,14
+152,Kris,Dunn,Kris Dunn,Providence/USA,Providence,USA,Providence,USA,1994-03-18,1.93,2016,6,93.0,3
+153,Kevin,Durant,Kevin Durant,Texas/USA,Texas,USA,Texas,USA,1988-09-29,2.06,2007,11,108.9,12
+154,Cleanthony,Early,Cleanthony Early,,,,Wichita State,United States,1991-04-17,2.03,2014,24,95.3,1
+155,Jarell,Eddie,Jarell Eddie,Virginia Tech/USA,Virginia Tech,USA,Virginia Tech,USA,1991-10-30,2.01,2015,6,98.9,4
+156,Henry,Ellenson,Henry Ellenson,Marquette/USA,Marquette,USA,Marquette,USA,1997-01-13,2.11,2016,24,111.1,3
+157,Wayne,Ellington,Wayne Ellington,North Carolina/USA,North Carolina,USA,North Carolina,USA,1987-11-29,1.96,2009,10,90.7,10
+158,Monta,Ellis,Monta Ellis,"Lanier HS (Jackson, MS)/USA","Lanier HS (Jackson, MS)",USA,"Lanier HS (Jackson, MS)",USA,1985-10-26,1.9,2005,,83.9,11
+159,Joel,Embiid,Joel Embiid,Kansas/Cameroon,Kansas,Cameroon,Kansas,Cameroon,1994-03-16,2.13,2016,27,113.4,5
+160,James,Ennis III,James Ennis III,Long Beach State/USA,Long Beach State,USA,Cal State-Long Beach,USA,1990-07-01,2.01,2014,27,95.3,5
+161,Tyler,Ennis,Tyler Ennis,Syracuse/Canada,Syracuse,Canada,Syracuse,Canada,1994-08-24,1.9,2014,17,88.0,4
+162,Jeremy,Evans,Jeremy Evans,Western Kentucky/USA,Western Kentucky,USA,Western Kentucky,USA,1987-10-24,2.06,2010,1,90.7,7
+163,Tyreke,Evans,Tyreke Evans,Memphis/USA,Memphis,USA,Memphis,USA,1989-09-19,,2009,,,0
+164,Dante,Exum,Dante Exum,Australia/Australia,Australia,Australia,,Australia,1995-07-13,1.98,2014,40,86.2,5
+165,Festus,Ezeli,Festus Ezeli,Vanderbilt/Nigeria,Vanderbilt,Nigeria,Vanderbilt,Nigeria,1989-10-21,2.11,2012,,120.2,3
+166,Pedro,Faria,Pedro Faria,,,,,,,,0,,,0
+167,Kenneth,Faried,Kenneth Faried,Morehead State/USA,Morehead State,USA,Morehead State,USA,1989-11-19,2.03,2011,14,99.8,8
+168,Jordan,Farmar,Jordan Farmar,,,,UCLA, ,1986-11-30,1.88,2006,19,81.6,8
+169,Derrick,Favors,Derrick Favors,Georgia Tech/USA,Georgia Tech,USA,Georgia Tech,USA,1991-07-15,2.08,2010,40,120.2,9
+170,Kay,Felder,Kay Felder,Oakland University (MI)/USA,Oakland University (MI),USA,Oakland,USA,1995-03-29,1.75,2016,38,79.8,2
+171,Cristiano,Felicio,Cristiano Felicio,Brazil/Brazil,Brazil,Brazil,,Brazil,1992-07-07,2.08,2015,6,120.2,4
+172,Raymond,Felton,Raymond Felton,North Carolina/USA,North Carolina,USA,North Carolina,USA,1984-06-26,1.85,2005,25,93.0,14
+173,Lisandro,Fernandez,Lisandro Fernandez,,,,,,,,0,89,,0
+174,Pol,Figueras,Pol Figueras,,,,,,,,0,88,,0
+175,Dorian,Finney-Smith,Dorian Finney-Smith,Florida/USA,Florida,USA,Florida,USA,1993-05-04,2.03,2016,8,99.8,3
+176,Bryn,Forbes,Bryn Forbes,Michigan State/USA,Michigan State,USA,Michigan State,USA,1993-07-23,1.9,2016,31,86.2,3
+177,Evan,Fournier,Evan Fournier,Poitiers Basket 86/France,Poitiers Basket 86,France, ,France,1992-10-29,2.01,2012,26,93.0,7
+178,Randy,Foye,Randy Foye,Villanova/USA,Villanova,USA,Villanova,USA,1983-09-24,1.93,2006,,98.9,10
+179,Tim,Frazier,Tim Frazier,Penn StateUSA/USA,Penn StateUSA,USA,Penn State,USA,1990-11-01,1.85,2014,21,77.1,5
+180,Channing,Frye,Channing Frye,Arizona/USA,Arizona,USA,Arizona,USA,1983-05-17,2.13,2005,7,115.7,14
+181,Danilo,Gallinari,Danilo Gallinari,Olimpia Milano/Italy,Olimpia Milano,Italy,,Italy,1988-08-08,2.08,2008,16,102.1,11
+182,Langston,Galloway,Langston Galloway,St. Joseph's (PA)USA/USA,St. Joseph's (PA)USA,USA,Saint Joseph's,USA,1991-12-09,1.88,2014,10,90.7,5
+183,Kevin,Garnett,Kevin Garnett,,,,Farragut Academy HS (CHI),United States,1976-05-19,2.11,1995,22,108.9,20
+184,Marc,Gasol,Marc Gasol,FC Barcelona/Spain,FC Barcelona,Spain, ,Spain,1985-01-29,2.16,2008,38,115.7,11
+185,Pau,Gasol,Pau Gasol,FC BarcelonaSpain/Spain,FC BarcelonaSpain,Spain,,Spain,1980-07-06,2.13,2001,21,113.4,18
+186,Rudy,Gay,Rudy Gay,Connecticut/USA,Connecticut,USA,Connecticut,USA,1986-08-17,2.03,2006,31,104.3,13
+187,Michael,Gbinije,Michael Gbinije,Syracuse/USA,Syracuse,USA,Syracuse,USA,1992-06-05,2.01,2016,,90.7,0
+188,Alonzo,Gee,Alonzo Gee,,,,Alabama, ,1987-05-29,1.98,2009,23,102.1,6
+189,Paul,George,Paul George,Fresno State/USA,Fresno State,USA,Fresno State,USA,1990-05-02,2.06,2010,25,99.8,9
+190,Taj,Gibson,Taj Gibson,USC/USA,USC,USA,Southern California,USA,1985-06-24,2.06,2009,22,105.2,10
+191,Manu,Ginobili,Manu Ginobili,Kinder Bologna/Argentina,Kinder Bologna,Argentina,"Bahia Blanca, Argentina",Argentina,1977-07-28,1.98,2002,31,93.0,16
+192,Rudy,Gobert,Rudy Gobert,France/France,France,France,France,France,1992-06-26,2.16,2013,40,111.1,6
+193,Drew,Gooden,Drew Gooden,,,,Kansas,USA,1981-09-24,2.08,2002,41,113.4,13
+194,Archie,Goodwin,Archie Goodwin,Kentucky/USA,Kentucky,USA,Kentucky,USA,1994-08-17,1.96,2013,,93.0,3
+195,Aaron,Gordon,Aaron Gordon,Arizona/USA,Arizona,USA,Arizona,USA,1995-09-16,2.06,2014,26,99.8,5
+196,Eric,Gordon,Eric Gordon,Indiana/USA,Indiana,USA,Indiana,USA,1988-12-25,1.93,2008,14,97.5,11
+197,Marcin,Gortat,Marcin Gortat,RheinEnergie Cologne/Poland,RheinEnergie Cologne,Poland,,Poland,1984-02-17,,2007,,,0
+198,Andrew,Goudelock,Andrew Goudelock,,,,College of Charleston,USA,1988-12-07,1.9,2011,14,90.7,2
+199,Treveon,Graham,Treveon Graham,Virginia Commonwealth/USA,Virginia Commonwealth,USA,Virginia Commonwealth,USA,1993-10-28,1.96,2016,4,102.1,3
+200,Jerami,Grant,Jerami Grant,Syracuse/USA,Syracuse,USA,Syracuse,USA,1994-03-12,2.06,2014,25,99.8,5
+201,Jerian,Grant,Jerian Grant,Notre Dame/USA,Notre Dame,USA,Notre Dame,USA,1992-10-09,1.93,2015,26,93.0,4
+202,WILL,GRAVES,WILL GRAVES,,,,,,,,0,,,0
+203,Danny,Green,Danny Green,North Carolina/USA,North Carolina,USA,North Carolina,USA,1987-06-22,1.98,2009,38,97.5,10
+204,Draymond,Green,Draymond Green,Michigan State/USA,Michigan State,USA,Michigan State,USA,1990-03-04,2.01,2012,11,104.3,7
+205,Gerald,Green,Gerald Green,Gulf Shores Academy (TX)/USA,Gulf Shores Academy (TX),USA,Gulf Shores Academy,USA,1986-01-26,2.01,2005,14,93.0,12
+206,JaMychal,Green,JaMychal Green,Alabama/USA,Alabama,USA,Alabama,USA,1990-06-21,2.06,2014,16,103.0,5
+207,Jeff,Green,Jeff Green,Georgetown/USA,Georgetown,USA,Georgetown,USA,1986-08-28,2.06,2007,41,106.6,11
+208,Blake,Griffin,Blake Griffin,Oklahoma/USA,Oklahoma,USA,Oklahoma,USA,1989-03-16,2.08,2010,10,113.4,10
+209,Jorge,Gutierrez,Jorge Gutierrez,,,,California-Berkeley,Mexico,1988-12-27,1.9,2013,5,85.7,2
+210,PJ,Hairston,PJ Hairston,,,,North Carolina,United States,1992-12-24,1.98,2014,19,104.3,1
+211,Jordan,Hamilton,Jordan Hamilton,,,,Texas,USA,1990-10-06,2.01,2011,23,99.8,4
+212,Justin,Hamilton,Justin Hamilton,,,,,,,,0,,,0
+213,AJ,Hammons,AJ Hammons,Purdue/USA,Purdue,USA,Purdue,USA,1992-08-27,2.13,2016,,117.9,0
+214,Tyler,Hansbrough,Tyler Hansbrough,,,,,,,,0,12,,0
+215,Tim,Hardaway Jr.,Tim Hardaway Jr.,Michigan/USA,Michigan,USA,Michigan,USA,1992-03-16,1.98,2013,8,93.0,6
+216,James,Harden,James Harden,Arizona State/USA,Arizona State,USA,Arizona State,USA,1989-08-26,1.96,2009,14,99.8,10
+217,Maurice,Harkless,Maurice Harkless,St. John's (N.Y.)/USA,St. John's (N.Y.),USA,"St. John's, N.Y.",USA,1993-05-11,2.06,2012,29,99.8,7
+218,Montrezl,Harrell,Montrezl Harrell,Louisville/USA,Louisville,USA,Louisville,USA,1994-01-26,2.03,2015,16,108.9,4
+219,Devin,Harris,Devin Harris,Wisconsin/USA,Wisconsin,USA,Wisconsin,USA,1983-02-27,1.9,2004,8,83.9,15
+220,Gary,Harris,Gary Harris,Michigan State/USA,Michigan State,USA,Michigan State,USA,1994-09-14,1.93,2014,9,95.3,5
+221,Joe,Harris,Joe Harris,Virginia/USA,Virginia,USA,Virginia,USA,1991-09-06,1.98,2014,4,98.9,5
+222,Tobias,Harris,Tobias Harris,Tennessee/USA,Tennessee,USA,Tennessee,USA,1992-07-15,2.06,2011,27,106.6,8
+223,Aaron,Harrison,Aaron Harrison,Kentucky/USA,Kentucky,USA,Kentucky,USA,1994-10-28,1.98,2015,8,95.3,3
+224,Andrew,Harrison,Andrew Harrison,Kentucky/USA,Kentucky,USA,Kentucky,USA,1994-10-28,,2016,,,0
+225,Udonis,Haslem,Udonis Haslem,Florida/USA,Florida,USA,Florida,USA,1980-06-09,2.03,2003,20,106.6,16
+226,Spencer,Hawes,Spencer Hawes,Washington/USA,Washington,USA,Washington,USA,1988-04-28,2.16,2007,,111.1,9
+227,Gordon,Hayward,Gordon Hayward,Butler/USA,Butler,USA,Butler,USA,1990-03-23,2.03,2010,2,102.1,9
+228,Gerald,Henderson,Gerald Henderson,Duke/USA,Duke,USA,Duke,USA,1987-12-09,1.96,2009,,97.5,7
+229,John,Henson,John Henson,North Carolina/USA,North Carolina,USA,North Carolina,USA,1990-12-28,2.11,2012,7,99.3,7
+230,Juancho,Hernangomez,Juancho Hernangomez,Spain/Spain,Spain,Spain,,Spain,1995-09-28,2.06,2016,9,104.3,3
+231,Willy,Hernangomez,Willy Hernangomez,Cajasol Sevilla/Spain,Cajasol Sevilla,Spain,,Spain,1994-05-27,2.11,2016,5,108.9,3
+232,Mario,Hezonja,Mario Hezonja,FC Barcelona/Croatia,FC Barcelona,Croatia, ,Croatia,1995-02-25,2.03,2015,24,102.1,4
+233,Roy,Hibbert,Roy Hibbert,Georgetown/USA,Georgetown,USA,Georgetown,USA,1986-12-11,2.18,2008,,122.5,8
+234,Ricky,Hickman,Ricky Hickman,,,,,,,,0,,,0
+235,JJ,Hickson,JJ Hickson,,,,North Carolina State,USA,1988-09-04,2.06,2008,41,109.8,7
+236,Buddy,Hield,Buddy Hield,Oklahoma/Bahamas,Oklahoma,Bahamas,Oklahoma,Bahamas,1992-12-17,1.93,2016,30,97.1,3
+237,George,Hill,George Hill,IUPUI/USA,IUPUI,USA,IUPUI,USA,1986-05-04,1.9,2008,21,85.3,11
+238,Jordan,Hill,Jordan Hill,Arizona/USA,Arizona,USA,Arizona,USA,1987-07-27,2.08,2009,,108.9,7
+239,Solomon,Hill,Solomon Hill,Arizona/USA,Arizona,USA,Arizona,USA,1991-03-18,2.01,2013,23,102.1,5
+240,Darrun,Hilliard,Darrun Hilliard,Villanova/USA,Villanova,USA,Villanova,USA,1993-04-13,1.98,2015,31,99.8,3
+241,Kirk,Hinrich,Kirk Hinrich,,,,Kansas,USA,1981-01-02,1.93,2003,1,86.2,12
+242,Jrue,Holiday,Jrue Holiday,UCLA/USA,UCLA,USA,UCLA,USA,1990-06-12,1.93,2009,23,93.0,10
+243,Justin,Holiday,Justin Holiday,Washington/USA,Washington,USA,Washington,USA,1989-04-05,1.98,2012,19,82.1,6
+244,John,Holland,John Holland,Boston U./USA,Boston U.,USA,Boston U.,USA,1988-11-06,1.96,2017,7,93.0,1
+245,Rondae,Hollis-Jefferson,Rondae Hollis-Jefferson,Arizona/USA,Arizona,USA,Arizona,USA,1995-01-03,2.01,2015,4,98.4,4
+246,Richaun,Holmes,Richaun Holmes,Bowling Green State/USA,Bowling Green State,USA,Bowling Green,USA,1993-10-15,2.08,2015,28,106.6,4
+247,Rodney,Hood,Rodney Hood,Duke/USA,Duke,USA,Duke,USA,1992-10-20,2.03,2014,29,93.4,5
+248,Al,Horford,Al Horford,Florida/Domincan Republic,Florida,Domincan Republic,Florida,Dominican Republic,1986-06-03,2.08,2007,2,111.1,12
+249,Danuel,House Jr.,Danuel House Jr.,Texas A&M/USA,Texas A&M,USA,Texas A&M,USA,1993-06-07,2.01,2016,14,99.8,3
+250,Dwight,Howard,Dwight Howard,SW Atlanta Christian Academy (GA)/USA,SW Atlanta Christian Academy (GA),USA,Southwest Atlanta Christian Academy,USA,1985-12-08,2.11,2004,41,120.2,15
+251,Marcelo,Huertas,Marcelo Huertas,,,,,Brazil,1983-05-25,1.9,2015,,90.7,0
+252,Josh,Huestis,Josh Huestis,Stanford/USA,Stanford,USA,Stanford,USA,1991-12-19,2.01,2015,31,104.3,3
+253,Kris,Humphries,Kris Humphries,Minnesota/USA,Minnesota,USA,Minnesota,USA,1985-02-06,2.06,2004,,106.6,12
+254,RJ,Hunter,RJ Hunter,Georgia State/USA,Georgia State,USA,Georgia State,USA,1993-10-24,1.96,2015,2,83.9,4
+255,Serge,Ibaka,Serge Ibaka,Ricoh Manresa/Democratic Republic of the Congo,Ricoh Manresa,Democratic Republic of the Congo, ,Democratic Republic of the Congo,1989-09-18,2.08,2009,38,106.6,10
+256,Andre,Iguodala,Andre Iguodala,Arizona/USA,Arizona,USA,Arizona,USA,1984-01-28,1.98,2004,11,97.5,15
+257,Ersan,Ilyasova,Ersan Ilyasova,FC Barcelona/Turkey,FC Barcelona,Turkey,,Turkey,1987-05-15,2.08,2006,21,106.6,12
+258,Joe,Ingles,Joe Ingles,Australia/Australia,Australia,Australia,,Australia,1987-10-02,2.03,2014,40,102.5,5
+259,Damien,Inglis,Damien Inglis,,,,, ,1995-05-20,2.03,2015,21,111.6,0
+260,Brandon,Ingram,Brandon Ingram,Duke/USA,Duke,USA,Duke,USA,1997-09-02,2.06,2016,17,86.2,3
+261,Kyrie,Irving,Kyrie Irving,Duke/Australia,Duke,Australia,Duke,Australia,1992-03-23,1.9,2011,2,87.5,8
+262,Jarrett,Jack,Jarrett Jack,,,,,,,,0,,,0
+263,Demetrius,Jackson,Demetrius Jackson,Notre Dame/USA,Notre Dame,USA,Notre Dame,USA,1994-09-07,1.85,2016,27,91.2,2
+264,Reggie,Jackson,Reggie Jackson,Boston College/USA,Boston College,USA,Boston College,USA,1990-04-16,1.9,2011,10,94.3,8
+265,LeBron,James,LeBron James,St. Vincent-St. Mary HS (OH)/USA,St. Vincent-St. Mary HS (OH),USA,Saint Vincent-Saint Mary,USA,1984-12-30,2.03,2003,17,113.4,16
+266,Al,Jefferson,Al Jefferson,Prentiss HS (MS)/USA,Prentiss HS (MS),USA,Prentiss HS (MS),USA,1985-01-04,2.08,2004,15,127.0,14
+267,Richard,Jefferson,Richard Jefferson,Arizona/USA,Arizona,USA,Arizona,USA,1980-06-21,2.01,2001,9,105.7,17
+268,John,Jenkins,John Jenkins,Vanderbilt/USA,Vanderbilt,USA,Vanderbilt,USA,1991-03-06,1.93,2012,24,97.5,6
+269,Brandon,Jennings,Brandon Jennings,"Oak Hill Academy (Mouth of Wilson, VA)/USA","Oak Hill Academy (Mouth of Wilson, VA)",USA,Oak Hill Academy (VA),USA,1989-09-23,1.85,2009,21,77.1,9
+270,Jonas,Jerebko,Jonas Jerebko,Angelico Biella/Sweden,Angelico Biella,Sweden,,Sweden,1987-03-02,2.08,2009,11,104.8,10
+271,Amir,Johnson,Amir Johnson,"Westchester HS (Los Angeles, CA)/USA","Westchester HS (Los Angeles, CA)",USA,Westchester,USA,1987-05-01,2.06,2005,27,108.9,14
+272,Brice,Johnson,Brice Johnson,North Carolina/USA,North Carolina,USA,North Carolina,USA,1994-06-27,2.08,2016,,104.3,0
+273,Chris,Johnson,Chris Johnson,,,,Dayton,USA,1990-04-29,1.98,2012,40,93.4,3
+274,James,Johnson,James Johnson,Wake Forest/USA,Wake Forest,USA,Wake Forest,USA,1987-02-20,2.03,2009,20,108.9,10
+275,Joe,Johnson,Joe Johnson,Arkansas/USA,Arkansas,USA,Arkansas,USA,1981-06-29,2.01,2001,14,108.9,17
+276,Stanley,Johnson,Stanley Johnson,Arizona/USA,Arizona,USA,Arizona,USA,1996-05-29,2.01,2015,23,111.1,4
+277,Tyler,Johnson,Tyler Johnson,Fresno State/USA,Fresno State,USA,Fresno State,USA,1992-05-07,1.93,2014,28,86.2,5
+278,Wesley,Johnson,Wesley Johnson,Syracuse/USA,Syracuse,USA,Syracuse,USA,1987-07-11,2.01,2010,41,97.5,9
+279,Nikola,Jokic,Nikola Jokic,Serbia/Serbia,Serbia,Serbia, ,Serbia,1995-02-19,2.13,2015,9,113.4,4
+280,Dahntay,Jones,Dahntay Jones,Duke/USA,Duke,USA,Duke,USA,1980-12-27,1.98,2003,,102.1,12
+281,Damian,Jones,Damian Jones,Vanderbilt/USA,Vanderbilt,USA,Vanderbilt,USA,1995-06-30,2.13,2016,11,111.1,3
+282,James,Jones,James Jones,Miami (Fla.)/USA,Miami (Fla.),USA,Miami (FL),USA,1980-10-04,2.03,2003,,98.9,13
+283,Derrick,Jones Jr.,Derrick Jones Jr.,Nevada-Las Vegas/USA,Nevada-Las Vegas,USA,Nevada-Las Vegas,USA,1997-02-15,2.01,2016,20,90.7,3
+284,Terrence,Jones,Terrence Jones,Kentucky/USA,Kentucky,USA,Kentucky,USA,1992-01-09,,2012,,,0
+285,Tyus,Jones,Tyus Jones,Duke/USA,Duke,USA,Duke,USA,1996-05-10,1.88,2015,22,88.9,4
+286,DeAndre,Jordan,DeAndre Jordan,Texas A&M/USA,Texas A&M,USA,Texas A&M,USA,1988-07-21,2.11,2008,24,120.2,11
+287,Cory,Joseph,Cory Joseph,Texas/Canada,Texas,Canada,Texas,Canada,1991-08-20,1.9,2011,15,87.5,8
+288,Nikola,Kalinic,Nikola Kalinic,,,,,,,,0,,,0
+289,Chris,Kaman,Chris Kaman,,,,Central Michigan,USA,1982-04-28,2.13,2003,29,120.2,12
+290,Frank,Kaminsky,Frank Kaminsky,Wisconsin/USA,Wisconsin,USA,Wisconsin,USA,1993-04-04,2.13,2015,5,109.8,4
+291,Enes,Kanter,Enes Kanter,Fenerbahce Ulker/Turkey,Fenerbahce Ulker,Turkey,Kentucky,Turkey,1992-05-20,2.11,2011,29,113.4,8
+292,Sergey,Karasev,Sergey Karasev,,,,Russia,Russia,1993-10-26,2.01,2013,4,94.3,2
+293,Sasha,Kaun,Sasha Kaun,,,,Kansas,Russia,1985-05-08,2.11,2015,7,117.9,0
+294,Ryan,Kelly,Ryan Kelly,Duke/USA,Duke,USA,Duke,USA,1991-04-09,2.11,2013,,104.3,3
+295,Michael,Kidd-Gilchrist,Michael Kidd-Gilchrist,Kentucky/USA,Kentucky,USA,Kentucky,USA,1993-09-26,2.01,2012,5,105.2,7
+296,Sean,Kilpatrick,Sean Kilpatrick,Cincinnati/USA,Cincinnati,USA,Cincinnati,USA,1990-01-06,1.93,2014,6,96.2,4
+297,Brandon,Knight,Brandon Knight,Kentucky/USA,Kentucky,USA,Kentucky,USA,1991-12-02,1.9,2011,7,88.5,8
+298,DANIEL,KOPERBERG,DANIEL KOPERBERG,,,,,,,,0,,,0
+299,Kyle,Korver,Kyle Korver,Creighton/USA,Creighton,USA,Creighton,USA,1981-03-17,2.01,2003,40,96.2,16
+300,Kosta,Koufos,Kosta Koufos,Ohio State/USA,Ohio State,USA,Ohio State,USA,1989-02-24,2.13,2008,30,111.1,11
+301,Mindaugas,Kuzminskas,Mindaugas Kuzminskas,Lithuania/Lithuania,Lithuania,Lithuania,,Lithuania,1989-10-19,2.06,2016,,97.5,0
+302,Skal,Labissiere,Skal Labissiere,Kentucky/Haiti,Kentucky,Haiti,Kentucky,Haiti,1996-03-18,2.11,2016,29,106.6,3
+303,Jeremy,Lamb,Jeremy Lamb,Connecticut/USA,Connecticut,USA,Connecticut,USA,1992-05-30,1.96,2012,5,83.9,7
+304,Carl,Landry,Carl Landry,,,,Purdue,USA,1983-09-19,2.06,2007,27,112.5,8
+305,Nicolas,Laprovittola,Nicolas Laprovittola,,,,,,,,0,31,,0
+306,Shane,Larkin,Shane Larkin,Miami (Fla.)/USA,Miami (Fla.),USA,Miami (FL),USA,1992-10-02,1.8,2013,2,79.4,4
+307,Joffrey,Lauvergne,Joffrey Lauvergne,France/France,France,France,,France,1991-09-30,2.11,2014,31,117.9,4
+308,Zach,LaVine,Zach LaVine,UCLA/USA,UCLA,USA,California-Los Angeles,USA,1995-03-10,1.96,2014,6,90.7,5
+309,Ty,Lawson,Ty Lawson,North Carolina/USA,North Carolina,USA,North Carolina,USA,1987-11-03,1.8,2009,41,88.5,8
+310,Jake,Layman,Jake Layman,Maryland/USA,Maryland,USA,Maryland,USA,1994-03-07,2.06,2016,29,97.5,3
+311,Courtney,Lee,Courtney Lee,Western Kentucky/USA,Western Kentucky,USA,Western Kentucky,USA,1985-10-03,1.96,2008,8,97.5,11
+312,David,Lee,David Lee,Florida/USA,Florida,USA,Florida,USA,1983-04-29,2.06,2005,,111.1,11
+313,Alex,Len,Alex Len,Maryland/Ukraine,Maryland,Ukraine,Maryland,Ukraine,1993-06-16,2.16,2013,1,113.4,6
+314,Kawhi,Leonard,Kawhi Leonard,San Diego State/USA,San Diego State,USA,San Diego State,USA,1991-06-29,2.01,2011,38,104.3,8
+315,Meyers,Leonard,Meyers Leonard,Illinois/USA,Illinois,USA,Illinois,USA,1992-02-27,2.16,2012,29,115.7,7
+316,Jon,Leuer,Jon Leuer,Wisconsin/USA,Wisconsin,USA,Wisconsin,USA,1989-05-14,2.08,2011,21,103.4,8
+317,Caris,LeVert,Caris LeVert,Michigan/USA,Michigan,USA,Michigan,USA,1994-08-25,2.01,2016,4,92.5,3
+318,DeAndre,Liggins,DeAndre Liggins,Kentucky/USA,Kentucky,USA,Kentucky,USA,1988-03-31,1.98,2011,20,94.8,5
+319,Damian,Lillard,Damian Lillard,Weber State/USA,Weber State,USA,Weber State,USA,1990-07-15,1.9,2012,29,88.5,7
+320,Jeremy,Lin,Jeremy Lin,Harvard/USA,Harvard,USA,Harvard,USA,1988-08-23,1.9,2010,38,90.7,9
+321,Shaun,Livingston,Shaun Livingston,Peoria Central HS (IL)USA/USA,Peoria Central HS (IL)USA,USA,No College,USA,1985-09-11,2.01,2004,11,87.1,15
+322,Kevon,Looney,Kevon Looney,UCLA/USA,UCLA,USA,UCLA,USA,1996-02-06,2.06,2015,11,99.8,4
+323,Brook,Lopez,Brook Lopez,Stanford/USA,Stanford,USA,Stanford,USA,1988-04-01,2.13,2008,21,122.5,11
+324,Lautaro,Lopez,Lautaro Lopez,,,,,,,,0,89,,0
+325,Robin,Lopez,Robin Lopez,Stanford/USA,Stanford,USA,Stanford,USA,1988-04-01,2.13,2008,6,124.7,11
+326,Kevin,Love,Kevin Love,UCLA/USA,UCLA,USA,California-Los Angeles,USA,1988-09-07,2.08,2008,7,113.9,11
+327,Kyle,Lowry,Kyle Lowry,Villanova/USA,Villanova,USA,Villanova,USA,1986-03-25,1.85,2006,38,88.9,13
+328,John,Lucas III,John Lucas III,,,,,,,,0,22,,0
+329,Timothe,Luwawu-Cabarrot,Timothe Luwawu-Cabarrot,France/France,France,France,,France,1995-05-09,1.98,2016,6,95.3,3
+330,Rafael,Luz,Rafael Luz,,,,,,,,0,,,0
+331,Trey,Lyles,Trey Lyles,Kentucky/USA,Kentucky,USA,Kentucky,USA,1995-11-05,2.08,2015,9,106.1,4
+332,Shelvin,Mack,Shelvin Mack,Butler/USA,Butler,USA,Butler,USA,1990-04-22,1.9,2011,5,92.1,8
+333,Daniele,Magro,Daniele Magro,,,,,,,,0,85,,0
+334,Ian,Mahinmi,Ian Mahinmi,Pau Orthez/France,Pau Orthez,France,,France,1986-11-05,2.11,2007,41,118.8,12
+335,Thon,Maker,Thon Maker,South Sudan/South Sudan,South Sudan,South Sudan,,South Sudan,1997-02-25,2.16,2016,10,100.2,3
+336,Devyn,Marble,Devyn Marble,,,,Iowa,USA,1992-09-21,1.98,2014,26,90.7,1
+337,Boban,Marjanovic,Boban Marjanovic,Serbia/Serbia,Serbia,Serbia,,Serbia,1988-08-15,2.21,2015,27,131.5,4
+338,Kendall,Marshall,Kendall Marshall,,,,North Carolina,USA,1991-08-19,1.93,2012,27,90.7,3
+339,Jarell,Martin,Jarell Martin,LSU-Shreveport/USA,LSU-Shreveport,USA,Louisiana State,USA,1994-05-24,2.08,2015,26,108.4,4
+340,Kevin,Martin,Kevin Martin,,,,Western Carolina,USA,1983-02-01,2.01,2004,31,90.3,11
+341,Wesley,Matthews,Wesley Matthews,Marquette/USA,Marquette,USA,Marquette,USA,1986-10-14,1.96,2009,15,99.8,10
+342,O.J.,Mayo,O.J. Mayo,,,,Southern California,USA,1987-11-05,1.96,2008,21,95.3,7
+343,Luc,Mbah a Moute,Luc Mbah a Moute,UCLA/Cameroon,UCLA,Cameroon,California-Los Angeles,Cameroon,1986-09-09,,2008,,,0
+344,James Michael,McAdoo,James Michael McAdoo,North Carolina/USA,North Carolina,USA,North Carolina,USA,1993-01-04,2.06,2014,,108.9,2
+345,Patrick,McCaw,Patrick McCaw,Nevada-Las Vegas/USA,Nevada-Las Vegas,USA,UNLV,USA,1995-10-25,2.01,2016,38,83.9,3
+346,Sheldon,McClellan,Sheldon McClellan,Miami (Fla.)/USA,Miami (Fla.),USA,Miami (Fla.),USA,1992-12-21,1.98,2016,,90.7,0
+347,CJ,McCollum,CJ McCollum,Lehigh/USA,Lehigh,USA,Lehigh,USA,1991-09-19,1.9,2013,29,86.2,6
+348,T.J.,McConnell,T.J. McConnell,Arizona/USA,Arizona,USA,Arizona,USA,1992-03-25,1.88,2015,27,86.2,4
+349,Chris,McCullough,Chris McCullough,Syracuse/USA,Syracuse,USA,Syracuse,USA,1995-02-05,2.11,2015,10,90.7,3
+350,KJ,McDaniels,KJ McDaniels,,,,,,,,0,,,0
+351,Doug,McDermott,Doug McDermott,Creighton/USA,Creighton,USA,Creighton,USA,1992-01-03,2.03,2014,15,102.1,5
+352,Mitch,McGary,Mitch McGary,,,,Michigan,United States,1992-06-06,2.08,2014,25,115.7,1
+353,JaVale,McGee,JaVale McGee,Nevada-Reno/USA,Nevada-Reno,USA,Nevada-Reno,USA,1988-01-19,2.13,2008,17,122.5,11
+354,Rodney,McGruder,Rodney McGruder,Kansas State/USA,Kansas State,USA,Kansas State,USA,1991-07-29,1.93,2016,16,90.7,3
+355,Ben,McLemore,Ben McLemore,Kansas/USA,Kansas,USA,Kansas,USA,1993-02-11,,2013,,,0
+356,Jordan,McRae,Jordan McRae, USA/USA, USA,USA,Tennessee,USA,1991-03-28,1.96,2015,41,81.2,3
+357,Josh,McRoberts,Josh McRoberts,Duke/USA,Duke,USA,Duke,USA,1987-02-28,2.08,2007,,108.9,9
+358,Jodie,Meeks,Jodie Meeks,Kentucky/USA,Kentucky,USA,Kentucky,USA,1987-08-21,1.93,2009,38,95.3,10
+359,Salah,Mejri,Salah Mejri,Tunisia/Tunisia,Tunisia,Tunisia,,Tunisia,1986-06-15,2.18,2015,8,106.6,4
+360,Jordan,Mickey,Jordan Mickey,Louisiana State/USA,Louisiana State,USA,Louisiana State,USA,1994-07-09,2.03,2015,20,106.6,3
+361,Khris,Middleton,Khris Middleton,Texas A&M/USA,Texas A&M,USA,Texas A&M,USA,1991-08-12,2.03,2012,21,100.7,7
+362,CJ,Miles,CJ Miles,"Skyline HS (Dallas, TX)USA/USA","Skyline HS (Dallas, TX)USA",USA,Skyline,USA,1987-03-18,1.98,2005,19,99.8,14
+363,Andre,Miller,Andre Miller,,,,Utah,USA,1976-03-19,1.9,1999,31,90.7,16
+364,Mike,Miller,Mike Miller,FloridaUSA/USA,FloridaUSA,USA,Florida,USA,1980-02-19,2.03,2000,,98.9,16
+365,Patty,Mills,Patty Mills,St. Mary's (CA)/Australia,St. Mary's (CA),Australia,St. Mary's (CA),Australia,1988-08-11,1.83,2009,31,81.6,10
+366,Paul,Millsap,Paul Millsap,Louisiana TechUSA/USA,Louisiana TechUSA,USA,Louisiana Tech,USA,1985-02-10,2.03,2006,9,111.6,13
+367,Nikola,Mirotic,Nikola Mirotic,Montenegro/Montenegro,Montenegro,Montenegro,,Montenegro,1991-02-11,2.08,2014,21,113.4,5
+368,Nazr,Mohammed,Nazr Mohammed,,,,Kentucky,USA,1977-09-05,2.08,1998,25,113.4,17
+369,Greg,Monroe,Greg Monroe,Georgetown/USA,Georgetown,USA,Georgetown,USA,1990-06-04,2.11,2010,27,120.2,9
+370,Luis,Montero,Luis Montero,,,,Westchester CC NY,Dominican Republic,1993-04-06,2.01,2015,29,83.9,0
+371,E'Twaun,Moore,E'Twaun Moore,Purdue/USA,Purdue,USA,Purdue,USA,1989-02-25,1.93,2011,23,86.6,8
+372,Eric,Moreland,Eric Moreland,Oregon State/USA,Oregon State,USA,Oregon State,USA,1991-12-24,2.08,2014,38,108.0,4
+373,Marcus,Morris,Marcus Morris,Kansas/USA,Kansas,USA,Kansas,USA,1989-09-02,2.06,2011,2,106.6,8
+374,Markieff,Morris,Markieff Morris,Kansas/USA,Kansas,USA,Kansas,USA,1989-09-02,2.08,2011,25,111.1,8
+375,Anthony,Morrow,Anthony Morrow,Georgia Tech/USA,Georgia Tech,USA,Georgia Tech,USA,1985-09-27,1.96,2008,,95.3,8
+376,Donatas,Motiejunas,Donatas Motiejunas,"Kaunas, Lithuania/Lithuania","Kaunas, Lithuania",Lithuania,Lithuania,Lithuania,1990-09-20,2.13,2012,31,99.8,6
+377,Timofey,Mozgov,Timofey Mozgov,Khimki Moscow/Russia,Khimki Moscow,Russia,"St. Petersburg, Russia",Russia,1986-07-16,2.16,2010,26,124.7,9
+378,Emmanuel,Mudiay,Emmanuel Mudiay,Guangdong/DRC,Guangdong,DRC,,Democratic Republic of the Congo,1996-03-05,1.96,2015,24,90.7,4
+379,Shabazz,Muhammad,Shabazz Muhammad,UCLA/USA,UCLA,USA,UCLA,USA,1992-11-13,1.96,2013,21,102.1,5
+380,Ali,Muhammed,Ali Muhammed,,,,,,,,0,,,0
+381,Xavier,Munford,Xavier Munford,Rhode Island/USA,Rhode Island,USA,Rhode Island,USA,1992-06-01,1.93,2015,11,78.5,2
+382,Dejounte,Murray,Dejounte Murray,Washington/USA,Washington,USA,Washington,USA,1996-09-19,1.96,2016,31,77.1,3
+383,Jamal,Murray,Jamal Murray,Kentucky/Canada,Kentucky,Canada,Kentucky,Canada,1997-02-23,1.93,2016,9,93.9,3
+384,Mike,Muscala,Mike Muscala,Bucknell/USA,Bucknell,USA,Bucknell,USA,1991-07-01,2.11,2013,17,108.9,6
+385,Larry,Nance Jr.,Larry Nance Jr.,Wyoming/USA,Wyoming,USA,Wyoming,USA,1993-01-01,2.06,2015,7,104.3,4
+386,Shabazz,Napier,Shabazz Napier,Connecticut/USA,Connecticut,USA,Connecticut,USA,1991-07-14,1.85,2014,4,81.6,5
+387,Maurice,Ndour,Maurice Ndour,Ohio U./Senegal,Ohio U.,Senegal,Ohio U.,Senegal,1992-06-18,2.06,2016,,90.7,0
+388,Jameer,Nelson,Jameer Nelson,Saint Joseph's/USA,Saint Joseph's,USA,Saint Joseph's,USA,1982-02-09,1.83,2004,10,86.2,14
+389,Nene,,Nene ,Vasco de Gama/Brazil,Vasco de Gama,Brazil, ,Brazil,1982-09-13,2.11,2002,14,113.4,17
+390,Raul,Neto,Raul Neto,Brazil/Brazil,Brazil,Brazil, ,Brazil,1992-05-19,1.85,2015,40,81.2,4
+391,Georges,Niang,Georges Niang,Iowa State/USA,Iowa State,USA,Iowa State,USA,1993-06-17,2.03,2016,40,104.3,3
+392,Andrew,Nicholson,Andrew Nicholson,St. Bonaventure/Canada,St. Bonaventure,Canada,St. Bonaventure,Canada,1989-12-08,2.06,2012,,113.4,4
+393,Joakim,Noah,Joakim Noah,Florida/USA,Florida,USA,Florida,USA,1985-02-25,2.11,2007,19,104.3,12
+394,Nerlens,Noel,Nerlens Noel,Kentucky/USA,Kentucky,USA,Kentucky,USA,1994-04-10,2.11,2014,25,99.8,6
+395,Lucas,Nogueira,Lucas Nogueira,Brazil/Brazil,Brazil,Brazil,,Brazil,1992-07-26,2.13,2014,38,99.8,4
+396,Steve,Novak,Steve Novak,,,,Marquette,United States,1983-06-13,2.08,2006,,102.1,9
+397,Dirk,Nowitzki,Dirk Nowitzki,Germany/Germany,Germany,Germany,,Germany,1978-06-19,2.13,1998,8,111.1,21
+398,Jusuf,Nurkic,Jusuf Nurkic,Boznia & Herzegovina/Bosnia and Herzegovina,Boznia & Herzegovina,Bosnia and Herzegovina, ,Bosnia and Herzegovina,1994-08-23,2.13,2014,29,124.7,5
+399,Johnny,O'Bryant III,Johnny O'Bryant III,Louisiana State/USA,Louisiana State,USA,Louisiana State,USA,1993-06-01,2.06,2014,,116.6,2
+400,Kyle,O'Quinn,Kyle O'Quinn,Norfolk State/USA,Norfolk State,USA,Norfolk State,USA,1990-03-26,2.08,2012,15,113.4,7
+401,Daniel,Ochefu,Daniel Ochefu,Villanova/USA,Villanova,USA,Villanova,USA,1993-12-15,2.11,2016,,111.1,0
+402,Jahlil,Okafor,Jahlil Okafor,Duke/USA,Duke,USA,Duke,USA,1995-12-15,2.11,2015,23,124.7,4
+403,Victor,Oladipo,Victor Oladipo,Indiana/USA,Indiana,USA,Indiana,USA,1992-05-04,1.93,2013,15,95.3,6
+404,Kelly,Olynyk,Kelly Olynyk,Gonzaga/Canada,Gonzaga,Canada,Gonzaga,Canada,1991-04-19,2.13,2013,20,108.9,6
+405,Arinze,Onuaku,Arinze Onuaku,,,,,,,,0,26,,0
+406,Chinanu,Onuaku,Chinanu Onuaku,Louisville/USA,Louisville,USA,Louisville,USA,1996-11-01,2.08,2016,29,111.1,2
+407,Kelly,Oubre Jr.,Kelly Oubre Jr.,Kansas/USA,Kansas,USA,Kansas,USA,1995-12-09,2.01,2015,28,93.0,4
+408,Zaza,Pachulia,Zaza Pachulia,UlkersporGeorgia/Georgia,UlkersporGeorgia,Georgia,,Georgia,1984-02-10,2.11,2003,10,122.5,16
+409,Georgios,Papagiannis,Georgios Papagiannis,Greece/Greece,Greece,Greece,,Greece,1997-07-03,2.16,2016,29,108.9,2
+410,Jabari,Parker,Jabari Parker,Duke/USA,Duke,USA,Duke,USA,1995-03-15,2.03,2014,41,111.1,5
+411,Tony,Parker,Tony Parker,Paris BR/France,Paris BR,France,,France,1982-05-17,1.88,2001,5,83.9,17
+412,Chandler,Parsons,Chandler Parsons,Florida/USA,Florida,USA,Florida,USA,1988-10-25,2.08,2011,19,104.3,8
+413,Lamar,Patterson,Lamar Patterson,,,,Pittsburgh, ,1991-08-12,1.96,2015,1,102.1,0
+414,Patrick,Patterson,Patrick Patterson,Kentucky/USA,Kentucky,USA,Kentucky,USA,1989-03-14,2.06,2010,25,104.3,9
+415,Chris,Paul,Chris Paul,Wake Forest/USA,Wake Forest,USA,Wake Forest,USA,1985-05-06,1.83,2005,14,79.4,14
+416,Adreian,Payne,Adreian Payne,Michigan State/USA,Michigan State,USA,Michigan State,USA,1991-02-19,2.08,2014,,107.5,2
+417,Cameron,Payne,Cameron Payne,Murray State/USA,Murray State,USA,Murray State,USA,1994-08-08,,2015,,,0
+418,Elfrid,Payton,Elfrid Payton,Louisiana-Lafayette/USA,Louisiana-Lafayette,USA,Louisiana-Lafayette,USA,1994-02-22,1.93,2014,23,83.9,5
+419,Nikola,Pekovic,Nikola Pekovic,Panathinaikos/Montenegro,Panathinaikos,Montenegro,Montenegro,Montenegro,1986-01-03,2.11,2010,,139.3,6
+420,Stefan,Peno,Stefan Peno,,,,,,,,0,88,,0
+421,ALEX,PEREZ,ALEX PEREZ,,,,,,,,0,,,0
+422,Kendrick,Perkins,Kendrick Perkins,Clifton J. Ozen HS (TX)/USA,Clifton J. Ozen HS (TX),USA,Clifton J. Ozen HS (TX),USA,1984-11-10,2.08,2003,7,122.5,14
+423,Paul,Pierce,Paul Pierce,Kansas/USA,Kansas,USA,Kansas,USA,1977-10-13,2.01,1998,,106.6,18
+424,Tibor,Pleiss,Tibor Pleiss,,,,,Germany,1989-11-02,2.21,2015,40,116.1,0
+425,Marshall,Plumlee,Marshall Plumlee,Duke/USA,Duke,USA,Duke,USA,1992-07-14,2.13,2016,21,113.4,2
+426,Mason,Plumlee,Mason Plumlee,Duke/USA,Duke,USA,Duke,USA,1990-03-05,2.11,2013,9,106.6,6
+427,Miles,Plumlee,Miles Plumlee,Duke/USA,Duke,USA,Duke,USA,1988-09-01,2.11,2012,1,112.9,7
+428,Jakob,Poeltl,Jakob Poeltl,Utah/Austria,Utah,Austria,Utah,Austria,1995-10-15,2.13,2016,31,104.3,3
+429,Quincy,Pondexter,Quincy Pondexter,Washington/USA,Washington,USA,Washington,USA,1988-03-10,2.01,2010,31,104.3,9
+430,Otto,Porter Jr.,Otto Porter Jr.,Georgetown/USA,Georgetown,USA,Georgetown,USA,1993-06-03,2.03,2013,6,89.8,6
+431,Bobby,Portis,Bobby Portis,Arkansas/USA,Arkansas,USA,Arkansas,USA,1995-02-10,2.11,2015,41,113.4,4
+432,Kristaps,Porzingis,Kristaps Porzingis,Cajasol Sevilla/Latvia,Cajasol Sevilla,Latvia, ,Latvia,1995-08-02,2.21,2015,8,108.9,4
+433,Dwight,Powell,Dwight Powell,Stanford/Canada,Stanford,Canada,Stanford,Canada,1991-07-20,2.11,2014,8,108.9,5
+434,Norman,Powell,Norman Powell,UCLA/USA,UCLA,USA,California-Los Angeles,USA,1993-05-25,1.93,2015,38,97.5,4
+435,Ronnie,Price,Ronnie Price,Utah Valley University/USA,Utah Valley University,USA,Utah Valley, ,1983-06-21,1.88,2005,,86.2,11
+436,Pablo,Prigioni,Pablo Prigioni,,,,Argentina,Argentina,1977-05-17,1.9,2012,16,83.9,3
+437,Taurean,Prince,Taurean Prince,Baylor/USA,Baylor,USA,Baylor,USA,1994-03-22,2.03,2016,1,99.8,3
+438,Tayshaun,Prince,Tayshaun Prince,,,,Kentucky,USA,1980-02-28,2.06,2002,22,96.2,13
+439,Tim,Quarterman,Tim Quarterman,Louisiana State/USA,Louisiana State,USA,Louisiana State,USA,1994-10-27,1.98,2016,,86.2,0
+440,Dino,Radoncic,Dino Radoncic,,,,,,,,0,86,,0
+441,Julius,Randle,Julius Randle,Kentucky/USA,Kentucky,USA,Kentucky,USA,1994-11-29,2.06,2014,23,113.4,5
+442,Zach,Randolph,Zach Randolph,,,,,,,,0,,,0
+443,EVAN,RAVENEL,EVAN RAVENEL,,,,,,,,0,,,0
+444,JJ,Redick,JJ Redick,Duke/USA,Duke,USA,Duke,USA,1984-06-24,1.93,2006,27,90.7,13
+445,Willie,Reed,Willie Reed,St. Louis/USA,St. Louis,USA,Saint Louis,USA,1990-05-16,2.11,2015,,111.1,1
+446,Josh,Richardson,Josh Richardson,Tennessee/USA,Tennessee,USA,Tennessee,USA,1993-09-15,1.98,2015,20,90.7,4
+447,Malachi,Richardson,Malachi Richardson,Syracuse/USA,Syracuse,USA,Syracuse,USA,1996-01-05,1.98,2016,27,93.0,2
+448,Austin,Rivers,Austin Rivers,Duke/USA,Duke,USA,Duke,USA,1992-08-01,1.93,2012,14,90.7,7
+449,Andre,Roberson,Andre Roberson,Colorado/USA,Colorado,USA,Colorado,USA,1991-12-04,2.01,2013,25,95.3,6
+450,Brian,Roberts,Brian Roberts,Dayton/USA,Dayton,USA,Dayton,USA,1985-12-03,1.85,2012,,78.5,4
+451,Glenn,Robinson III,Glenn Robinson III,Michigan/USA,Michigan,USA,Michigan,USA,1994-01-08,1.98,2014,10,100.7,5
+452,Jason,Robinson,Jason Robinson,,,,,,,,0,,,0
+453,Thomas,Robinson,Thomas Robinson,,,,,,,,0,,,0
+454,Sergio,Rodriguez,Sergio Rodriguez,"Tenerife, Spain/Spain","Tenerife, Spain",Spain,"Tenerife, Spain",Spain,1986-06-12,1.9,2006,,79.8,4
+455,Rajon,Rondo,Rajon Rondo,Kentucky/USA,Kentucky,USA, ,USA,1986-02-22,1.85,2006,17,84.4,13
+456,Derrick,Rose,Derrick Rose,Memphis/USA,Memphis,USA,Memphis,USA,1988-10-04,1.9,2008,22,90.7,11
+457,Terrence,Ross,Terrence Ross,Washington/USA,Washington,USA,Washington,USA,1991-02-05,2.01,2012,26,93.4,7
+458,Terry,Rozier,Terry Rozier,Louisville/USA,Louisville,USA,Louisville,USA,1994-03-17,1.85,2015,2,86.2,4
+459,Ricky,Rubio,Ricky Rubio,FC Barcelona/Spain,FC Barcelona,Spain,,Spain,1990-10-21,1.93,2011,40,86.2,8
+460,Damjan,Rudez,Damjan Rudez,Croatia/Croatia,Croatia,Croatia,,Croatia,1986-06-17,2.08,2014,,103.4,2
+461,Brandon,Rush,Brandon Rush,KansasUSA/USA,KansasUSA,USA,Kansas,USA,1985-07-07,1.98,2008,,102.1,8
+462,D'Angelo,Russell,D'Angelo Russell,Ohio State/USA,Ohio State,USA,Ohio State,USA,1996-02-23,1.96,2015,4,89.8,4
+463,Domantas,Sabonis,Domantas Sabonis,Gonzaga/Lithuania,Gonzaga,Lithuania,Gonzaga,Lithuania,1996-05-03,2.11,2016,15,108.9,3
+464,Robert,Sacre,Robert Sacre,,,,Gonzaga,Canada,1989-06-06,2.13,2012,17,122.5,3
+465,Selem,Safar,Selem Safar,,,,,,,,0,89,,0
+466,JaKarr,Sampson,JaKarr Sampson,St. John's (NY)/USA,St. John's (NY),USA,St. John's (NY),USA,1993-03-20,,2014,,,0
+467,Matias,Sandes,Matias Sandes,,,,,,,,0,89,,0
+468,Dario,Saric,Dario Saric,Anadolu Efes (Turkey)/Croatia,Anadolu Efes (Turkey),Croatia,,Croatia,1994-04-08,2.08,2016,22,101.2,3
+469,NIR,SARID,NIR SARID,,,,,,,,0,,,0
+470,Tomas,Satoransky,Tomas Satoransky, Czech Republic/Czech Republic, Czech Republic,Czech Republic, ,Czech Republic,1991-10-30,2.01,2016,41,95.3,3
+471,Santiago,Scala,Santiago Scala,,,,,,,,0,89,,0
+472,Dennis,Schroder,Dennis Schroder,Germany/Germany,Germany,Germany, ,Germany,1993-09-15,1.85,2013,25,78.0,6
+473,Luis,Scola,Luis Scola,,,,"Buenos Aires, Argentina",Argentina,1980-04-30,2.06,2007,,108.9,8
+474,Mike,Scott,Mike Scott,Virginia/USA,Virginia,USA,Virginia,USA,1988-07-16,2.03,2012,27,107.5,7
+475,Thabo,Sefolosha,Thabo Sefolosha,Angelico Biella/Switzerland,Angelico Biella,Switzerland, ,Switzerland,1984-05-02,2.01,2006,40,99.8,13
+476,Kevin,Seraphin,Kevin Seraphin,Cholet Basket/France,Cholet Basket,France,Le Moyne,France,1989-12-07,2.08,2010,,126.1,6
+477,Ramon,Sessions,Ramon Sessions,Nevada-Reno/USA,Nevada-Reno,USA,Nevada,USA,1986-04-11,1.9,2007,41,86.2,11
+478,Iman,Shumpert,Iman Shumpert,Georgia Tech/USA,Georgia Tech,USA,Georgia Tech,USA,1990-06-26,1.96,2011,14,97.5,8
+479,Pascal,Siakam,Pascal Siakam,New Mexico State/Cameroon,New Mexico State,Cameroon,New Mexico State,Cameroon,1994-04-02,2.06,2016,38,104.3,3
+480,AMIT,SIMHON,AMIT SIMHON,,,,,,,,0,,,0
+481,Ben,Simmons,Ben Simmons,Louisiana State/Australia,Louisiana State,Australia,Louisiana State,Australia,1996-07-20,2.08,2017,27,104.3,3
+482,Jonathon,Simmons,Jonathon Simmons, USA/USA, USA,USA,Houston,USA,1989-09-14,1.98,2015,27,88.5,4
+483,Henry,Sims,Henry Sims,,,,Georgetown,United States,1990-03-27,2.08,2012,4,112.5,3
+484,Kyle,Singler,Kyle Singler,Duke/USA,Duke,USA,Duke,USA,1988-05-04,2.03,2012,25,103.4,6
+485,Donald,Sloan,Donald Sloan,,,,,,,,0,,,0
+486,Marcus,Smart,Marcus Smart,Oklahoma State/USA,Oklahoma State,USA,Oklahoma State,USA,1994-03-06,1.93,2014,2,99.8,5
+487,Greg,Smith,Greg Smith,,,,Fresno State,USA,1991-01-08,2.08,2011,22,113.4,4
+488,Ish,Smith,Ish Smith,Wake Forest/USA,Wake Forest,USA,Wake Forest,USA,1988-07-05,1.83,2010,10,79.4,9
+489,JR,Smith,JR Smith,"St. Benedict's Prep (Newark, NJ)/USA","St. Benedict's Prep (Newark, NJ)",USA,No College,USA,1985-09-09,1.98,2004,7,102.1,15
+490,Jason,Smith,Jason Smith,Colorado State/USA,Colorado State,USA,Colorado State,USA,1986-03-02,,2007,,,0
+491,Josh,Smith,Josh Smith,,,,Oak Hill Academy (VA),USA,1985-12-05,2.06,2004,14,102.1,11
+492,Tony,Snell,Tony Snell,New Mexico/USA,New Mexico,USA, ,USA,1991-11-10,2.01,2013,10,96.6,6
+493,Marreese,Speights,Marreese Speights,,,,,,,,0,,,0
+494,Nigel,Spikes,Nigel Spikes,,,,,,,,0,,,0
+495,Tiago,Splitter,Tiago Splitter,Saski Baskonia/Brazil,Saski Baskonia,Brazil,"Blumenau, Brazil",Brazil,1985-01-01,2.11,2010,,111.1,6
+496,Nik,Stauskas,Nik Stauskas,Michigan/Canada,Michigan,Canada,Michigan,Canada,1993-10-07,1.98,2014,7,93.0,5
+497,Lance,Stephenson,Lance Stephenson,Cincinnati/USA,Cincinnati,USA,Cincinnati,USA,1990-09-05,1.98,2010,17,104.3,9
+498,Jarnell,Stokes,Jarnell Stokes,Tennessee/USA,Tennessee,USA,Tennessee,USA,1994-01-07,2.06,2014,19,115.7,3
+499,Diamond,Stone,Diamond Stone,Maryland/USA,Maryland,USA,Maryland,USA,1997-02-10,2.11,2016,,115.7,0
+500,Amar'e,Stoudemire,Amar'e Stoudemire,,,,Cypress Creek (FL),USA,1982-11-16,2.08,2002,20,111.1,13
+501,Rodney,Stuckey,Rodney Stuckey,,,,Eastern Washington, ,1986-04-21,1.96,2007,,93.0,8
+502,Alex,Suarez,Alex Suarez,,,,,,,,0,86,,0
+503,Jared,Sullinger,Jared Sullinger,,,,Ohio State,United States,1992-03-04,2.06,2012,,117.9,3
+504,Edy,Tavares,Edy Tavares,CapeCabo VerdeVerde/Cabo Verde,CapeCabo VerdeVerde,Cabo Verde,,Cabo Verde,1992-03-22,2.21,2015,,120.2,1
+505,Jeff,Teague,Jeff Teague,Wake Forest/USA,Wake Forest,USA,Wake Forest,USA,1988-06-10,1.88,2009,22,88.5,10
+506,Mirza,Teletovic,Mirza Teletovic,Caja Laboral Vitoria (Spain)/Boznia & Herzegovina,Caja Laboral Vitoria (Spain),Boznia & Herzegovina,Bosnia,Bosnia,1985-09-17,2.06,2012,,111.1,4
+507,Garrett,Temple,Garrett Temple,Louisiana State/USA,Louisiana State,USA,Louisiana State,USA,1986-05-08,1.98,2009,16,88.5,9
+508,Jason,Terry,Jason Terry,Arizona/USA,Arizona,USA,Arizona,USA,1977-09-15,1.88,1999,21,83.9,19
+509,Samba,Thiago,Samba Thiago,,,,,,,,0,86,,0
+510,Isaiah,Thomas,Isaiah Thomas,Washington/USA,Washington,USA,Washington,USA,1989-02-07,1.75,2011,9,83.9,8
+511,Lance,Thomas,Lance Thomas,Duke/USA,Duke,USA,Duke,USA,1988-04-24,2.03,2011,24,108.9,8
+512,Hollis,Thompson,Hollis Thompson,,,,Georgetown,USA,1991-04-03,2.03,2013,,93.4,2
+513,Jason,Thompson,Jason Thompson,,,,Rider,USA,1986-07-21,2.11,2008,38,113.4,7
+514,Klay,Thompson,Klay Thompson,Washington State/USA,Washington State,USA,Washington State,USA,1990-02-08,2.01,2011,11,97.5,8
+515,Tristan,Thompson,Tristan Thompson,Texas/Canada,Texas,Canada,Texas,Canada,1991-03-13,2.08,2011,7,108.0,8
+516,Marcus,Thornton,Marcus Thornton,,,,Louisiana State,USA,1987-06-05,1.93,2009,,93.0,6
+517,Anthony,Tolliver,Anthony Tolliver,Creighton/USA,Creighton,USA,Creighton,USA,1985-06-01,2.03,2008,22,113.4,11
+518,Axel,Toupane,Axel Toupane,France/France,France,France,,France,1992-07-23,2.01,2015,,95.3,1
+519,Karl-Anthony,Towns,Karl-Anthony Towns,Kentucky/USA,Kentucky,USA,Kentucky,USA,1995-11-15,2.13,2015,22,112.5,4
+520,PJ,Tucker,PJ Tucker,Texas/USA,Texas,USA,Texas,USA,1985-05-05,1.98,2006,14,111.1,8
+521,Evan,Turner,Evan Turner,Ohio State/USA,Ohio State,USA,Ohio State,USA,1988-10-27,2.01,2010,1,99.8,9
+522,Myles,Turner,Myles Turner,Texas/USA,Texas,USA,Texas,USA,1996-03-24,2.11,2015,15,113.4,4
+523,Beno,Udrih,Beno Udrih,Breil Milano/Slovenia,Breil Milano,Slovenia,"Sempeter, Slovenia",Slovenia,1982-07-05,1.9,2004,,93.0,12
+524,Tyler,Ulis,Tyler Ulis,Kentucky/USA,Kentucky,USA,Kentucky,USA,1996-01-05,,2016,,,0
+525,Jonas,Valanciunas,Jonas Valanciunas,"Utena, Lithuania/Lithuania","Utena, Lithuania",Lithuania, ,Lithuania,1992-05-06,2.13,2012,19,120.2,7
+526,Denzel,Valentine,Denzel Valentine,Michigan State/USA,Michigan State,USA,Michigan State,USA,1993-11-16,1.98,2016,6,95.3,3
+527,Fred,VanVleet,Fred VanVleet,Wichita State/USA,Wichita State,USA,Wichita State,USA,1994-02-25,1.83,2016,38,88.5,3
+528,Anderson,Varejao,Anderson Varejao,,,,,,,,0,,,0
+529,Gregory,Vargas,Gregory Vargas,,,,,,,,0,,,0
+530,Greivis,Vasquez,Greivis Vasquez,,,,Maryland,Venezuela,1987-01-16,1.98,2010,,98.4,5
+531,Rashad,Vaughn,Rashad Vaughn,Nevada-Las Vegas/USA,Nevada-Las Vegas,USA,UNLV,USA,1996-08-16,1.98,2015,8,95.3,3
+532,Charlie,Villanueva,Charlie Villanueva,,,,Connecticut,USA,1984-08-24,2.11,2005,8,105.2,10
+533,Noah,Vonleh,Noah Vonleh,Indiana/USA,Indiana,USA,Indiana,USA,1995-08-24,2.06,2014,24,113.4,5
+534,Nikola,Vucevic,Nikola Vucevic,USCMontenegro/Montenegro,USCMontenegro,Montenegro,USC,Montenegro,1990-10-24,2.13,2011,26,117.9,8
+535,Sasha,Vujacic,Sasha Vujacic,"Maribor, Slovenia/Slovenia","Maribor, Slovenia",Slovenia,"Maribor, Slovenia",Slovenia,1984-03-08,2.01,2004,,88.5,9
+536,Dwyane,Wade,Dwyane Wade,Marquette/USA,Marquette,USA,Marquette,USA,1982-01-17,1.93,2003,20,99.8,16
+537,Dion,Waiters,Dion Waiters,Syracuse/USA,Syracuse,USA,Syracuse,USA,1991-12-10,1.93,2012,20,97.5,7
+538,Kemba,Walker,Kemba Walker,Connecticut/USA,Connecticut,USA,Connecticut,USA,1990-05-08,1.85,2011,5,83.5,8
+539,John,Wall,John Wall,Kentucky/USA,Kentucky,USA,Kentucky,USA,1990-09-06,1.93,2010,41,95.3,9
+540,T.J.,Warren,T.J. Warren,North Carolina State/USA,North Carolina State,USA,North Carolina State,USA,1993-09-05,2.03,2014,28,97.5,5
+541,C.J.,Watson,C.J. Watson,Tennessee/USA,Tennessee,USA,Tennessee,USA,1984-04-17,1.88,2007,,79.4,9
+542,Briante,Weber,Briante Weber,,,,,,,,0,,,0
+543,David,West,David West,Xavier (Ohio)/USA,Xavier (Ohio),USA,Xavier,USA,1980-08-29,2.06,2003,11,113.4,15
+544,Russell,Westbrook,Russell Westbrook,UCLA/USA,UCLA,USA,UCLA,USA,1988-11-12,1.9,2008,25,90.7,11
+545,Isaiah,Whitehead,Isaiah Whitehead,Seton Hall/USA,Seton Hall,USA,Seton Hall,USA,1995-03-08,1.93,2016,10,96.6,3
+546,Hassan,Whiteside,Hassan Whiteside,MarshallUSA/USA,MarshallUSA,USA,Marshall,USA,1989-06-13,2.13,2010,20,120.2,7
+547,Shayne,Whittington,Shayne Whittington,,,,Western Michigan,USA,1991-03-27,2.11,2014,15,113.4,1
+548,Andrew,Wiggins,Andrew Wiggins,Kansas/Canada,Kansas,Canada,Kansas,Canada,1995-02-23,2.03,2014,22,88.0,5
+549,CJ,Wilcox,CJ Wilcox,Washington/USA,Washington,USA,Washington,USA,1990-12-30,1.96,2014,15,88.5,3
+550,Alan,Williams,Alan Williams,California-Santa Barbara/USA,California-Santa Barbara,USA,California-Santa Barbara,USA,1993-01-28,2.03,2015,4,120.2,4
+551,Deron,Williams,Deron Williams,Illinois/USA,Illinois,USA,Illinois,USA,1984-06-26,1.9,2005,,90.7,11
+552,Derrick,Williams,Derrick Williams,Arizona/USA,Arizona,USA,Arizona,USA,1991-05-25,2.03,2011,,108.9,5
+553,Lou,Williams,Lou Williams,"South Gwinnett HS (Snellville, GA)/USA","South Gwinnett HS (Snellville, GA)",USA,South Gwinnett,USA,1986-10-27,1.85,2005,16,79.4,14
+554,Marvin,Williams,Marvin Williams,North CarolinaUSA/USA,North CarolinaUSA,USA,North Carolina,USA,1986-06-19,2.06,2005,5,107.5,14
+555,Mo,Williams,Mo Williams,,,,Alabama,United States,1982-12-19,1.85,2003,,89.8,12
+556,Troy,Williams,Troy Williams,Indiana/USA,Indiana,USA,Indiana,USA,1994-12-30,2.01,2016,30,98.9,3
+557,Kyle,Wiltjer,Kyle Wiltjer,Gonzaga/USA,Gonzaga,USA,Gonzaga,USA,1992-10-20,2.08,2016,,108.9,0
+558,Justise,Winslow,Justise Winslow,Duke/USA,Duke,USA,Duke,USA,1996-03-26,2.01,2015,20,102.1,4
+559,Jeff,Withey,Jeff Withey,Kansas/USA,Kansas,USA,Kansas,USA,1990-03-07,2.13,2013,,104.8,3
+560,Christian,Wood,Christian Wood,UNLV/USA,UNLV,USA,Nevada-Las Vegas,USA,1995-09-27,2.08,2015,23,97.1,3
+561,WILLY,WORKMAN,WILLY WORKMAN,,,,,,,,0,,,0
+562,Metta,World Peace,Metta World Peace,St. John's/USA,St. John's,USA,St. John's (NY),USA,1979-11-13,2.01,1999,,117.9,16
+563,Brandan,Wright,Brandan Wright,North Carolina/USA,North Carolina,USA,North Carolina,USA,1987-10-05,2.08,2007,,95.3,8
+564,Delon,Wright,Delon Wright,Utah/USA,Utah,USA,Utah,USA,1992-04-26,1.96,2015,19,83.0,4
+565,Dorell,Wright,Dorell Wright,,,,South Kent Prep (CT),USA,1985-12-02,2.06,2004,20,93.0,11
+566,Tony,Wroten,Tony Wroten,,,,Washington,USA,1993-04-13,1.98,2012,24,93.0,3
+567,James,Young,James Young,Kentucky/USA,Kentucky,USA,Kentucky,USA,1995-08-16,1.98,2014,,97.5,2
+568,Joe,Young,Joe Young,Oregon/USA,Oregon,USA,Oregon,USA,1992-06-27,1.88,2015,15,83.9,3
+569,Nick,Young,Nick Young,USC/USA,USC,USA,Southern California,USA,1985-06-01,2.01,2007,9,95.3,11
+570,Thaddeus,Young,Thaddeus Young,Georgia Tech/USA,Georgia Tech,USA,Georgia Tech,USA,1988-06-21,2.03,2007,15,100.2,12
+571,Cody,Zeller,Cody Zeller,Indiana/USA,Indiana,USA,Indiana,USA,1992-10-05,2.13,2013,5,108.9,6
+572,Tyler,Zeller,Tyler Zeller,North Carolina/USA,North Carolina,USA,North Carolina,USA,1990-01-17,2.13,2012,19,114.8,7
+573,Stephen,Zimmerman,Stephen Zimmerman,Nevada-Las Vegas/USA,Nevada-Las Vegas,USA,Nevada-Las Vegas,USA,1996-09-09,2.13,2016,,108.9,0
+574,Paul,Zipser,Paul Zipser,Germany/Germany,Germany,Germany,,Germany,1994-02-18,2.03,2016,6,102.5,2
+575,Ivica,Zubac,Ivica Zubac,Mega Leks/Croatia,Mega Leks,Croatia, ,Croatia,1997-03-18,2.16,2016,16,108.9,3
+576,Will,Bynum,Will Bynum,,,,,,,,0,,,0
+577,Vince,Hunter,Vince Hunter,,,,,,,,0,,,0
+578,JP,Tokoto,JP Tokoto,,,,,,,,0,,,0
+579,Jonathan,Holmes,Jonathan Holmes,,,,,,,,0,,,0
+580,Chasson,Randle,Chasson Randle,Stanford/USA,Stanford,USA,Stanford,USA,1993-02-05,1.88,2016,41,83.9,2
+581,Quinn,Cook,Quinn Cook,Duke/USA,Duke,USA,Duke,USA,1993-03-23,1.88,2016,11,81.2,3
+582,Vincent,Hunter,Vincent Hunter,,,,,,,,0,,,0
+583,Yanick,Moreira,Yanick Moreira,,,,,,,,0,,,0
+584,JJ,O'Brien,JJ O'Brien,,,,San Diego State,United States,1992-04-08,,2015,,,0
+585,Jaleel,Roberts,Jaleel Roberts,,,,,,,,0,,,0
+586,Jonathan,Gibson,Jonathan Gibson,New Mexico State/USA,New Mexico State,USA,New Mexico State,USA,1987-11-08,1.88,2016,2,83.9,3
+587,Derek,Cooke Jr.,Derek Cooke Jr.,,,,,,,,0,,,0
+588,Cat,Barber,Cat Barber,,,,,,,,0,,,0
+589,Elgin,Cook,Elgin Cook,,,,,,,,0,,,0
+590,Isaiah,Cousins,Isaiah Cousins,Oklahoma/USA,Oklahoma,USA,Oklahoma,USA,1994-03-13,1.93,0,40,86.6,0
+591,Perry,Ellis,Perry Ellis,,,,,,,,0,33,,0
+592,Marcus,Paige,Marcus Paige,North Carolina/USA,North Carolina,USA,North Carolina,USA,1993-09-11,1.83,2017,22,74.4,1
+593,Gary,Payton II,Gary Payton II,Oregon State/USA,Oregon State,USA,Oregon State,USA,1992-12-01,1.9,2016,41,86.2,2
+594,Wayne,Selden,Wayne Selden,Kansas/USA,Kansas,USA,Kansas,USA,1994-09-30,1.96,2016,6,104.3,3
+595,Jarrod,Uthoff,Jarrod Uthoff, USA/USA, USA,USA,,USA,1993-05-19,2.06,2016,,100.2,0
+596,Ben,Bentil,Ben Bentil,,,,,,,,0,,,0
+597,Zach,Auguste,Zach Auguste,,,,,,,,0,,,0
+598,Yogi,Ferrell,Yogi Ferrell,Indiana/USA,Indiana,USA,Indiana,USA,1993-05-09,1.83,2016,30,81.6,3
+599,Damion,Lee,Damion Lee,Louisville/USA,Louisville,USA,Louisville,USA,1992-10-21,1.98,2017,11,95.3,2
+600,Alex,Poythress,Alex Poythress,Kentucky/USA,Kentucky,USA,Kentucky,USA,1993-09-06,2.06,2016,1,106.6,3
+601,Kaleb,Tarczewski,Kaleb Tarczewski,,,,,,,,0,,,0
+602,Isaiah,Taylor,Isaiah Taylor,,,,,,,,0,,,0
+603,James,Webb III,James Webb III,Boise State/USA,Boise State,USA,Boise State,USA,1993-08-19,2.06,2017,4,91.6,1
+604,Julian,Jacobs,Julian Jacobs,,,,,,,,0,,,0
+605,Gracin,Bakumanya,Gracin Bakumanya,,,,,,,,0,,,0
+606,Stefan,Jankovic,Stefan Jankovic,,,,,,,,0,,,0
+607,Thomas,Walkup,Thomas Walkup,,,,,,,,0,,,0
+608,Shawn,Long,Shawn Long,,,,,,,,0,,,0
+609,Ryan,Arcidiacono,Ryan Arcidiacono,Villanova/USA,Villanova,USA,Villanova,USA,1994-03-26,1.9,2017,6,90.7,2
+610,Okaro,White,Okaro White,Florida State/USA,Florida State,USA,Florida State,USA,1992-08-13,2.03,2016,41,93.0,2
+611,Matt,Costello,Matt Costello,Michigan State/USA,Michigan State,USA,Michigan State,USA,1993-08-05,2.08,2017,22,108.9,1
+612,Kyle,Collinsworth,Kyle Collinsworth,Brigham Young/USA,Brigham Young,USA,Brigham Young,USA,1991-10-03,1.98,2017,38,95.3,1
+613,Mike,Tobey,Mike Tobey,,,,,,,,0,,,0
+614,Beau,Beech,Beau Beech,,,,,,,,0,,,0
+615,Egidijus,Mockevicius,Egidijus Mockevicius,,,,,,,,0,,,0
+616,Jameel,Warney,Jameel Warney,,,,,,,,0,,,0
+617,Keith,Hornsby,Keith Hornsby,,,,,,,,0,,,0
+618,Patricio,Garino,Patricio Garino,George Washington/Argentina,George Washington,Argentina,George Washington,Argentina,1993-05-17,1.98,2016,,92.1,0
+619,Shawn,Dawson,Shawn Dawson,,,,,,,,0,,,0
+620,Marcus,Georges-Hunt,Marcus Georges-Hunt,Georgia Tech/USA,Georgia Tech,USA,Georgia Tech,USA,1994-03-28,1.96,2016,2,102.5,2
+621,Nick,Zeisloft,Nick Zeisloft,,,,,,,,0,,,0
+622,Quincy,Ford,Quincy Ford,,,,,,,,0,,,0
+623,Rasheed,Sulaimon,Rasheed Sulaimon,,,,,,,,0,,,0
+624,Andrew,Andrews,Andrew Andrews,,,,,,,,0,,,0
+625,Jalen,Jones,Jalen Jones,Texas A&M/USA,Texas A&M,USA,Texas A&M,USA,1993-05-27,2.01,2017,7,99.8,1
+626,Shaquille,Harrison,Shaquille Harrison,Tulsa/USA,Tulsa,USA,Tulsa,USA,1993-10-06,1.93,2017,6,86.2,2
+627,D'Vauntes,Smith-Rivera,D'Vauntes Smith-Rivera,,,,,,,,0,,,0
+628,Trey,Freeman,Trey Freeman,,,,,,,,0,,,0
+629,Nikola,Jovanovic,Nikola Jovanovic,,,,,,,,0,,,0
+630,Jaleel,Cousins,Jaleel Cousins,,,,,,,,0,,,0
+631,Alex,Caruso,Alex Caruso,Texas A&M/USA,Texas A&M,USA,Texas A&M,USA,1994-02-28,1.96,2017,17,84.4,2
+632,J.J.,Avila,J.J. Avila,,,,,,,,0,,,0
+633,Scott,Wood,Scott Wood,,,,,,,,0,,,0
+634,Vashil,Fernandez,Vashil Fernandez,,,,,,,,0,,,0
+635,Cai,Lang,Cai Lang,,,,,,,,0,,,0
+636,Ren,PengPeng,Ren PengPeng,,,,,,,,0,,,0
+637,Tang,Zihao,Tang Zihao,,,,,,,,0,,,0
+638,Ju,Peng,Ju Peng,,,,,,,,0,,,0
+639,Liu,Xiaoyu,Liu Xiaoyu,,,,,,,,0,,,0
+640,Wu,Guanxi,Wu Guanxi,,,,,,,,0,,,0
+641,Wang,Zezhong,Wang Zezhong,,,,,,,,0,,,0
+642,Guerschon,Yabusele,Guerschon Yabusele,,,,,,,,0,,,0
+643,Huang,Shiqian,Huang Shiqian,,,,,,,,0,,,0
+644,Zhai,Yi,Zhai Yi,,,,,,,,0,,,0
+645,Zhang,Zhaoxu,Zhang Zhaoxu,,,,,,,,0,,,0
+646,Ge,Yang,Ge Yang,,,,,,,,0,,,0
+647,Jimmer,Fredette,Jimmer Fredette,,,,,,,,0,,,0
+648,Shi,Yuchen,Shi Yuchen,,,,,,,,0,,,0
+649,Tseng,Wenting,Tseng Wenting,,,,,,,,0,,,0
+650,Anthony,Randolph,Anthony Randolph,,,,,,,,0,,,0
+651,Dontaye,Draper,Dontaye Draper,,,,,,,,0,,,0
+652,Rudy,Fernandez,Rudy Fernandez,,,,,,,,0,,,0
+653,Andres,Nocioni,Andres Nocioni,,,,,,,,0,,,0
+654,Luka,Doncic,Luka Doncic,,,,,,,,0,,,0
+655,Jonas,Maciulis,Jonas Maciulis,,,,,,,,0,,,0
+656,Felipe,Reyes,Felipe Reyes,,,,,,,,0,,,0
+657,Gustavo,Ayon,Gustavo Ayon,,,,,,,,0,,,0
+658,Jaycee,Carroll,Jaycee Carroll,,,,,,,,0,,,0
+659,Othello,Hunter,Othello Hunter,,,,,,,,0,,,0
+660,Sergio,Llull,Sergio Llull,,,,,,,,0,,,0
+661,Trey,Tompkins,Trey Tompkins,,,,,,,,0,,,0
+662,Jeffery,Taylor,Jeffery Taylor,,,,,,,,0,,,0
+663,Tyrese,Rice,Tyrese Rice,,,,,,,,0,,,0
+664,Joey,Dorsey,Joey Dorsey,,,,,,,,0,,,0
+665,Pau,Ribas,Pau Ribas,,,,,,,,0,,,0
+666,Shane,Lawal,Shane Lawal,,,,,,,,0,,,0
+667,Victor,Claver,Victor Claver,,,,,,,,0,,,0
+668,Juan Carlos,Navarro,Juan Carlos Navarro,,,,,,,,0,,,0
+669,Aleksandar,Vezenkov,Aleksandar Vezenkov,,,,,,,,0,,,0
+670,Marcus,Eriksson,Marcus Eriksson,,,,,,,,0,,,0
+671,Brad,Oleson,Brad Oleson,,,,,,,,0,,,0
+672,Petteri,Koponen,Petteri Koponen,,,,,,,,0,,,0
+673,Stratos,Perperoglou,Stratos Perperoglou,,,,,,,,0,,,0
+674,Ante,Tomic,Ante Tomic,,,,,,,,0,,,0
+675,Maxin,Esteban,Maxin Esteban,,,,,,,,0,,,0
+676,OFEK,AZITAL,OFEK AZITAL,,,,,,,,0,,,0
+677,OZ,BLAYZER,OZ BLAYZER,,,,,,,,0,,,0
+678,JOHN,DIBARTOLOMEO,JOHN DIBARTOLOMEO,,,,,,,,0,,,0
+679,JARRID,FAMOUS,JARRID FAMOUS,,,,,,,,0,,,0
+680,ORLANDO,MENDEZ-VALDEZ,ORLANDO MENDEZ-VALDEZ,,,,,,,,0,,,0
+681,TONY,MITCHELL,TONY MITCHELL,,,,,,,,0,,,0
+682,Yi,Jianlian,Yi Jianlian,,,,,,,,0,,,0
+683,Eric,Dawson,Eric Dawson,,,,,,,,0,,,0
+684,Greg,Stiemsma,Greg Stiemsma,,,,,,,,0,,,0
+685,Reggie,Williams,Reggie Williams,,,,,,,,0,,,0
+686,Elliot,Williams,Elliot Williams,,,,Memphis,USA,1989-06-20,,2011,,,0
+687,Keith,Benson,Keith Benson,,,,,,,,0,,,0
+688,D.J.,Kennedy,D.J. Kennedy,,,,,,,,0,,,0
+689,Cameron,Jones,Cameron Jones,,,,,,,,0,,,0
+690,Chris,Wright,Chris Wright,,,,,,,,0,,,0
+691,Julyan,Stone,Julyan Stone,Texas-ElUSAPaso/USA,Texas-ElUSAPaso,USA,Texas-El Paso,USA,1988-12-07,1.98,2011,5,90.7,4
+692,Orlando,Johnson,Orlando Johnson,,,,California-Santa Barbara,USA,1989-03-11,,2012,,,0
+693,Kevin,Murphy,Kevin Murphy,,,,,,,,0,,,0
+694,Robbie,Hummel,Robbie Hummel,,,,,,,,0,,,0
+695,Toure',Murry,Toure' Murry,,,,,,,,0,,,0
+696,Brandon,Paul,Brandon Paul,,,,, ,1991-04-30,1.93,2017,7,90.7,1
+697,DJ,Stephens,DJ Stephens, USA/USA, USA,USA,Memphis,USA,1990-12-19,1.96,2013,19,85.3,1
+698,Nate,Wolters,Nate Wolters,,,,,,,,0,,,0
+699,Ray,McCallum,Ray McCallum,,,,Detroit Mercy,United States,1991-06-12,,2013,,,0
+700,Grant,Jerrett,Grant Jerrett,,,,,,,,0,,,0
+701,Phil,Pressey,Phil Pressey,,,,Missouri,United States,1991-02-17,,2013,,,0
+702,Livio,Jean-Charles,Livio Jean-Charles,,,,,,,,0,,,0
+703,E.J.,Singler,E.J. Singler,,,,,,,,0,,,0
+704,Josh,Magette,Josh Magette,Alabama-Huntsville/USA,Alabama-Huntsville,USA,Alabama-Huntsville,USA,1989-11-28,1.85,2017,1,72.6,1
+705,C.J.,Williams,C.J. Williams,North Carolina State/USA,North Carolina State,USA,North Carolina State,USA,1990-02-06,1.96,2017,22,102.5,2
+706,Casper,Ware Jr.,Casper Ware Jr.,,,,,,,,0,,,0
+707,Nick,Johnson,Nick Johnson,,,,,,,,0,,,0
+708,Jabari,Brown,Jabari Brown,,,,,,,,0,,,0
+709,Cory,Jefferson,Cory Jefferson,,,,,,,,0,,,0
+710,Drew,Crawford,Drew Crawford,,,,,,,,0,,,0
+711,Brady,Heslip,Brady Heslip,,,,,,,,0,,,0
+712,Travis,Wear,Travis Wear,UCLA/USA,UCLA,USA,UCLA,USA,1990-09-21,2.06,2014,17,99.3,2
+713,Chris,Crawford,Chris Crawford,,,,,,,,0,,,0
+714,Rasual,Butler,Rasual Butler,,,,La Salle,USA,1979-05-23,,2002,,,0
+715,Gustavo Nicolas,Agurre,Gustavo Nicolas Agurre,,,,,,,,0,,,0
+716,Guillermo,Diaz,Guillermo Diaz,,,,,,,,0,,,0
+717,Marcos,Mata,Marcos Mata,,,,,,,,0,,,0
+718,Gabriel,Deck,Gabriel Deck,,,,,,,,0,,,0
+719,Jerome,Meyinsse,Jerome Meyinsse,,,,,,,,0,,,0
+720,Jordan,Crawford,Jordan Crawford,XavierUSA(Ohio)/USA,XavierUSA(Ohio),USA,Xavier,USA,1988-10-23,1.96,2010,23,88.5,6
+721,Manny,Harris,Manny Harris,Michigan/USA,Michigan,USA,Michigan,USA,1989-09-21,1.96,2010,,83.9,3
+722,Elijah,Millsap,Elijah Millsap,Alabama-Birmingham/USA,Alabama-Birmingham,USA,Alabama-Birmingham,USA,1987-08-12,2.01,2014,,97.5,2
+723,David,Nwaba,David Nwaba,Cal Poly-Obispo/USA,Cal Poly-Obispo,USA,Cal Poly-S.L.O.,USA,1993-01-14,1.93,2016,7,99.3,3
+724,Bam,Adebayo,Bam Adebayo,Kentucky/USA,Kentucky,USA,Kentucky,USA,1997-07-18,2.08,2017,20,115.7,2
+725,Kyle,Adnam,Kyle Adnam,,,,,,,,0,18,,0
+726,Josh,Akognon,Josh Akognon,,,,,,,,0,32,,0
+727,Jarrett,Allen,Jarrett Allen,Texas/USA,Texas,USA,Texas,USA,1998-04-21,2.11,2017,4,107.5,2
+728,Kadeem,Allen,Kadeem Allen,ArizonaUSA/USA,ArizonaUSA,USA,Arizona,USA,1993-01-15,1.9,2017,24,90.7,2
+729,David,Andersen,David Andersen,,,,,,,,0,18,,0
+730,Zach,Andrews,Zach Andrews,,,,,,,,0,3,,0
+731,Ike,Anigbogu,Ike Anigbogu,UCLA/USA,UCLA,USA,California-Los Angeles,USA,1998-10-16,,2017,,,0
+732,OG,Anunoby,OG Anunoby,Indiana/United Kingdom,Indiana,United Kingdom,Indiana,United Kingdom,1997-07-17,2.03,2017,38,105.2,2
+733,Jamel,Artis,Jamel Artis,,,,,,,,0,,,0
+734,Dwayne,Bacon,Dwayne Bacon,Florida State/USA,Florida State,USA,Florida State,USA,1995-08-30,2.01,2017,5,100.2,2
+735,Lonzo,Ball,Lonzo Ball,UCLA/USA,UCLA,USA,California-Los Angeles,USA,1997-10-27,1.98,2017,17,86.2,2
+736,David,Barlow,David Barlow,,,,,,,,0,18,,0
+737,Gal,Baruch,Gal Baruch,,,,,,,,0,,,0
+738,Jordan,Bell,Jordan Bell,Oregon/USA,Oregon,USA,Oregon,USA,1995-01-07,2.06,2017,11,101.6,2
+739,Khem,Birch,Khem Birch,Nevada-Las Vegas/Canada,Nevada-Las Vegas,Canada,UNLV,Canada,1992-09-28,2.06,2017,26,105.7,2
+740,Jabari,Bird,Jabari Bird,California/USA,California,USA,California,USA,1994-07-03,1.98,2017,2,89.8,1
+741,Antonio,Blakeney,Antonio Blakeney,Louisiana State/USA,Louisiana State,USA,Louisiana State,USA,1996-10-04,1.93,2017,6,87.1,2
+742,Todd,Blanchfield,Todd Blanchfield,,,,,,,,0,33,,0
+743,Bogdan,Bogdanovic,Bogdan Bogdanovic, Serbia/Serbia, Serbia,Serbia,,Serbia,1992-08-18,1.98,2017,30,93.0,2
+744,Josh,Boone,Josh Boone,,,,,,,,0,18,,0
+745,Chris,Boucher,Chris Boucher,Oregon/Canada,Oregon,Canada,Oregon,Canada,1993-01-11,2.08,2017,38,90.7,2
+746,Frederic,Bourdillon,Frederic Bourdillon,,,,,,,,0,,,0
+747,Brandon,Bowman,Brandon Bowman,,,,,,,,0,,,0
+748,Tony,Bradley,Tony Bradley,North Carolina/USA,North Carolina,USA,North Carolina,USA,1998-01-08,2.08,2017,40,112.5,2
+749,Dillon,Brooks,Dillon Brooks,Oregon/Canada,Oregon,Canada,Oregon,Canada,1996-01-22,1.98,2017,19,99.8,2
+750,MarShon,Brooks,MarShon Brooks,Providence/USA,Providence,USA,Providence,USA,1989-01-26,,2011,,,0
+751,Sterling,Brown,Sterling Brown,Southern Methodist/USA,Southern Methodist,USA,Southern Methodist,USA,1995-02-10,1.98,2017,21,105.2,2
+752,Shaun,Bruce,Shaun Bruce,,,,,,,,0,3,,0
+753,Thomas,Bryant,Thomas Bryant,Indiana/USA,Indiana,USA,Indiana,USA,1997-07-31,2.11,2017,41,112.5,2
+754,Perrin,Buford,Perrin Buford,,,,,,,,0,3,,0
+755,Dwight,Buycks,Dwight Buycks,Marquette/USA,Marquette,USA,Marquette,USA,1989-03-06,1.9,2013,8,86.2,3
+756,Jason,Cadee,Jason Cadee,,,,,,,,0,33,,0
+757,Jason,Cadee,Jason Cadee,,,,,,,,0,33,,0
+758,Tyler,Cavanaugh,Tyler Cavanaugh,George Washington/USA,George Washington,USA,George Washington,USA,1994-02-09,2.06,2017,40,108.0,2
+759,Mario,Chalmers,Mario Chalmers,Kansas/USA,Kansas,USA,Kansas,USA,1986-05-19,1.88,2008,19,86.2,9
+760,Antonius,Cleveland,Antonius Cleveland,Southeast Missouri State/USA,Southeast Missouri State,USA,Southeast Missouri State,USA,1994-02-02,1.98,2017,6,89.8,1
+761,John,Collins,John Collins,Wake Forest/USA,Wake Forest,USA,Wake Forest,USA,1997-09-23,2.08,2017,1,106.6,2
+762,Zach,Collins,Zach Collins,Gonzaga/USA,Gonzaga,USA,Gonzaga,USA,1997-11-19,2.13,2017,29,106.6,2
+763,Charles,Cooke,Charles Cooke,Dayton/USA,Dayton,USA,Dayton,USA,1994-07-01,1.96,2017,20,88.9,1
+764,Jack,Cooley,Jack Cooley,Notre Dame/USA,Notre Dame,USA,Notre Dame,USA,1991-04-12,2.08,2014,30,124.3,2
+765,Torrey,Craig,Torrey Craig,South Carolina Upstate/USA,South Carolina Upstate,USA,South Carolina Upstate,USA,1990-12-19,2.01,2017,9,97.5,2
+766,Sam,Daly,Sam Daly,,,,,,,,0,33,,0
+767,Tyler,Dorsey,Tyler Dorsey,Oregon/USA,Oregon,USA,Oregon,USA,1996-02-18,1.96,2017,19,83.0,2
+768,Damyean,Dotson,Damyean Dotson,Houston/USA,Houston,USA,Houston,USA,1994-05-06,1.98,2017,24,95.3,2
+769,Milton,Doyle,Milton Doyle,Loyola (Chicago)/USA,Loyola (Chicago),USA,Loyola (Chicago),USA,1993-10-31,1.93,2017,4,81.6,1
+770,PJ,Dozier,PJ Dozier,South Carolina/USA,South Carolina,USA,South Carolina,USA,1996-10-25,1.98,2017,2,93.0,2
+771,Larry,Drew II,Larry Drew II,UCLA/USA,UCLA,USA,UCLA,USA,1990-03-05,1.88,2014,23,81.6,2
+772,Jawun,Evans,Jawun Evans,Oklahoma State/USA,Oklahoma State,USA,Oklahoma State,USA,1996-07-26,1.83,2017,25,86.2,2
+773,Zhang,Fan,Zhang Fan,,,,,,,,0,12,,0
+774,Terrance,Ferguson,Terrance Ferguson,USA/USA,USA,USA,,USA,1998-05-17,2.01,2017,25,86.2,2
+775,Kyle,Fogg,Kyle Fogg,,,,,,,,0,,,0
+776,De'Aaron,Fox,De'Aaron Fox,Kentucky/USA,Kentucky,USA,Kentucky,USA,1997-12-20,1.9,2017,30,79.4,2
+777,Jimmer,Fredette,Jimmer Fredette,,,,,,,,0,32,,0
+778,Tom,Fullarton,Tom Fullarton,,,,,,,,0,3,,0
+779,Markelle,Fultz,Markelle Fultz,Washington/USA,Washington,USA,Washington,USA,1998-05-29,1.93,2017,26,90.7,2
+780,Tom,Garlepp,Tom Garlepp,,,,,,,,0,33,,0
+781,Tom,Garlepp,Tom Garlepp,,,,,,,,0,33,,0
+782,Andrew,Gaze,Andrew Gaze,,,,,,,,0,33,,0
+783,Adam,Gibson,Adam Gibson,,,,,,,,0,3,,0
+784,Harry,Giles III,Harry Giles III,Duke/USA,Duke,USA,Duke,USA,1998-04-22,2.08,2018,30,108.9,2
+785,Chris,Goulding,Chris Goulding,,,,,,,,0,18,,0
+786,Kai,Guo,Kai Guo,,,,,,,,0,12,,0
+787,Daniel,Hamilton,Daniel Hamilton,Connecticut/USA,Connecticut,USA,Connecticut,USA,1995-08-08,2.01,2017,1,88.5,1
+788,Luo,Hanchen,Luo Hanchen,,,,,,,,0,32,,0
+789,Dong,Hanlin,Dong Hanlin,,,,,,,,0,32,,0
+790,Tyrell,Harrison,Tyrell Harrison,,,,,,,,0,3,,0
+791,Josh,Hart,Josh Hart,Villanova/USA,Villanova,USA,Villanova,USA,1995-03-06,1.96,2017,17,97.5,2
+792,Nigel,Hayes,Nigel Hayes,Wisconsin/USA,Wisconsin,USA,Wisconsin,USA,1994-12-16,2.01,2017,30,115.2,1
+793,Reggie,Hearn,Reggie Hearn,Northwestern/USA,Northwestern,USA,Northwestern,USA,1991-08-14,1.96,2017,10,95.3,1
+794,Myke,Henry,Myke Henry,DePaul/USA,DePaul,USA,DePaul,USA,1992-12-23,1.98,2017,19,95.3,1
+795,Isaiah,Hicks,Isaiah Hicks,North Carolina/USA,North Carolina,USA,North Carolina,USA,1994-07-24,2.06,2017,24,104.3,2
+796,Stephen,Holt,Stephen Holt,,,,,,,,0,3,,0
+797,Peter,Hooley,Peter Hooley,,,,,,,,0,18,,0
+798,Roi,Huber,Roi Huber,,,,,,,,0,,,0
+799,Issac,Humphries,Issac Humphries,,,,,,,,0,33,,0
+800,Andre,Ingram,Andre Ingram,American/USA,American,USA,American,USA,1985-11-19,1.9,2017,17,86.2,1
+801,Jonathan,Isaac,Jonathan Isaac,Florida State/USA,Florida State,USA,Florida State,USA,1997-10-03,2.08,2017,26,95.3,2
+802,Wes,Iwundu,Wes Iwundu,Kansas State/USA,Kansas State,USA,Kansas State,USA,1994-12-20,2.01,2017,26,88.5,2
+803,Aaron,Jackson,Aaron Jackson, USA/USA, USA,USA,,USA,1986-05-06,1.9,2017,14,83.0,1
+804,Frank,Jackson,Frank Jackson,Duke/USA,Duke,USA,Duke,USA,1998-05-04,1.9,2018,23,93.0,2
+805,Josh,Jackson,Josh Jackson,Kansas/USA,Kansas,USA,Kansas,USA,1997-02-10,2.03,2017,28,90.7,2
+806,Justin,Jackson,Justin Jackson,North Carolina/USA,North Carolina,USA,North Carolina,USA,1995-03-28,2.03,2017,8,95.3,2
+807,Amile,Jefferson,Amile Jefferson,Duke/USA,Duke,USA,Duke,USA,1993-05-07,2.06,2018,26,100.7,2
+808,Grant,Jerrett,Grant Jerrett,,,,,,,,0,3,,0
+809,Tom,Jervis,Tom Jervis,,,,,,,,0,3,,0
+810,Dakari,Johnson,Dakari Johnson,Kentucky/USA,Kentucky,USA,Kentucky,USA,1995-09-22,2.13,2017,25,115.7,1
+811,Omari,Johnson,Omari Johnson,Oregon State/Jamaica,Oregon State,Jamaica,Oregon State,Jamaica,1989-05-26,2.06,2017,15,99.8,1
+812,Mingxing,Ju,Mingxing Ju,,,,,,,,0,12,,0
+813,Guo,Kai,Guo Kai,,,,,,,,0,12,,0
+814,Luke,Kennard,Luke Kennard,Duke/USA,Duke,USA,Duke,USA,1996-06-24,1.96,2017,10,93.4,2
+815,Matthew,Kenyon,Matthew Kenyon,,,,,,,,0,3,,0
+816,Daniel,Kickert,Daniel Kickert,,,,,,,,0,3,,0
+817,Maxi,Kleber,Maxi Kleber,Germany/Germany,Germany,Germany, ,Germany,1992-01-29,2.11,2017,8,108.9,2
+818,Furkan,Korkmaz,Furkan Korkmaz,Turkey/Turkey,Turkey,Turkey,,Turkey,1997-07-24,2.01,2017,27,86.2,2
+819,Luke,Kornet,Luke Kornet,Vanderbilt/USA,Vanderbilt,USA,Vanderbilt,USA,1995-07-15,2.16,2017,24,113.4,2
+820,Kyle,Kuzma,Kyle Kuzma,Utah/USA,Utah,USA,Utah,USA,1995-07-24,2.06,2017,17,99.8,2
+821,TJ,Leaf,TJ Leaf,UCLA/USA,UCLA,USA,California-Los Angeles,USA,1997-04-30,2.08,2017,15,102.1,2
+822,Andrej,Lemanis,Andrej Lemanis,,,,,,,,0,3,,0
+823,Travis,Leslie,Travis Leslie,,,,,,,,0,33,,0
+824,Cai,Liang,Cai Liang,,,,,,,,0,32,,0
+825,Kevin,Lisch,Kevin Lisch,,,,,,,,0,33,,0
+826,Kevin,Lisch,Kevin Lisch,,,,,,,,0,33,,0
+827,Tyler,Lydon,Tyler Lydon,Syracuse/USA,Syracuse,USA,Syracuse,USA,1996-04-09,2.08,2017,9,102.1,2
+828,Will,Magnay,Will Magnay,,,,,,,,0,3,,0
+829,Majok,Majok,Majok Majok,,,,,,,,0,18,,0
+830,Lauri,Markkanen,Lauri Markkanen,Arizona/Finland,Arizona,Finland,Arizona,Finland,1997-05-22,2.13,2017,6,108.9,2
+831,Luke,Martinez,Luke Martinez,,,,,,,,0,,,0
+832,Frank,Mason,Frank Mason,Kansas/USA,Kansas,USA,Kansas,USA,1994-04-03,1.8,2017,30,86.2,2
+833,Mangok,Mathiang,Mangok Mathiang,Louisville/Australia,Louisville,Australia,Louisville,Australia,1992-10-08,2.08,2017,5,104.3,1
+834,Erik,McCree,Erik McCree,Louisiana Tech/USA,Louisiana Tech,USA,Louisiana Tech,USA,1993-12-20,2.03,2017,40,102.1,1
+835,Alfonzo,McKinnie,Alfonzo McKinnie,Wisc.-Green Bay/USA,Wisc.-Green Bay,USA,Wisc.-Green Bay,USA,1992-09-17,2.03,2017,11,97.5,2
+836,Darius,Miller,Darius Miller,Kentucky/USA,Kentucky,USA,Kentucky,USA,1990-03-21,2.03,2012,23,102.1,5
+837,Malcolm,Miller,Malcolm Miller,Holy Cross/USA,Holy Cross,USA,Holy Cross,USA,1993-03-06,2.01,2017,38,95.3,2
+838,Ju,Mingxin,Ju Mingxin,,,,,,,,0,12,,0
+839,Nick,Minnerath,Nick Minnerath,,,,,,,,0,32,,0
+840,Donovan,Mitchell,Donovan Mitchell,Louisville/USA,Louisville,USA,Louisville,USA,1996-09-07,1.9,2017,40,97.5,2
+841,Craig,Moller,Craig Moller,,,,,,,,0,18,,0
+842,Malik,Monk,Malik Monk,Kentucky/USA,Kentucky,USA,Kentucky,USA,1998-02-04,1.9,2017,5,90.7,2
+843,Ben,Moore,Ben Moore,Southern Methodist/USA,Southern Methodist,USA,Southern Methodist,USA,1995-05-13,2.03,2017,31,99.8,2
+844,Jaylen,Morris,Jaylen Morris,Molloy/USA,Molloy,USA,Molloy,USA,1995-09-19,1.96,2017,21,83.9,1
+845,Monte,Morris,Monte Morris,Iowa State/USA,Iowa State,USA,Iowa State,USA,1995-06-27,1.9,2017,9,79.4,2
+846,Johnathan,Motley,Johnathan Motley,Baylor/USA,Baylor,USA,Baylor,USA,1995-05-04,2.08,2017,16,104.3,2
+847,Abdel,Nader,Abdel Nader,Egypt/Egypt,Egypt,Egypt,Iowa State,Egypt,1993-09-25,1.98,2017,25,102.1,2
+848,Brad,Newley,Brad Newley,,,,,,,,0,,,0
+849,Brad,Newley,Brad Newley,,,,,,,,0,33,,0
+850,Frank,Ntilikina,Frank Ntilikina,France/France,France,France,,France,1998-07-28,1.98,2017,24,90.7,2
+851,Royce,O'Neale,Royce O'Neale,Baylor/USA,Baylor,USA,Baylor,USA,1993-06-05,1.98,2017,40,102.5,2
+852,Semi,Ojeleye,Semi Ojeleye,Southern Methodist/USA,Southern Methodist,USA,Southern Methodist,USA,1994-12-05,2.01,2017,2,109.3,2
+853,Emeka,Okafor,Emeka Okafor,,,,,,,,0,,,0
+854,Cedi,Osman,Cedi Osman,Anadolu Efes/Turkey,Anadolu Efes,Turkey,,Turkey,1995-04-08,2.03,2017,7,97.5,2
+855,Justin,Patton,Justin Patton,Creighton/USA,Creighton,USA,Creighton,USA,1997-06-14,,2017,,,0
+856,Yan,Peng,Yan Peng,,,,,,,,0,32,,0
+857,Alec,Peters,Alec Peters,Valparaiso/USA,Valparaiso,USA,Valparaiso,USA,1995-04-13,2.06,2017,28,106.6,1
+858,Anthony,Petrie,Anthony Petrie,,,,,,,,0,3,,0
+859,Dane,Pineau,Dane Pineau,,,,,,,,0,33,,0
+860,Dane,Pineau,Dane Pineau,,,,,,,,0,33,,0
+861,Casey,Prather,Casey Prather,,,,,,,,0,18,,0
+862,Rodney,Purvis,Rodney Purvis,Connecticut/USA,Connecticut,USA,Connecticut,USA,1994-02-14,1.93,2017,26,93.0,1
+863,Zhou,Qi,Zhou Qi,China/China,China,China,,China,1996-01-16,2.16,2017,14,95.3,1
+864,Ivan,Rabb,Ivan Rabb,California/USA,California,USA,California,USA,1997-02-04,2.08,2017,19,99.8,2
+865,Davon,Reed,Davon Reed,Miami/USA,Miami,USA,Miami (FL),USA,1995-06-11,1.96,2017,15,94.3,2
+866,Devin,Robinson,Devin Robinson,Florida/USA,Florida,USA,Florida,USA,1995-03-07,2.03,2017,41,90.7,2
+867,Angel,Rodriguez,Angel Rodriguez,,,,,,,,0,,,0
+868,Sani,Sakakini,Sani Sakakini,,,,,,,,0,12,,0
+869,Samardo,Samuels,Samardo Samuels,,,,,,,,0,,,0
+870,Jun,Shi,Jun Shi,,,,,,,,0,12,,0
+871,Sam,Short,Sam Short,,,,,,,,0,18,,0
+872,Xavier,Silas,Xavier Silas,,,,,,,,0,,,0
+873,Kobi,Simmons,Kobi Simmons,Arizona/USA,Arizona,USA,Arizona,USA,1997-07-04,1.93,2017,7,77.1,1
+874,Amritpal,Singh,Amritpal Singh,,,,,,,,0,33,,0
+875,Amritpal,Singh,Amritpal Singh,,,,,,,,0,33,,0
+876,Dennis,Smith Jr.,Dennis Smith Jr.,North Carolina State/USA,North Carolina State,USA,North Carolina State,USA,1997-11-25,1.9,2017,24,88.5,2
+877,Tohi,Smith-Milner,Tohi Smith-Milner,,,,,,,,0,18,,0
+878,Dillon,Stith,Dillon Stith,,,,,,,,0,18,,0
+879,David,Stockton,David Stockton,Gonzaga/USA,Gonzaga,USA,Gonzaga,USA,1991-06-24,1.8,2014,28,74.8,2
+880,Edmond,Sumner,Edmond Sumner,Xavier/USA,Xavier,USA,Xavier,USA,1995-12-31,1.98,2017,15,79.8,2
+881,Caleb,Swanigan,Caleb Swanigan,Purdue/USA,Purdue,USA,Purdue,USA,1997-04-18,2.06,2017,30,113.4,2
+882,Jayson,Tatum,Jayson Tatum,Duke/USA,Duke,USA,Duke,USA,1998-03-03,2.03,2017,2,94.3,2
+883,Marquis,Teague,Marquis Teague,Kentucky/USA,Kentucky,USA,Kentucky,USA,1993-02-28,1.88,2012,19,85.7,3
+884,Milos,Teodosic,Milos Teodosic, Serbia/Serbia, Serbia,Serbia,,Serbia,1987-03-19,,2017,,,0
+885,Reuben,Te Rangi,Reuben Te Rangi,,,,,,,,0,3,,0
+886,Daniel,Theis,Daniel Theis,Germany/Germany,Germany,Germany, ,Germany,1992-04-04,2.03,2017,2,110.2,2
+887,Sindarius,Thornwell,Sindarius Thornwell,South Carolina/USA,South Carolina,USA,South Carolina,USA,1994-11-15,1.96,2017,16,97.5,2
+888,Adam,Thoseby,Adam Thoseby,,,,,,,,0,33,,0
+889,Adam,Thoseby,Adam Thoseby,,,,,,,,0,33,,0
+890,Wang,Tong,Wang Tong,,,,,,,,0,32,,0
+891,Travis,Trice,Travis Trice,,,,,,,,0,3,,0
+892,Ekpe,Udoh,Ekpe Udoh,Baylor/USA,Baylor,USA,Baylor,USA,1987-05-20,2.08,2010,40,111.1,7
+893,Tyrone,Wallace,Tyrone Wallace,California/USA,California,USA,California,USA,1994-06-10,1.96,2017,16,89.8,2
+894,Derrick,Walton Jr.,Derrick Walton Jr.,Michigan/USA,Michigan,USA,Michigan,USA,1995-04-03,1.85,2017,6,86.2,1
+895,Tseng,Wenting,Tseng Wenting,,,,,,,,0,32,,0
+896,Tai,Wesley,Tai Wesley,,,,,,,,0,18,,0
+897,Derrick,White,Derrick White,Colorado/USA,Colorado,USA,Colorado,USA,1994-07-02,1.93,2017,31,86.2,2
+898,Andrew,White III,Andrew White III,Syracuse/USA,Syracuse,USA,Syracuse,USA,1993-06-16,2.01,2017,1,95.3,1
+899,D.J.,Wilson,D.J. Wilson,Michigan/USA,Michigan,USA,Michigan,USA,1996-02-19,2.08,2017,21,104.8,2
+900,Zhang,Xiaolei,Zhang Xiaolei,,,,,,,,0,12,,0
+901,Huang,Xu,Huang Xu,,,,,,,,0,32,,0
+902,Luo,Xuedong,Luo Xuedong,,,,,,,,0,12,,0
+903,Zhu,Xuhang,Zhu Xuhang,,,,,,,,0,12,,0
+904,Guerschon,Yabusele,Guerschon Yabusele,France/France,France,France, ,France,1995-12-17,2.03,2017,2,117.9,2
+905,Zhai,Yi,Zhai Yi,,,,,,,,0,32,,0
+906,Heng,Yifeng,Heng Yifeng,,,,,,,,0,12,,0
+907,Chen,Yingjun,Chen Yingjun,,,,,,,,0,12,,0
+908,Dagan,Yivzuri,Dagan Yivzuri,,,,,,,,0,,,0
+909,Mitchell,Young,Mitchell Young,,,,,,,,0,3,,0
+910,Shi,Yuchen,Shi Yuchen,,,,,,,,0,,,0
+911,Yue,Wang,Yue Wang,,,,,,,,0,,,0
+912,Gu,Yuezhuo,Gu Yuezhuo,,,,,,,,0,12,,0
+913,Fan,Zhang,Fan Zhang,,,,,,,,0,12,,0
+914,Zhang,Zhaoxu,Zhang Zhaoxu,,,,,,,,0,32,,0
+915,Luo,Zhi,Luo Zhi,,,,,,,,0,32,,0
+916,Zheng,Zhun,Zheng Zhun,,,,,,,,0,12,,0
+917,Liu,Zihao,Liu Zihao,,,,,,,,0,12,,0
+918,Tang,Zihao,Tang Zihao,,,,,,,,0,32,,0
+919,Fan,Ziming,Fan Ziming,,,,,,,,0,12,,0
+920,Ante,Zizic,Ante Zizic,Croatia/Croatia,Croatia,Croatia,,Croatia,1997-01-04,2.11,2017,7,115.2,2
+921,Jaylen,Adams,Jaylen Adams,St. Bonaventure/USA,St. Bonaventure,USA,St. Bonaventure,USA,1996-05-04,1.88,2018,1,86.2,1
+922,Deng,Adel,Deng Adel, South Sudan/South Sudan, South Sudan,South Sudan,,South Sudan,1997-02-01,2.01,2018,7,90.7,1
+923,DeVaughn,Akoon-Purcell,DeVaughn Akoon-Purcell,Illinois State/Trinidad and Tobago,Illinois State,Trinidad and Tobago,Illinois State,Trinidad and Tobago,1993-06-05,,2018,,,0
+924,Bryce,Alford,Bryce Alford,,,,,,,,0,,,0
+925,Rawle,Alkins,Rawle Alkins, USA/USA, USA,USA,,USA,1997-10-29,1.96,2018,6,102.1,1
+926,Grayson,Allen,Grayson Allen,Duke University/USA,Duke University,USA,Duke,USA,1995-10-08,1.96,2018,40,89.8,1
+927,Braian,Angola-Rodas,Braian Angola-Rodas,,,,,,,,0,,,0
+928,Kostas,Antetokounmpo,Kostas Antetokounmpo,University of Dayton/Greece,University of Dayton,Greece,Dayton,Greece,1997-11-20,2.08,2018,8,90.7,1
+929,Brandon,Austin,Brandon Austin,,,,,,,,0,,,0
+930,Deandre,Ayton,Deandre Ayton,University of Arizona/Bahamas,University of Arizona,Bahamas,Arizona,Bahamas,1998-07-23,2.16,2018,28,113.4,1
+931,Marvin,Bagley III,Marvin Bagley III,Duke University/USA,Duke University,USA,Duke,USA,1999-03-14,2.11,2018,30,106.1,1
+932,Mo,Bamba,Mo Bamba,University of Texas at Austin/USA,University of Texas at Austin,USA,Texas,USA,1998-05-12,2.13,2018,26,100.2,1
+933,Jaylen,Barford,Jaylen Barford,,,,,,1996-01-23,1.88,0,5,93.9,0
+934,Keita,Bates-Diop,Keita Bates-Diop,Ohio State University/USA,Ohio State University,USA,Ohio State,USA,1996-01-23,2.06,2018,22,103.9,1
+935,Joel,Berry II,Joel Berry II,,,,,,,,0,,,0
+936,Jaron,Blossomgame,Jaron Blossomgame,Clemson/USA,Clemson,USA,Clemson,USA,1993-09-16,2.03,2018,7,99.8,1
+937,Trevon,Bluiett,Trevon Bluiett,Xavier/USA,Xavier,USA,Xavier (Ohio),USA,1994-11-04,1.98,0,23,89.8,1
+938,Jonah,Bolden,Jonah Bolden,Australia/Australia,Australia,Australia,,Australia,1996-01-02,2.08,2018,27,99.8,1
+939,Isaac,Bonga,Isaac Bonga,Germany/Germany,Germany,Germany,,Germany,1999-11-08,2.03,2018,17,81.6,1
+940,Mikal,Bridges,Mikal Bridges,Villanova University/USA,Villanova University,USA,Villanova,USA,1996-08-30,2.01,2018,28,95.3,1
+941,Miles,Bridges,Miles Bridges,Michigan State University/USA,Michigan State University,USA,Michigan State,USA,1998-03-21,2.01,2018,5,102.1,1
+942,Isaiah,Briscoe,Isaiah Briscoe, USA/USA, USA,USA,,USA,1996-04-13,1.9,2018,26,97.5,0
+943,Ryan,Broekhoff,Ryan Broekhoff,Australia/Australia,Australia,Australia,,Australia,1990-08-23,2.01,2018,8,97.5,1
+944,Bruce,Brown,Bruce Brown,University of Miami/USA,University of Miami,USA,Miami (FL),USA,1996-08-15,1.96,2018,10,91.6,1
+945,Troy,Brown Jr.,Troy Brown Jr.,University of Oregon/USA,University of Oregon,USA,Oregon,USA,1999-07-28,2.01,2018,41,97.5,1
+946,Jalen,Brunson,Jalen Brunson,Villanova University/USA,Villanova University,USA,Villanova,USA,1996-08-31,1.9,2018,8,86.2,1
+947,Deonte,Burton,Deonte Burton,Iowa State/USA,Iowa State,USA,Iowa State,USA,1994-01-31,1.96,2018,25,111.1,1
+948,Jeffrey,Carroll,Jeffrey Carroll,,,,,,,,0,,,0
+949,Jevon,Carter,Jevon Carter,West Virginia University/USA,West Virginia University,USA,West Virginia,USA,1995-09-14,1.88,2018,19,88.9,1
+950,Wendell,Carter Jr.,Wendell Carter Jr.,Duke University/USA,Duke University,USA,West Virginia,USA,1999-04-16,2.08,2018,6,115.7,1
+951,Troy,Caupain,Troy Caupain,Cincinnati/USA,Cincinnati,USA,Cincinnati,USA,1995-11-29,1.93,2018,26,95.3,1
+952,Joe,Chealey,Joe Chealey,Charleston (SC)/USA,Charleston (SC),USA,Charleston (SC),USA,1995-11-01,1.9,2018,5,86.2,1
+953,Gary,Clark,Gary Clark, USA/USA, USA,USA,,USA,1994-11-16,2.03,2018,14,102.1,1
+954,Bonzie,Colson,Bonzie Colson,Notre Dame/USA,Notre Dame,USA,Notre Dame,USA,1996-01-12,1.98,2018,21,102.1,1
+955,Markel,Crawford,Markel Crawford,,,,,,,,0,,,0
+956,Devin,Davis,Devin Davis,,,,,,,,0,,,0
+957,Tyler,Davis,Tyler Davis, USA/USA, USA,USA,,USA,1997-05-22,2.08,2018,25,120.7,0
+958,Angel,Delgado,Angel Delgado,Dominican Republic/Dominican Republic,Dominican Republic,Dominican Republic,,Dominican Republic,1994-11-20,2.08,2018,16,111.1,1
+959,Marcus,Derrickson,Marcus Derrickson, USA/USA, USA,USA,Georgetown University,USA,1996-02-01,2.01,2018,11,112.9,1
+960,Hamidou,Diallo,Hamidou Diallo,University of Kentucky/USA,University of Kentucky,USA,Kentucky,USA,1998-07-31,1.96,2018,25,89.8,1
+961,Yanyuhang,Ding,Yanyuhang Ding,,,,,,,,0,,,0
+962,Donte,DiVincenzo,Donte DiVincenzo,Villanova University/USA,Villanova University,USA,Villanova,USA,1997-01-31,1.93,2018,21,92.1,1
+963,Luka,Doncic,Luka Doncic,Slovenia/Slovenia,Slovenia,Slovenia,,Slovenia,1999-02-28,2.01,2018,8,98.9,1
+964,Trevon,Duval,Trevon Duval,Duke/USA,Duke,USA,,USA,1998-08-03,1.88,2018,14,85.7,1
+965,Vincent,Edwards,Vincent Edwards,Purdue University/USA,Purdue University,USA,Purdue,USA,1996-04-05,2.03,2018,14,102.1,1
+966,Drew,Eubanks,Drew Eubanks, USA/USA, USA,USA,,USA,1997-02-01,2.08,2018,31,111.1,1
+967,Jacob,Evans,Jacob Evans,University of Cincinnati/USA,University of Cincinnati,USA,University of Cincinnati,USA,1997-06-18,1.98,2018,11,95.3,1
+968,Keenan,Evans,Keenan Evans,Texas Tech/USA,Texas Tech,USA,,USA,1996-08-23,1.9,0,10,86.2,0
+969,Melvin,Frazier Jr.,Melvin Frazier Jr.,Tulane University/USA,Tulane University,USA,Tulane,USA,1996-08-30,1.98,2018,26,90.7,1
+970,Wenyen,Gabriel,Wenyen Gabriel, Sudan/Sudan, Sudan,Sudan,,Sudan,1997-03-26,2.06,0,30,93.0,1
+971,Abdul,Gaddy,Abdul Gaddy,,,,,,,,0,,,0
+972,Shai,Gilgeous-Alexander,Shai Gilgeous-Alexander,University of Kentucky/Canada,University of Kentucky,Canada,Kentucky,Canada,1998-07-12,1.98,2018,16,82.1,1
+973,Devonte',Graham,Devonte' Graham,University of Kansas/USA,University of Kansas,USA,Villanova,USA,1995-02-22,1.88,2018,5,83.9,1
+974,Rob,Gray,Rob Gray,,,,,,,,0,,,0
+975,Garlon,Green,Garlon Green,Texas Christian,,,Texas Christian,,1991-01-11,2.01,0,23,97.5,0
+976,Isaac,Haas,Isaac Haas,,,,,,1995-10-02,2.18,0,40,131.5,0
+977,Johnny,Hamilton,Johnny Hamilton,,,,,,,,0,,,0
+978,Isaiah,Hartenstein,Isaiah Hartenstein,Germany/Germany,Germany,Germany,,Germany,1998-05-05,2.13,2018,14,112.9,1
+979,Aaron,Holiday,Aaron Holiday,UCLA/USA,UCLA,USA,California-Los Angeles,USA,1996-09-30,1.85,2018,15,83.9,1
+980,Kevin,Huerter,Kevin Huerter,"University of Maryland, College Par/USA","University of Maryland, College Par",USA,Maryland,USA,1998-08-27,2.01,2018,1,86.2,1
+981,Chandler,Hutchison,Chandler Hutchison,Boise State University/USA,Boise State University,USA,Boise State,USA,1996-04-26,2.01,2018,6,89.4,1
+982,Jaren,Jackson Jr.,Jaren Jackson Jr.,Michigan State University/USA,Michigan State University,USA,Michigan State,USA,1999-09-15,2.11,2018,19,109.8,1
+983,Alize,Johnson,Alize Johnson,Missouri State University/USA,Missouri State University,USA,Missouri State,USA,1996-04-22,2.06,2018,15,96.2,1
+984,Darius,Johnson-Odom,Darius Johnson-Odom,,,,,,,,0,,,0
+985,Ismaila,Kane,Ismaila Kane,,,,,,,,0,,,0
+986,George,King,George King,University of Colorado Boulder/USA,University of Colorado Boulder,USA,University of Colorado Boulder,USA,1994-01-15,1.98,2018,28,99.8,1
+987,Kevin,Knox,Kevin Knox,University of Kentucky/USA,University of Kentucky,USA,Kentucky,USA,1999-08-11,2.06,2018,24,97.5,1
+988,Rodions,Kurucs,Rodions Kurucs,Latvia/Latvia,Latvia,Latvia,,Latvia,1998-02-05,2.06,2018,4,95.3,1
+989,Zach,Lofton,Zach Lofton,New Mexico State/USA,New Mexico State,USA,New Mexico State,USA,1992-11-18,,2018,,,0
+990,Jordan,Loyd,Jordan Loyd,Indianapolis/USA,Indianapolis,USA,Indianapolis,USA,1993-07-27,1.93,2018,38,95.3,1
+991,Kalin,Lucas,Kalin Lucas,Michigan State/USA,Michigan State,USA,Michigan State,USA,1989-05-24,1.85,2014,10,88.5,2
+992,Jairus,Lyles,Jairus Lyles,,,,,,,,0,,,0
+993,Daryl,Macon,Daryl Macon,Arkansas/USA,Arkansas,USA,Arkansas,USA,1995-11-29,1.9,2018,8,83.9,1
+994,J.P.,Macura,J.P. Macura,Xavier (Ohio)/USA,Xavier (Ohio),USA,Xavier (Ohio),USA,1995-06-05,1.96,2018,5,93.0,1
+995,Yante,Maten,Yante Maten,Georgia/USA,Georgia,USA,Georgia,USA,1996-08-14,2.03,2018,20,108.9,1
+996,Brandon,McCoy,Brandon McCoy, USA,,,,USA,1998-06-11,2.16,0,23,113.4,0
+997,Jordan,McLaughlin,Jordan McLaughlin,,,,,,,,0,,,0
+998,De'Anthony,Melton,De'Anthony Melton,Southern California/USA,Southern California,USA,Southern California,USA,1998-05-28,1.93,2018,28,90.7,1
+999,Chimezie,Metu,Chimezie Metu,University of Southern California/USA/USA,,,Southern California,USA,1997-03-22,2.08,2018,31,102.1,1
+1000,Codi,Miller-McIntyre,Codi Miller-McIntyre,,,,,,,,0,,,0
+1001,Shake,Milton,Shake Milton,USA/USA,USA,USA,Southern Methodist,USA,1996-09-26,1.98,2018,27,93.9,1
+1002,Naz,Mitrou-Long,Naz Mitrou-Long,Iowa State/Canada,Iowa State,Canada,Iowa State,Canada,1993-08-03,1.93,2017,40,98.9,2
+1003,Doral,Moore,Doral Moore,,,,,,1997-01-21,2.16,0,19,127.0,0
+1004,Darius,Morris,Darius Morris,,,,,,,,0,,,0
+1005,Dzanan,Musa,Dzanan Musa,Bosnia and Herzegovina/Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,,Bosnia and Herzegovina,1999-05-08,2.06,2018,4,94.3,1
+1006,Svi,Mykhailiuk,Svi Mykhailiuk,University of Kansas/Ukraine,University of Kansas,Ukraine,University of Kansas,Ukraine,1997-06-10,2.03,2018,10,93.0,1
+1007,Kendrick,Nunn,Kendrick Nunn,Oakland University (MI)/USA,Oakland University (MI),USA,Oakland University,USA,1995-08-03,1.9,0,20,88.5,0
+1008,James,Nunnally,James Nunnally,California-Santa Barbara/USA,California-Santa Barbara,USA,California-Santa Barbara,USA,1990-07-14,,2013,,,0
+1009,Elie,Okobo,Elie Okobo,France/France,France,France,,France,1997-10-23,1.9,2018,28,86.2,1
+1010,Josh,Okogie,Josh Okogie,Georgia Institute of Technology/Nigeria,Georgia Institute of Technology,Nigeria,Georgia Tech,Nigeria,1998-09-01,1.93,2018,22,96.2,1
+1011,Cameron,Oliver,Cameron Oliver,Nevada/USA,Nevada,USA,Nevada,USA,1996-07-11,2.03,0,29,102.1,0
+1012,Norvel,Pelle,Norvel Pelle, USA/USA, USA,USA,Iona,USA,1993-02-03,2.11,0,27,98.0,0
+1013,Theo,Pinson,Theo Pinson,North Carolina/USA,North Carolina,USA,University of North Carolina at Cha,USA,1995-11-05,1.98,2018,4,98.9,1
+1014,Michael,Porter Jr.,Michael Porter Jr.,University of Missouri/USA,University of Missouri,USA,Missouri,USA,1998-06-29,2.08,0,9,95.3,1
+1015,Billy,Preston,Billy Preston,University of Kansas/USA,University of Kansas,USA,University of Kansas,USA,1997-10-26,2.08,0,7,108.9,0
+1016,Levi,Randolph,Levi Randolph, USA/USA, USA,USA,,USA,1992-10-03,1.96,0,7,93.0,0
+1017,Cameron,Reynolds,Cameron Reynolds, USA/USA, USA,USA,Tulane University,USA,1995-02-07,2.03,2018,22,102.1,1
+1018,Duncan,Robinson,Duncan Robinson,Michigan/USA,Michigan,USA,Michigan,USA,1994-04-22,2.03,2018,20,95.3,1
+1019,Jerome,Robinson,Jerome Robinson,Boston College/USA,Boston College,USA,Boston College,USA,1997-02-22,1.96,2018,16,86.2,1
+1020,Mitchell,Robinson,Mitchell Robinson,Western Kentucky University/USA,Western Kentucky University,USA,,USA,1998-04-01,2.16,2018,24,108.9,1
+1021,Collin,Sexton,Collin Sexton,University of Alabama/USA,University of Alabama,USA,Alabama,USA,1999-01-04,1.88,2018,7,86.2,1
+1022,Landry,Shamet,Landry Shamet,Wichita State University/USA,Wichita State University,USA,Wichita State,USA,1997-03-13,1.96,2018,16,85.3,1
+1023,Anfernee,Simons,Anfernee Simons,USA/USA,USA,USA,IMG Academy,USA,1999-06-08,1.93,2018,29,83.9,1
+1024,Zach,Smith,Zach Smith,,,,,,,,0,,,0
+1025,Zhaire,Smith,Zhaire Smith,Texas Tech University/USA,Texas Tech University,USA,Texas Tech,USA,1999-06-04,1.93,2018,27,90.3,1
+1026,Richard,Solomon,Richard Solomon,,,,,,,,0,,,0
+1027,Ray,Spalding,Ray Spalding,Louisville/USA,Louisville,USA,Louisville,USA,1997-03-11,2.08,2018,28,97.5,1
+1028,Omari,Spellman,Omari Spellman,Villanova University/USA,Villanova University,USA,Villanova,USA,1997-07-21,2.06,2018,1,111.1,1
+1029,Jonathan,Stark,Jonathan Stark,,,,,,,,0,,,0
+1030,Elijah,Stewart,Elijah Stewart,,,,,,,,0,,,0
+1031,Jared,Terrell,Jared Terrell,Rhode Island/USA,Rhode Island,USA,Rhode Island,USA,1995-02-10,1.9,2018,22,103.0,1
+1032,Emanuel,Terry,Emanuel Terry,Lincoln Memorial (TN)/USA,Lincoln Memorial (TN),USA,Lincoln Memorial (TN),USA,1996-08-21,,2018,,,0
+1033,Khyri,Thomas,Khyri Thomas,Creighton University/USA,Creighton University,USA,Creighton,USA,1996-05-08,1.9,2018,10,95.3,1
+1034,Gary,Trent Jr.,Gary Trent Jr.,,,,,,,,0,29,,0
+1035,Allonzo,Trier,Allonzo Trier,University of Arizona/USA,University of Arizona,USA,University of Arizona,USA,1996-01-17,1.96,2018,24,90.7,1
+1036,Jarred,Vanderbilt,Jarred Vanderbilt,University of Kentucky/USA,University of Kentucky,USA,Kentucky,USA,1999-04-03,2.06,2018,9,97.1,1
+1037,Moritz,Wagner,Moritz Wagner,University of Michigan/Germany,University of Michigan,Germany,Michigan,Germany,1997-04-26,2.11,2018,17,111.1,1
+1038,Lonnie,Walker IV,Lonnie Walker IV,University of Miami/USA,University of Miami,USA,Miami (FL),USA,1998-12-14,1.96,2018,31,93.0,1
+1039,Brad,Wanamaker,Brad Wanamaker,Pittsburgh/USA,Pittsburgh,USA,Pittsburgh,USA,1989-07-25,1.93,2018,2,95.3,1
+1040,Yuta,Watanabe,Yuta Watanabe,George Washington/Japan,George Washington,Japan,George Washington,Japan,1994-10-13,2.06,2018,19,93.0,1
+1041,Thomas,Welsh,Thomas Welsh, USA/USA, USA,USA,California-Los Angeles,USA,1996-02-03,2.13,2018,9,115.7,1
+1042,Isaiah,Wilkins,Isaiah Wilkins,,,,,,,,0,,,0
+1043,Johnathan,Williams,Johnathan Williams,Gonzaga/USA,Gonzaga,USA,Gonzaga University,USA,1995-05-22,2.06,2018,17,103.4,1
+1044,Kenrich,Williams,Kenrich Williams, USA/USA, USA,USA,,USA,1994-12-02,2.01,2018,23,95.3,1
+1045,Robert,Williams III,Robert Williams III,Texas A&M University/USA,Texas A&M University,USA,Texas A&M,USA,1997-10-17,2.08,2018,2,108.9,1
+1046,Trae,Young,Trae Young,University of Oklahoma/USA,University of Oklahoma,USA,Oklahoma,USA,1998-09-19,1.88,2018,1,81.6,1
+1047,Corey,Webster,Corey Webster,,,,,,,,0,,,0
+1048,Jacob,Pullen,Jacob Pullen,,,,,,,,0,,,0
+1049,Patrick,Richard,Patrick Richard,,,,,,,,0,,,0
+1050,Tom,Abercrombie,Tom Abercrombie,,,,,,,,0,,,0
+1051,Walter,Lemon Jr.,Walter Lemon Jr.,Bradley/USA,Bradley,USA,Bradley,USA,1992-07-26,1.9,2017,6,81.6,2
+1052,Deng,Deng,Deng Deng,,,,,,,,0,,,0
+1053,Mitchell,Creek,Mitchell Creek,,,,,,,,0,,,0
+1054,Jacob,Wiley,Jacob Wiley,,,,,,,,0,,,0
+1055,Amida,Brimah,Amida Brimah,,,,,,,,0,,,0
+1056,Brian,Bowen,Brian Bowen,,,,,,,,0,,,0
+1057,Malik,Newman,Malik Newman,,,,,,,,0,,,0
+1058,Gary,Trent Jr.,Gary Trent Jr., USA/USA, USA,USA,,USA,1999-01-18,1.98,2018,29,93.0,1
+1059,Harry,Froling,Harry Froling,,,,,,,,0,,,0
+1060,Jack,McVeigh,Jack McVeigh,,,,,,,,0,,,0
+1061,Marcus,Lee,Marcus Lee,,,,,,,,0,,,0
+1062,Trey,Lewis,Trey Lewis,,,,,,,,0,,,0
+1063,Brandon,Goodwin,Brandon Goodwin, USA/USA, USA,USA,,USA,1995-10-02,1.88,2018,9,81.6,1
+1064,Nick,King,Nick King,,,,,,,,0,,,0
+1065,Jeff,Roberson,Jeff Roberson,,,,,,,,0,,,0
+1066,Justin,Bibbs,Justin Bibbs,,,,,,,,0,,,0
+1067,BJ,Johnson,BJ Johnson, USA/USA, USA,USA,La Salle,USA,1995-12-21,2.01,2018,30,90.7,1
+1068,Desi,Rodriguez,Desi Rodriguez,,,,,,,,0,,,0
+1069,Chris,Chiozza,Chris Chiozza, USA/USA, USA,USA,University of Florida,USA,1995-11-21,1.83,2018,14,79.4,1
+1070,Tiwian,Kendley,Tiwian Kendley,,,,,,,,0,,,0
+1071,Kaiser,Gates,Kaiser Gates,,,,,,,,0,,,0
+1072,Nuni,Omot,Nuni Omot,,,,,,,,0,,,0
+1073,Tyrius,Walker,Tyrius Walker,,,,,,,,0,,,0
+1074,Xiaohui,Wang,Xiaohui Wang,,,,,,,,0,,,0
+1075,Lochlan,Cummings,Lochlan Cummings,,,,,,,,0,,,0
+1076,Bryan,Michaels,Bryan Michaels,,,,,,,,0,,,0
+1077,Sunday,Dech,Sunday Dech,,,,,,,,0,,,0
+1078,Xiaohui,Wang,Xiaohui Wang,,,,,,,,0,,,0
+1079,Marcus Vinicius,Souza,Marcus Vinicius Souza,,,,,,,,0,,,0
+1080,Leandrinho,Barbosa,Leandrinho Barbosa,,,,,,,,0,,,0
+1081,Carlos,Alexandre,Carlos Alexandre,,,,,,,,0,,,0
+1082,Ruan,Miranda,Ruan Miranda,,,,,,,,0,,,0
+1083,Nelson,Larkins,Nelson Larkins,,,,,,,,0,,,0
+1084,Jonathan,Morse,Jonathan Morse,,,,,,,,0,,,0
+1085,Josh,Boone,Josh Boone,,,,,,,,0,,,0
+1086,Terrico,White,Terrico White,,,,,,,,0,,,0
+1087,Jerome,Randle,Jerome Randle,,,,,,,,0,,,0
+1088,Ramone,Moore,Ramone Moore,,,,,,,,0,,,0
+1089,David,Wear,David Wear,,,,,,,,0,,,0
+1090,Eric,Stuteville,Eric Stuteville,,,,,,,,0,,,0
+1091,Sam,Short,Sam Short,,,,,,,,0,,,0
+1092,Peter,Hooley,Peter Hooley,,,,,,,,0,,,0
+1093,Craig,Moller,Craig Moller,,,,,,,,0,,,0
+1094,Mitch,McCarron,Mitch McCarron,,,,,,,,0,,,0
+1095,Tohi,Smith-Milner,Tohi Smith-Milner,,,,,,,,0,,,0
+1096,Daniel,Trist,Daniel Trist,,,,,,,,0,,,0
+1097,David,Barlow,David Barlow,,,,,,,,0,,,0
+1098,Sam,McDaniel,Sam McDaniel,,,,,,,,0,,,0
+1099,Alex,Pledger,Alex Pledger,,,,,,,,0,,,0
+1100,Chris,Goulding,Chris Goulding,,,,,,,,0,,,0
+1101,Nick,Kay,Nick Kay,,,,,,,,0,,,0
+1102,Greg,Hire,Greg Hire,,,,,,,,0,,,0
+1103,Mitch,Norton,Mitch Norton,,,,,,,,0,,,0
+1104,Angus,Brandt,Angus Brandt,,,,,,,,0,,,0
+1105,Tomer,Jervis,Tomer Jervis,,,,,,,,0,,,0
+1106,Jesse,Wagstaff,Jesse Wagstaff,,,,,,,,0,,,0
+1107,Rhys,Vague,Rhys Vague,,,,,,,,0,,,0
+1108,Clint,Steindl,Clint Steindl,,,,,,,,0,,,0
+1109,Damian,Martin,Damian Martin,,,,,,,,0,,,0
+1110,Kyle,Adnam,Kyle Adnam,,,,,,,,0,,,0
+1111,Tomer,Wilson,Tomer Wilson,,,,,,,,0,,,0
+1112,Kevin,Lisch,Kevin Lisch,,,,,,,,0,,,0
+1113,Daniel,Kickert,Daniel Kickert,,,,,,,,0,,,0
+1114,Dane,Pineau,Dane Pineau,,,,,,,,0,,,0
+1115,Deng,Acuoth,Deng Acuoth,,,,,,,,0,,,0
+1116,Adris,De Leon,Adris De Leon,,,,,,,,0,,,0
+1117,Brendan,Teys,Brendan Teys,,,,,,,,0,,,0
+1118,Majok,Deng,Majok Deng,,,,,,,,0,,,0
+1119,Adam,Doyle,Adam Doyle,,,,,,,,0,,,0
+1120,Nathan,Sobey,Nathan Sobey,,,,,,,,0,,,0
+1121,Daniel,Johnson,Daniel Johnson,,,,,,,,0,,,0
+1122,Anthony,Drmic,Anthony Drmic,,,,,,,,0,,,0
+1123,Finn,Delany,Finn Delany,,,,,,,,0,,,0
+1124,Armani,Moore,Armani Moore,,,,,,,,0,,,0
+1125,Shea,Ili,Shea Ili,,,,,,,,0,,,0
+1126,Jordan,Ngatai,Jordan Ngatai,,,,,,,,0,,,0
+1127,Majok,Majok,Majok Majok,,,,,,,,0,,,0
+1128,Tai,Wesley,Tai Wesley,,,,,,,,0,,,0
+1129,Jarrad,Weeks,Jarrad Weeks,,,,,,,,0,,,0
+1130,Aaron Lee,Jackson,Aaron Lee Jackson,,,,,,,,0,,,0
+1131,Xiaochuan,Zhai,Xiaochuan Zhai,,,,,,,,0,,,0
+1132,Shuo,Fang,Shuo Fang,,,,,,,,0,,,0
+1133,Yanxi,Zhu,Yanxi Zhu,,,,,,,,0,,,0
+1134,Xiaoyu,Liu,Xiaoyu Liu,,,,,,,,0,,,0
+1135,Lin,Chang,Lin Chang,,,,,,,,0,,,0
+1136,Songtao,Zhang,Songtao Zhang,,,,,,,,0,,,0
+1137,Jiangpeng,Duan,Jiangpeng Duan,,,,,,,,0,,,0
+1138,Cairen,Zhang,Cairen Zhang,,,,,,,,0,,,0
+1139,Xu,Wang,Xu Wang,,,,,,,,0,,,0
+1140,Jianiyou,Taruike,Jianiyou Taruike,,,,,,,,0,,,0
+1141,Hongrui,Duan,Hongrui Duan,,,,,,,,0,,,0
+1142,Xinlei,Wang,Xinlei Wang,,,,,,,,0,,,0
+1143,Ziyi,Zhao,Ziyi Zhao,,,,,,,,0,,,0
+1144,Zhuo,Zhang,Zhuo Zhang,,,,,,,,0,,,0
+1145,Haofeng,Sun,Haofeng Sun,,,,,,,,0,,,0
+1146,Zanyu,Chen,Zanyu Chen,,,,,,,,0,,,0
+1147,Yanman,Zhao,Yanman Zhao,,,,,,,,0,,,0
+1148,David,Rossetto,David Rossetto,,,,,,,,0,,,0
+1149,Franco,Balbi,Franco Balbi,,,,,,,,0,,,0
+1150,Jhonatan,Luz,Jhonatan Luz,,,,,,,,0,,,0
+1151,Kevin,Crescenzi,Kevin Crescenzi,,,,,,,,0,,,0
+1152,Deryk,Ramos,Deryk Ramos,,,,,,,,0,,,0
+1153,Rafael,Mineiro,Rafael Mineiro,,,,,,,,0,,,0
+1154,David,Nesbitt,David Nesbitt,,,,,,,,0,,,0
+1155,Joao,Vitor,Joao Vitor,,,,,,,,0,,,0
+1156,Al-Farouq,Aminu,Al-Farouq Aminu,Wake Forest/USA,Wake Forest,USA,Wake Forest,USA,1990-09-21,2.06,2010,29,99.8,9
+1157,Harrison,Barnes,Harrison Barnes,North Carolina/USA,North Carolina,USA,North Carolina,USA,1992-05-30,2.03,2012,30,102.1,7
+1158,Bismack,Biyombo,Bismack Biyombo,Baloncesto Fuenlabrada/Democratic Republic of Cong,Baloncesto Fuenlabrada,Democratic Republic of Cong,,Democratic Republic of the Congo,1992-08-28,2.06,2011,5,115.7,8
+1159,Swin,Cash,Swin Cash,Connecticut/USA,Connecticut,USA,,USA,1979-09-22,1.85,2002,44,77.6,14
+1160,John,Collins,John Collins,Wake Forest/USA,Wake Forest,USA,Wake Forest,USA,1997-09-23,2.08,2017,1,106.6,2
+1161,Luol,Deng,Luol Deng,Duke/United Kingdom,Duke,United Kingdom,Duke,United Kingdom,1985-04-16,2.06,2004,22,107.5,15
+1162,Cheick,Diallo,Cheick Diallo,Kansas/Mali,Kansas,Mali,Kansas,Mali,1996-09-13,2.06,2016,23,99.8,3
+1163,Joel,Embiid,Joel Embiid,Kansas/Cameroon,Kansas,Cameroon,Kansas,Cameroon,1994-03-16,2.13,2016,27,113.4,5
+1164,Evan,Fournier,Evan Fournier,Poitiers Basket 86/France,Poitiers Basket 86,France, ,France,1992-10-29,2.01,2012,26,93.0,7
+1165,Danilo,Gallinari,Danilo Gallinari,Olimpia Milano/Italy,Olimpia Milano,Italy,,Italy,1988-08-08,2.08,2008,16,102.1,11
+1166,Rudy,Gay,Rudy Gay,Connecticut/USA,Connecticut,USA,Connecticut,USA,1986-08-17,2.03,2006,31,104.3,13
+1167,Serge,Ibaka,Serge Ibaka,Ricoh Manresa/Democratic Republic of the Congo,Ricoh Manresa,Democratic Republic of the Congo, ,Democratic Republic of the Congo,1989-09-18,2.08,2009,38,106.6,10
+1168,Timothe,Luwawu-Cabarrot,Timothe Luwawu-Cabarrot,France/France,France,France,,France,1995-05-09,1.98,2016,6,95.3,3
+1169,Clarisse,Machanguana,Clarisse Machanguana,Old Dominion '97/USA,Old Dominion '97,USA,,USA,1976-10-04,1.96,1999,43,81.6,4
+1170,Ian,Mahinmi,Ian Mahinmi,Pau Orthez/France,Pau Orthez,France,,France,1986-11-05,2.11,2007,41,118.8,12
+1171,JaVale,McGee,JaVale McGee,Nevada-Reno/USA,Nevada-Reno,USA,Nevada-Reno,USA,1988-01-19,2.13,2008,17,122.5,11
+1172,Khris,Middleton,Khris Middleton,Texas A&M/USA,Texas A&M,USA,Texas A&M,USA,1991-08-12,2.03,2012,21,100.7,7
+1173,Pascal,Siakam,Pascal Siakam,New Mexico State/Cameroon,New Mexico State,Cameroon,New Mexico State,Cameroon,1994-04-02,2.06,2016,38,104.3,3
+1174,Dennis,Smith Jr.,Dennis Smith Jr.,North Carolina State/USA,North Carolina State,USA,North Carolina State,USA,1997-11-25,1.9,2017,24,88.5,2
+1175,Hassan,Whiteside,Hassan Whiteside,MarshallUSA/USA,MarshallUSA,USA,Marshall,USA,1989-06-13,2.13,2010,20,120.2,7
+1176,Marvin,Williams,Marvin Williams,North CarolinaUSA/USA,North CarolinaUSA,USA,North Carolina,USA,1986-06-19,2.06,2005,5,107.5,14
+1177,Abudushalamu,Abudurexiti,Abudushalamu Abudurexiti,,,,,,,,0,11,,0
+1178,Bam,Adebayo,Bam Adebayo,Kentucky/USA,Kentucky,USA,Kentucky,USA,1997-07-18,2.08,2017,20,115.7,2
+1179,Zach,Auguste,Zach Auguste,,,,,,,,0,,,0
+1180,Brandon,Austin,Brandon Austin,,,,,,,,0,,,0
+1181,Marvin,Bagley III,Marvin Bagley III,Duke University/USA,Duke University,USA,Duke,USA,1999-03-14,2.11,2018,30,106.1,1
+1182,Jordan,Bell,Jordan Bell,Oregon/USA,Oregon,USA,Oregon,USA,1995-01-07,2.06,2017,11,101.6,2
+1183,Joel,Berry II,Joel Berry II,,,,,,,,0,17,,0
+1184,Stephaun,Branch,Stephaun Branch,West Georgia/USA,West Georgia,USA,West Georgia,USA,1995-11-07,1.96,0,17,95.3,0
+1185,Anthony,Brown,Anthony Brown,Stanford/USA,Stanford,USA,Stanford,USA,1992-10-10,2.01,2015,27,101.6,3
+1186,Elijah,Brown,Elijah Brown,,,,,,,,0,11,,0
+1187,Rion,Brown,Rion Brown,,,,,,,,0,11,,0
+1188,Jeffrey,Carroll,Jeffrey Carroll,,,,,,,,0,,,0
+1189,Alex,Caruso,Alex Caruso,Texas A&M/USA,Texas A&M,USA,Texas A&M,USA,1994-02-28,1.96,2017,17,84.4,2
+1190,Gian,Clavell,Gian Clavell,Colorado State/Puerto Rico,Colorado State,Puerto Rico,Colorado State,Puerto Rico,1993-11-26,1.93,2017,11,83.9,1
+1191,Xavier,Cooks,Xavier Cooks,,,,,,,,0,11,,0
+1192,Marcus,Derrickson,Marcus Derrickson, USA/USA, USA,USA,Georgetown University,USA,1996-02-01,2.01,2018,11,112.9,1
+1193,Dikembe,Dixson,Dikembe Dixson, USA/USA, USA,USA,,USA,1996-09-06,2.01,0,20,90.7,0
+1194,Jacob,Evans,Jacob Evans,University of Cincinnati/USA,University of Cincinnati,USA,University of Cincinnati,USA,1997-06-18,1.98,2018,11,95.3,1
+1195,Keenan,Evans,Keenan Evans,Texas Tech/USA,Texas Tech,USA,,USA,1996-08-23,1.9,0,10,86.2,0
+1196,Matt,Farrell,Matt Farrell,,,,,,,,0,20,,0
+1197,Marcus,Foster,Marcus Foster,,,,,,,,0,30,,0
+1198,De'Aaron,Fox,De'Aaron Fox,Kentucky/USA,Kentucky,USA,Kentucky,USA,1997-12-20,1.9,2017,30,79.4,2
+1199,Allerik,Freeman,Allerik Freeman,,,,,,,,0,30,,0
+1200,Wenyen,Gabriel,Wenyen Gabriel, Sudan/Sudan, Sudan,Sudan,,Sudan,1997-03-26,2.06,0,30,93.0,1
+1201,Harry,Giles III,Harry Giles III,Duke/USA,Duke,USA,Duke,USA,1998-04-22,2.08,2018,30,108.9,2
+1202,Josh,Hart,Josh Hart,Villanova/USA,Villanova,USA,Villanova,USA,1995-03-06,1.96,2017,17,97.5,2
+1203,Nigel,Hayes,Nigel Hayes,Wisconsin/USA,Wisconsin,USA,Wisconsin,USA,1994-12-16,2.01,2017,30,115.2,1
+1204,Demarcus,Holland,Demarcus Holland,Texas/USA,Texas,USA,Texas,USA,1994-03-02,1.93,0,17,81.6,0
+1205,Jordan,Howard,Jordan Howard,,,,,,,,0,11,,0
+1206,Justin,Jackson,Justin Jackson,North Carolina/USA,North Carolina,USA,North Carolina,USA,1995-03-28,2.03,2017,8,95.3,2
+1207,Omari,Johnson,Omari Johnson,Oregon State/Jamaica,Oregon State,Jamaica,Oregon State,Jamaica,1989-05-26,2.06,2017,15,99.8,1
+1208,Damian,Jones,Damian Jones,Vanderbilt/USA,Vanderbilt,USA,Vanderbilt,USA,1995-06-30,2.13,2016,11,111.1,3
+1209,Jarrod,Jones,Jarrod Jones,,,,,,,,0,20,,0
+1210,Derrick,Jones Jr.,Derrick Jones Jr.,Nevada-Las Vegas/USA,Nevada-Las Vegas,USA,Nevada-Las Vegas,USA,1997-02-15,2.01,2016,20,90.7,3
+1211,Nick,King,Nick King,,,,,,,,0,17,,0
+1212,Daryl,Macon,Daryl Macon,,,,,,,,0,20,,0
+1213,Josh,Magette,Josh Magette,Alabama-Huntsville/USA,Alabama-Huntsville,USA,Alabama-Huntsville,USA,1989-11-28,1.85,2017,1,72.6,1
+1214,Frank,Mason,Frank Mason,Kansas/USA,Kansas,USA,Kansas,USA,1994-04-03,1.8,2017,30,86.2,2
+1215,Yante,Maten,Yante Maten,Georgia/USA,Georgia,USA,Georgia,USA,1996-08-14,2.03,2018,20,108.9,1
+1216,Daxter,Miles Jr,Daxter Miles Jr,,,,,,,,0,30,,0
+1217,Svi,Mykhailiuk,Svi Mykhailiuk,University of Kansas/Ukraine,University of Kansas,Ukraine,University of Kansas,Ukraine,1997-06-10,2.03,2018,10,93.0,1
+1218,Malik,Newman,Malik Newman,,,,,,,,0,,,0
+1219,Landry,Nnoko,Landry Nnoko,Clemson/Cameroon,Clemson,Cameroon,Clemson,Cameroon,1994-04-09,2.08,0,20,113.4,0
+1220,Kendrick,Nunn,Kendrick Nunn,,,,,,,,0,11,,0
+1221,Ike,Nwamu,Ike Nwamu,UNLV/USA,UNLV,USA,UNLV,USA,1993-06-03,1.96,0,20,95.3,0
+1222,Nuni,Omot,Nuni Omot,,,,,,,,0,11,,0
+1223,Malik,Pope,Malik Pope, USA,,,,USA,1996-07-25,2.08,0,17,99.8,0
+1224,Xavier,Rathan-Mayes,Xavier Rathan-Mayes,Florida State/Canada,Florida State,Canada,Florida State,Canada,1994-04-29,1.93,2017,17,95.3,1
+1225,Cam,Reynolds,Cam Reynolds,,,,,,,,0,30,,0
+1226,Jeff,Roberson,Jeff Roberson,,,,,,,,0,11,,0
+1227,Duncan,Robinson,Duncan Robinson,,,,,,,,0,20,,0
+1228,Justin,Tillman,Justin Tillman,,,,,,,,0,20,,0
+1229,JP,Tokoto,JP Tokoto,,,,,,,,0,,,0
+1230,Elston,Turner Jr,Elston Turner Jr,,,,,,,,0,30,,0
+1231,Rashad,Vaughn,Rashad Vaughn,Nevada-Las Vegas/USA,Nevada-Las Vegas,USA,UNLV,USA,1996-08-16,1.98,2015,8,95.3,3
+1232,Moritz,Wagner,Moritz Wagner,University of Michigan/Germany,University of Michigan,Germany,Michigan,Germany,1997-04-26,2.11,2018,17,111.1,1
+1233,Derrick,Walton Jr.,Derrick Walton Jr.,Michigan/USA,Michigan,USA,Michigan,USA,1995-04-03,1.85,2017,6,86.2,1
+1234,Tai,Webster,Tai Webster,,,,,,,,0,20,,0
+1235,Devin,Williams,Devin Williams,West Virginia/USA,West Virginia,USA,West Virginia,USA,1994-05-31,2.06,0,30,115.7,0
+1236,Johnathan,Williams,Johnathan Williams,,,,,,,,0,17,,0
+1237,Brandon,Austin,Brandon Austin,,,,,,,,0,,,0
+1238,Anthony,Brown,Anthony Brown,,,,,,,,0,,,0
+1239,Allerek,Freeman,Allerek Freeman,,,,,,,,0,,,0
+1240,Devin,Williams,Devin Williams,,,,,,,,0,,,0
+1241,Awudu,Abass,Awudu Abass,,,,,,,,0,25,,0
+1242,Abudushalamu,Abudurexiti,Abudushalamu Abudurexiti,,,,,,,,0,11,,0
+1243,Jaylen,Adams,Jaylen Adams,,,,,,,,0,1,,0
+1244,Josh,Adams,Josh Adams,,,,,,,,0,8,,0
+1245,Bam,Adebayo,Bam Adebayo,Kentucky/USA,Kentucky,USA,Kentucky,USA,1997-07-18,2.08,2017,20,115.7,2
+1246,Deng,Adel,Deng Adel, South Sudan/South Sudan, South Sudan,South Sudan,,South Sudan,1997-02-01,2.01,2018,7,90.7,1
+1247,DeVaughn,Akoon Purcell,DeVaughn Akoon Purcell,,,,,,,,0,9,,0
+1248,Peyton,Aldridge,Peyton Aldridge,,,,,,,,0,40,,0
+1249,Cliff,Alexander,Cliff Alexander,,,,Kansas,United States,1995-11-16,2.03,2015,29,108.9,0
+1250,Bryce,Alford,Bryce Alford,,,,,,,,0,,,0
+1251,Rawle,Alkins,Rawle Alkins, USA/USA, USA,USA,,USA,1997-10-29,1.96,2018,6,102.1,1
+1252,Grayson,Allen,Grayson Allen,Duke University/USA,Duke University,USA,Duke,USA,1995-10-08,1.96,2018,40,89.8,1
+1253,Jarrett,Allen,Jarrett Allen,Texas/USA,Texas,USA,Texas,USA,1998-04-21,2.11,2017,4,107.5,2
+1254,Kadeem,Allen,Kadeem Allen,ArizonaUSA/USA,ArizonaUSA,USA,Arizona,USA,1993-01-15,1.9,2017,24,90.7,2
+1255,Braian,Angola Rodas,Braian Angola Rodas,,,,,,,,0,26,,0
+1256,Kostas,Antetokounmpo,Kostas Antetokounmpo,University of Dayton/Greece,University of Dayton,Greece,Dayton,Greece,1997-11-20,2.08,2018,8,90.7,1
+1257,OG,Anunoby,OG Anunoby,Indiana/United Kingdom,Indiana,United Kingdom,Indiana,United Kingdom,1997-07-17,2.03,2017,38,105.2,2
+1258,Ryan,Arcidiacono,Ryan Arcidiacono,Villanova/USA,Villanova,USA,Villanova,USA,1994-03-26,1.9,2017,6,90.7,2
+1259,Jamel,Artis,Jamel Artis,,,,,,,,0,,,0
+1260,Zach,Auguste,Zach Auguste,,,,,,,,0,,,0
+1261,Brandon,Austin,Brandon Austin,,,,,,,,0,,,0
+1262,Jeff,Ayres,Jeff Ayres,,,,Arizona State,USA,1987-04-29,2.06,2009,16,113.4,5
+1263,Deandre,Ayton,Deandre Ayton,University of Arizona/Bahamas,University of Arizona,Bahamas,Arizona,Bahamas,1998-07-23,2.16,2018,28,113.4,1
+1264,Dwayne,Bacon,Dwayne Bacon,Florida State/USA,Florida State,USA,Florida State,USA,1995-08-30,2.01,2017,5,100.2,2
+1265,Marvin,Bagley III,Marvin Bagley III,Duke University/USA,Duke University,USA,Duke,USA,1999-03-14,2.11,2018,30,106.1,1
+1266,Wade,Baldwin IV,Wade Baldwin IV,Vanderbilt/USA,Vanderbilt,USA,Vanderbilt,USA,1996-03-29,1.93,2016,15,90.7,2
+1267,Mo,Bamba,Mo Bamba,University of Texas at Austin/USA,University of Texas at Austin,USA,Texas,USA,1998-05-12,2.13,2018,26,100.2,1
+1268,Jaylen,Barford,Jaylen Barford,,,,,,1996-01-23,1.88,0,5,93.9,0
+1269,Jordan,Barnett,Jordan Barnett,,,,,,,,0,21,,0
+1270,Keita,Bates-Diop,Keita Bates-Diop,Ohio State University/USA,Ohio State University,USA,Ohio State,USA,1996-01-23,2.06,2018,22,103.9,1
+1271,Malik,Beasley,Malik Beasley,Florida State/USA,Florida State,USA,Florida State,USA,1996-11-26,1.96,2016,9,88.5,3
+1272,Jordan,Bell,Jordan Bell,Oregon/USA,Oregon,USA,Oregon,USA,1995-01-07,2.06,2017,11,101.6,2
+1273,Trae,Bell Haynes,Trae Bell Haynes,,,,,,,,0,21,,0
+1274,Dragan,Bender,Dragan Bender,Croatia/Croatia,Croatia,Croatia, ,Croatia,1997-11-17,2.16,2016,28,102.1,3
+1275,Joel,Berry II,Joel Berry II,,,,,,,,0,17,,0
+1276,Justin,Bibbs,Justin Bibbs,,,,,,,,0,2,,0
+1277,Khem,Birch,Khem Birch,Nevada-Las Vegas/Canada,Nevada-Las Vegas,Canada,UNLV,Canada,1992-09-28,2.06,2017,26,105.7,2
+1278,Jabari,Bird,Jabari Bird,California/USA,California,USA,California,USA,1994-07-03,1.98,2017,2,89.8,1
+1279,James,Blackmon Jr.,James Blackmon Jr.,Indiana/USA,Indiana,USA,Indiana,USA,1995-04-25,1.93,0,21,90.7,0
+1280,Brayon,Blake,Brayon Blake,,,,,,,,0,7,,0
+1281,Antonio,Blakeney,Antonio Blakeney,Louisiana State/USA,Louisiana State,USA,Louisiana State,USA,1996-10-04,1.93,2017,6,87.1,2
+1282,Bogdan,Bliznyuk,Bogdan Bliznyuk,,,,,,,,0,16,,0
+1283,Jaron,Blossomgame,Jaron Blossomgame,Clemson/USA,Clemson,USA,Clemson,USA,1993-09-16,2.03,2018,7,99.8,1
+1284,Trevon,Bluiett,Trevon Bluiett,,,,,,,,0,23,,0
+1285,Jonah,Bolden,Jonah Bolden,Australia/Australia,Australia,Australia,,Australia,1996-01-02,2.08,2018,27,99.8,1
+1286,Isaac,Bonga,Isaac Bonga,Germany/Germany,Germany,Germany,,Germany,1999-11-08,2.03,2018,17,81.6,1
+1287,Askia,Booker,Askia Booker,Colorado/USA,Colorado,USA,Colorado,USA,1993-08-31,1.85,0,27,77.1,0
+1288,Dee,Bost,Dee Bost,Mississippi State,,,Mississippi State, ,1989-10-12,1.88,0,19,79.4,0
+1289,Chris,Boucher,Chris Boucher,Oregon/Canada,Oregon,Canada,Oregon,Canada,1993-01-11,2.08,2017,38,90.7,2
+1290,Jacobi,Boykins,Jacobi Boykins,,,,,,,,0,26,,0
+1291,Desonta,Bradford,Desonta Bradford,,,,,,,,0,23,,0
+1292,Tony,Bradley,Tony Bradley,North Carolina/USA,North Carolina,USA,North Carolina,USA,1998-01-08,2.08,2017,40,112.5,2
+1293,Stephaun,Branch,Stephaun Branch,West Georgia/USA,West Georgia,USA,West Georgia,USA,1995-11-07,1.96,0,17,95.3,0
+1294,Mikal,Bridges,Mikal Bridges,Villanova University/USA,Villanova University,USA,Villanova,USA,1996-08-30,2.01,2018,28,95.3,1
+1295,Miles,Bridges,Miles Bridges,Michigan State University/USA,Michigan State University,USA,Michigan State,USA,1998-03-21,2.01,2018,5,102.1,1
+1296,Amida,Brimah,Amida Brimah,,,,,,,,0,,,0
+1297,Isaiah,Briscoe,Isaiah Briscoe, USA/USA, USA,USA,,USA,1996-04-13,1.9,2018,26,97.5,0
+1298,Vladimir,Brodziansky,Vladimir Brodziansky,,,,,,,,0,7,,0
+1299,Dillon,Brooks,Dillon Brooks,Oregon/Canada,Oregon,Canada,Oregon,Canada,1996-01-22,1.98,2017,19,99.8,2
+1300,Anthony,Brown,Anthony Brown,Stanford/USA,Stanford,USA,Stanford,USA,1992-10-10,2.01,2015,27,101.6,3
+1301,Bruce,Brown,Bruce Brown,University of Miami/USA,University of Miami,USA,Miami (FL),USA,1996-08-15,1.96,2018,10,91.6,1
+1302,Elijah,Brown,Elijah Brown,,,,,,,,0,11,,0
+1303,Markel,Brown,Markel Brown,Oklahoma State/USA,Oklahoma State,USA,Oklahoma State,USA,1992-01-29,1.9,2014,14,86.2,3
+1304,Rion,Brown,Rion Brown,,,,,,,,0,11,,0
+1305,Sterling,Brown,Sterling Brown,Southern Methodist/USA,Southern Methodist,USA,Southern Methodist,USA,1995-02-10,1.98,2017,21,105.2,2
+1306,Troy,Brown Jr.,Troy Brown Jr.,University of Oregon/USA,University of Oregon,USA,Oregon,USA,1999-07-28,2.01,2018,41,97.5,1
+1307,Jalen,Brunson,Jalen Brunson,Villanova University/USA,Villanova University,USA,Villanova,USA,1996-08-31,1.9,2018,8,86.2,1
+1308,Elijah,Bryant,Elijah Bryant,Brigham Young University,,,Brigham Young University,USA,1995-04-19,1.96,0,21,95.3,0
+1309,Thomas,Bryant,Thomas Bryant,Indiana/USA,Indiana,USA,Indiana,USA,1997-07-31,2.11,2017,41,112.5,2
+1310,Deonte,Burton,Deonte Burton,,,,,,,,0,25,,0
+1311,Antonio,Campbell,Antonio Campbell, USA/USA, USA,USA,,USA,1994-12-24,2.06,0,26,110.7,0
+1312,Vlatko,Cancar,Vlatko Cancar,Slovenia/Slovenia,Slovenia,Slovenia,,Slovenia,1997-04-10,2.03,0,9,95.3,0
+1313,Tony,Carr,Tony Carr,,,,Penn State,,1997-10-11,1.96,0,23,92.5,0
+1314,Michael,Carrera,Michael Carrera, Venezuela/Venezuela, Venezuela,Venezuela,,Venezuela,1993-01-07,1.96,0,25,96.2,0
+1315,Khadeen,Carrington,Khadeen Carrington,Seton Hall,,,Seton Hall,,1995-10-03,1.93,0,,88.5,0
+1316,Jeffrey,Carroll,Jeffrey Carroll,,,,,,,,0,,,0
+1317,Jevon,Carter,Jevon Carter,,,,,,,,0,19,,0
+1318,Wendell,Carter Jr.,Wendell Carter Jr.,Duke University/USA,Duke University,USA,West Virginia,USA,1999-04-16,2.08,2018,6,115.7,1
+1319,Alex,Caruso,Alex Caruso,Texas A&M/USA,Texas A&M,USA,Texas A&M,USA,1994-02-28,1.96,2017,17,84.4,2
+1320,Sam,Cassell Jr,Sam Cassell Jr,,,,,,,,0,41,,0
+1321,Troy,Caupain,Troy Caupain,Cincinnati/USA,Cincinnati,USA,Cincinnati,USA,1995-11-29,1.93,2018,26,95.3,1
+1322,Joe,Chealey,Joe Chealey,,,,,,,,0,5,,0
+1323,Chris,Chiozza,Chris Chiozza,,,,,,,,0,41,,0
+1324,Semaj,Christon,Semaj Christon,Xavier/USA,Xavier,USA,Xavier,USA,1992-11-01,1.9,2016,,86.2,0
+1325,Gary,Clark,Gary Clark, USA/USA, USA,USA,,USA,1994-11-16,2.03,2018,14,102.1,1
+1326,Gian,Clavell,Gian Clavell,Colorado State/Puerto Rico,Colorado State,Puerto Rico,Colorado State,Puerto Rico,1993-11-26,1.93,2017,11,83.9,1
+1327,Antonius,Cleveland,Antonius Cleveland,Southeast Missouri State/USA,Southeast Missouri State,USA,Southeast Missouri State,USA,1994-02-02,1.98,2017,6,89.8,1
+1328,Dennis,Clifford,Dennis Clifford,Boston College/USA,Boston College,USA,Boston College,USA,1992-02-29,2.16,0,22,117.9,0
+1329,TJ,Cline,TJ Cline,Richmond,,,Richmond,,1994-07-22,2.06,0,,104.3,0
+1330,Mike,Cobbins,Mike Cobbins,Oklahoma State/USA,Oklahoma State,USA,Oklahoma State,USA,1992-08-09,2.03,0,25,104.3,0
+1331,Chris,Cokley,Chris Cokley,,,,,,,,0,5,,0
+1332,Dwight,Coleby,Dwight Coleby,,,,,,,,0,23,,0
+1333,John,Collins,John Collins,Wake Forest/USA,Wake Forest,USA,Wake Forest,USA,1997-09-23,2.08,2017,1,106.6,2
+1334,Zach,Collins,Zach Collins,Gonzaga/USA,Gonzaga,USA,Gonzaga,USA,1997-11-19,2.13,2017,29,106.6,2
+1335,Kyle,Collinsworth,Kyle Collinsworth,Brigham Young/USA,Brigham Young,USA,Brigham Young,USA,1991-10-03,1.98,2017,38,95.3,1
+1336,Chance,Comanche,Chance Comanche,Arizona/USA,Arizona,USA,Arizona,USA,1996-04-14,2.08,0,26,95.3,0
+1337,Demitrius,Conger,Demitrius Conger,,,,,,,,0,2,,0
+1338,Charles,Cooke,Charles Cooke,Dayton/USA,Dayton,USA,Dayton,USA,1994-07-01,1.96,2017,20,88.9,1
+1339,Xavier,Cooks,Xavier Cooks,,,,,,,,0,11,,0
+1340,Jack,Cooley,Jack Cooley,Notre Dame/USA,Notre Dame,USA,Notre Dame,USA,1991-04-12,2.08,2014,30,124.3,2
+1341,Petr,Cornelie,Petr Cornelie,France/France,France,France,,France,1995-07-26,2.11,0,9,99.8,0
+1342,Isaiah,Cousins,Isaiah Cousins,Oklahoma/USA,Oklahoma,USA,Oklahoma,USA,1994-03-13,1.93,0,40,86.6,0
+1343,Bryant,Crawford,Bryant Crawford,,,,,,,,0,4,,0
+1344,Markel,Crawford,Markel Crawford,,,,,,,,0,19,,0
+1345,Mitchell,Creek,Mitchell Creek,,,,,,,,0,,,0
+1346,Hayden,Dalton,Hayden Dalton,,,,,,,,0,9,,0
+1347,Deyonta,Davis,Deyonta Davis,Michigan State/USA,Michigan State,USA,Michigan State,USA,1996-12-02,2.11,2016,14,107.5,3
+1348,Trey,Davis,Trey Davis,Massachusetts/USA,Massachusetts,USA,Massachusetts,USA,1993-05-26,1.83,0,2,81.6,0
+1349,Tyler,Davis,Tyler Davis, USA/USA, USA,USA,,USA,1997-05-22,2.08,2018,25,120.7,0
+1350,Shawn,Dawson,Shawn Dawson,,,,,,,,0,,,0
+1351,Angel,Delgado,Angel Delgado,Dominican Republic/Dominican Republic,Dominican Republic,Dominican Republic,,Dominican Republic,1994-11-20,2.08,2018,16,111.1,1
+1352,James,Demery,James Demery,,,,,,,,0,5,,0
+1353,Cody,Demps,Cody Demps,Sacramento State/USA,Sacramento State,USA,Sacramento State,USA,1993-12-02,1.93,0,15,88.5,0
+1354,Marcus,Derrickson,Marcus Derrickson, USA/USA, USA,USA,Georgetown University,USA,1996-02-01,2.01,2018,11,112.9,1
+1355,Gabe,Devoe,Gabe Devoe,,,,,,,,0,5,,0
+1356,Cheick,Diallo,Cheick Diallo,Kansas/Mali,Kansas,Mali,Kansas,Mali,1996-09-13,2.06,2016,23,99.8,3
+1357,Hamidou,Diallo,Hamidou Diallo,University of Kentucky/USA,University of Kentucky,USA,Kentucky,USA,1998-07-31,1.96,2018,25,89.8,1
+1358,Donte,DiVincenzo,Donte DiVincenzo,Villanova University/USA,Villanova University,USA,Villanova,USA,1997-01-31,1.93,2018,21,92.1,1
+1359,Daniel,Dixon,Daniel Dixon,William & Mary / USA,William & Mary , USA,William & Mary,USA,1994-02-13,1.98,0,2,95.3,0
+1360,Dikembe,Dixson,Dikembe Dixson, USA/USA, USA,USA,,USA,1996-09-06,2.01,0,20,90.7,0
+1361,Luka,Doncic,Luka Doncic,Slovenia/Slovenia,Slovenia,Slovenia,,Slovenia,1999-02-28,2.01,2018,8,98.9,1
+1362,Tyler,Dorsey,Tyler Dorsey,Oregon/USA,Oregon,USA,Oregon,USA,1996-02-18,1.96,2017,19,83.0,2
+1363,Damyean,Dotson,Damyean Dotson,Houston/USA,Houston,USA,Houston,USA,1994-05-06,1.98,2017,24,95.3,2
+1364,Milton,Doyle,Milton Doyle,Loyola (Chicago)/USA,Loyola (Chicago),USA,Loyola (Chicago),USA,1993-10-31,1.93,2017,4,81.6,1
+1365,PJ,Dozier,PJ Dozier,South Carolina/USA,South Carolina,USA,South Carolina,USA,1996-10-25,1.98,2017,2,93.0,2
+1366,Larry,Drew II,Larry Drew II,UCLA/USA,UCLA,USA,UCLA,USA,1990-03-05,1.88,2014,23,81.6,2
+1367,Trevon,Duval,Trevon Duval,Duke/USA,Duke,USA,,USA,1998-08-03,1.88,2018,14,85.7,1
+1368,Jarell,Eddie,Jarell Eddie,Virginia Tech/USA,Virginia Tech,USA,Virginia Tech,USA,1991-10-30,2.01,2015,6,98.9,4
+1369,Vincent,Edwards,Vincent Edwards,Purdue University/USA,Purdue University,USA,Purdue,USA,1996-04-05,2.03,2018,14,102.1,1
+1370,Fuquan,Edwin,Fuquan Edwin, USA/USA, USA,USA,Seton Hall,USA,1991-09-17,1.98,0,38,96.6,0
+1371,Nnanna,Egwu,Nnanna Egwu,Illinois/Nigeria,Illinois,Nigeria,Illinois,Nigeria,1992-10-22,2.11,0,10,113.4,0
+1372,Henry,Ellenson,Henry Ellenson,Marquette/USA,Marquette,USA,Marquette,USA,1997-01-13,2.11,2016,24,111.1,3
+1373,Perry,Ellis,Perry Ellis,,,,,,,,0,33,,0
+1374,Obi,Enechionyia,Obi Enechionyia,Temple,,,Temple,,1995-09-19,2.08,0,,99.8,0
+1375,Drew,Eubanks,Drew Eubanks,,,,,,,,0,31,,0
+1376,Jacob,Evans,Jacob Evans,University of Cincinnati/USA,University of Cincinnati,USA,University of Cincinnati,USA,1997-06-18,1.98,2018,11,95.3,1
+1377,Jawun,Evans,Jawun Evans,Oklahoma State/USA,Oklahoma State,USA,Oklahoma State,USA,1996-07-26,1.83,2017,25,86.2,2
+1378,Keenan,Evans,Keenan Evans,Texas Tech/USA,Texas Tech,USA,,USA,1996-08-23,1.9,0,10,86.2,0
+1379,Shannon,Evans,Shannon Evans,,,,,,,,0,14,,0
+1380,Matt,Farrell,Matt Farrell,,,,,,,,0,20,,0
+1381,Carrick,Felix,Carrick Felix,Arizona State/USA,Arizona State,USA,Arizona State,USA,1990-08-17,1.98,2013,41,90.7,2
+1382,Terrance,Ferguson,Terrance Ferguson,USA/USA,USA,USA,,USA,1998-05-17,2.01,2017,25,86.2,2
+1383,Dorian,Finney-Smith,Dorian Finney-Smith,Florida/USA,Florida,USA,Florida,USA,1993-05-04,2.03,2016,8,99.8,3
+1384,Marcus,Foster,Marcus Foster,,,,,,,,0,30,,0
+1385,Nana,Foulland,Nana Foulland,,,,,,,,0,22,,0
+1386,Melvin,Frazier Jr.,Melvin Frazier Jr.,Tulane University/USA,Tulane University,USA,Tulane,USA,1996-08-30,1.98,2018,26,90.7,1
+1387,Wenyen,Gabriel,Wenyen Gabriel, Sudan/Sudan, Sudan,Sudan,,Sudan,1997-03-26,2.06,0,30,93.0,1
+1388,Billy,Garrett,Billy Garrett,DePaul/USA,DePaul,USA,DePaul University,USA,1994-10-16,1.98,2018,28,97.5,1
+1389,Kaiser,Gates,Kaiser Gates,,,,,,,,0,6,,0
+1390,Michael,Gbinije,Michael Gbinije,Syracuse/USA,Syracuse,USA,Syracuse,USA,1992-06-05,2.01,2016,,90.7,0
+1391,Norbertas,Giga,Norbertas Giga,,,,,,,,0,27,,0
+1392,Harry,Giles III,Harry Giles III,Duke/USA,Duke,USA,Duke,USA,1998-04-22,2.08,2018,30,108.9,2
+1393,Shai,Gilgeous-Alexander,Shai Gilgeous-Alexander,University of Kentucky/Canada,University of Kentucky,Canada,Kentucky,Canada,1998-07-12,1.98,2018,16,82.1,1
+1394,Archie,Goodwin,Archie Goodwin,Kentucky/USA,Kentucky,USA,Kentucky,USA,1994-08-17,1.96,2013,,93.0,3
+1395,Brandon,Goodwin,Brandon Goodwin,,,,,,,,0,19,,0
+1396,Phil,Goss,Phil Goss,,,,,,,,0,41,,0
+1397,Devonte',Graham,Devonte' Graham,University of Kansas/USA,University of Kansas,USA,Villanova,USA,1995-02-22,1.88,2018,5,83.9,1
+1398,Josh,Gray,Josh Gray,Louisiana State/USA,Louisiana State,USA,Louisiana State,USA,1993-09-09,1.85,2017,4,77.1,1
+1399,Rob,Gray,Rob Gray,,,,,,,,0,14,,0
+1400,Garlon,Green,Garlon Green,Texas Christian,,,Texas Christian,,1991-01-11,2.01,0,23,97.5,0
+1401,Javonte,Green,Javonte Green,,,,,,,,0,28,,0
+1402,Jordan,Green,Jordan Green,Texas A&M/USA,Texas A&M,USA,Texas A&M,USA,1993-05-05,1.96,0,31,86.2,0
+1403,Phil,Greene,Phil Greene,,,,,,,,0,8,,0
+1404,Eric,Griffin,Eric Griffin,Campbell,,,Campbell, ,1990-05-26,2.03,0,10,88.0,4
+1405,Isaac,Haas,Isaac Haas,,,,,,1995-10-02,2.18,0,40,131.5,0
+1406,Devon,Hall,Devon Hall, USA/USA, USA,USA,Virginia,USA,1995-07-07,1.96,0,25,97.5,0
+1407,Daniel,Hamilton,Daniel Hamilton,Connecticut/USA,Connecticut,USA,Connecticut,USA,1995-08-08,2.01,2017,1,88.5,1
+1408,Johnny,Hamilton,Johnny Hamilton,,,,,,,,0,10,,0
+1409,Tommy,Hamilton,Tommy Hamilton,,,,,,,,0,31,,0
+1410,Olivier,Hanlan,Olivier Hanlan,Boston College/Canada,Boston College,Canada,Boston College,Canada,1993-02-15,1.93,0,31,86.2,0
+1411,Tyler,Harris,Tyler Harris,Auburn/USA,Auburn,USA,Auburn,USA,1993-09-01,2.06,0,9,97.5,0
+1412,Aaron,Harrison,Aaron Harrison,Kentucky/USA,Kentucky,USA,Kentucky,USA,1994-10-28,1.98,2015,8,95.3,3
+1413,Shaquille,Harrison,Shaquille Harrison,Tulsa/USA,Tulsa,USA,Tulsa,USA,1993-10-06,1.93,2017,6,86.2,2
+1414,Josh,Hart,Josh Hart,Villanova/USA,Villanova,USA,Villanova,USA,1995-03-06,1.96,2017,17,97.5,2
+1415,Isaiah,Hartenstein,Isaiah Hartenstein,Germany/Germany,Germany,Germany,,Germany,1998-05-05,2.13,2018,14,112.9,1
+1416,Nigel,Hayes,Nigel Hayes,Wisconsin/USA,Wisconsin,USA,Wisconsin,USA,1994-12-16,2.01,2017,30,115.2,1
+1417,Reggie,Hearn,Reggie Hearn,Northwestern/USA,Northwestern,USA,Northwestern,USA,1991-08-14,1.96,2017,10,95.3,1
+1418,Terry,Henderson,Terry Henderson,North Carolina State/USA,North Carolina State,USA,North Carolina State,USA,1994-03-21,1.93,0,5,90.7,0
+1419,Heng,Heng,Heng Heng,,,,,,,,0,41,,0
+1420,Pierria,Henry,Pierria Henry,,,,,,,,0,2,,0
+1421,Willy,Hernangomez,Willy Hernangomez,Cajasol Sevilla/Spain,Cajasol Sevilla,Spain,,Spain,1994-05-27,2.11,2016,5,108.9,3
+1422,Alan,Herndon,Alan Herndon,,,,,,,,0,41,,0
+1423,Kevin,Hervey,Kevin Hervey,Texas-Arlington/USA,Texas-Arlington,USA,Texas-Arlington,USA,1996-07-09,2.06,0,25,99.8,0
+1424,Brady,Heslip,Brady Heslip,,,,,,,,0,,,0
+1425,Isaiah,Hicks,Isaiah Hicks,North Carolina/USA,North Carolina,USA,North Carolina,USA,1994-07-24,2.06,2017,24,104.3,2
+1426,Malcolm,Hill,Malcolm Hill,,,,,,,,0,40,,0
+1427,Tryggvi,Hlinason,Tryggvi Hlinason,,,,,,,,0,38,,0
+1428,D.J.,Hogg,D.J. Hogg, USA/USA, USA,USA,,USA,1996-09-03,2.06,0,23,97.5,0
+1429,Aaron,Holiday,Aaron Holiday,UCLA/USA,UCLA,USA,California-Los Angeles,USA,1996-09-30,1.85,2018,15,83.9,1
+1430,Demarcus,Holland,Demarcus Holland,Texas/USA,Texas,USA,Texas,USA,1994-03-02,1.93,0,17,81.6,0
+1431,John,Holland,John Holland,Boston U./USA,Boston U.,USA,Boston U.,USA,1988-11-06,1.96,2017,7,93.0,1
+1432,Tra-Deon,Hollins,Tra-Deon Hollins,Nebraska-Omaha/USA,Nebraska-Omaha,USA,Nebraska-Omaha,USA,1995-08-22,1.88,0,15,88.5,0
+1433,Rahlir,Hollis-Jefferson,Rahlir Hollis-Jefferson,Temple/USA,Temple,USA,Temple,USA,1991-06-26,1.98,0,28,97.5,0
+1434,Max,Hooper,Max Hooper,Oakland/USA,Oakland,USA,Oakland,USA,1995-02-05,1.98,0,10,90.7,1
+1435,Danuel,House Jr.,Danuel House Jr.,Texas A&M/USA,Texas A&M,USA,Texas A&M,USA,1993-06-07,2.01,2016,14,99.8,3
+1436,Jordan,Howard,Jordan Howard,,,,,,,,0,11,,0
+1437,Juwan,Howard Jr,Juwan Howard Jr,,,,,,,,0,24,,0
+1438,Kevin,Huerter,Kevin Huerter,"University of Maryland, College Par/USA","University of Maryland, College Par",USA,Maryland,USA,1998-08-27,2.01,2018,1,86.2,1
+1439,RJ,Hunter,RJ Hunter,Georgia State/USA,Georgia State,USA,Georgia State,USA,1993-10-24,1.96,2015,2,83.9,4
+1440,Vincent,Hunter,Vincent Hunter,,,,,,,,0,,,0
+1441,Chandler,Hutchison,Chandler Hutchison,Boise State University/USA,Boise State University,USA,Boise State,USA,1996-04-26,2.01,2018,6,89.4,1
+1442,Donte,Ingram,Donte Ingram,,,,,,,,0,6,,0
+1443,Ike,Iroegbu,Ike Iroegbu,Washington State/USA,Washington State,USA,Washington State,USA,1995-03-14,1.88,0,30,88.5,0
+1444,Jonathan,Isaac,Jonathan Isaac,Florida State/USA,Florida State,USA,Florida State,USA,1997-10-03,2.08,2017,26,95.3,2
+1445,Wes,Iwundu,Wes Iwundu,Kansas State/USA,Kansas State,USA,Kansas State,USA,1994-12-20,2.01,2017,26,88.5,2
+1446,Demetrius,Jackson,Demetrius Jackson,Notre Dame/USA,Notre Dame,USA,Notre Dame,USA,1994-09-07,1.85,2016,27,91.2,2
+1447,Frank,Jackson,Frank Jackson,Duke,,,Duke,,1998-05-04,1.9,0,,93.0,1
+1448,Josh,Jackson,Josh Jackson,Kansas/USA,Kansas,USA,Kansas,USA,1997-02-10,2.03,2017,28,90.7,2
+1449,Justin,Jackson,Justin Jackson,North Carolina/USA,North Carolina,USA,North Carolina,USA,1995-03-28,2.03,2017,8,95.3,2
+1450,Justin,Jackson,Justin Jackson,"University of Maryland, College Par/Canada","University of Maryland, College Par",Canada,Maryland,Canada,1997-02-18,2.01,0,26,102.1,0
+1451,Jaren,Jackson Jr.,Jaren Jackson Jr.,Michigan State University/USA,Michigan State University,USA,Michigan State,USA,1999-09-15,2.11,2018,19,109.8,1
+1452,Amile,Jefferson,Amile Jefferson,Duke/USA,Duke,USA,Duke,USA,1993-05-07,2.06,2018,26,100.7,2
+1453,Cory,Jefferson,Cory Jefferson,,,,,,,,0,,,0
+1454,John,Jenkins,John Jenkins,Vanderbilt/USA,Vanderbilt,USA,Vanderbilt,USA,1991-03-06,1.93,2012,24,97.5,6
+1455,Kris,Jenkins,Kris Jenkins,Villanova/USA,Villanova,USA,Villanova,USA,1993-11-20,1.98,0,31,106.6,0
+1456,Grant,Jerrett,Grant Jerrett,,,,,,,,0,,,0
+1457,Alize,Johnson,Alize Johnson,Missouri State University/USA,Missouri State University,USA,Missouri State,USA,1996-04-22,2.06,2018,15,96.2,1
+1458,BJ,Johnson,BJ Johnson,,,,,,,,0,5,,0
+1459,Brice,Johnson,Brice Johnson,North Carolina/USA,North Carolina,USA,North Carolina,USA,1994-06-27,2.08,2016,,104.3,0
+1460,Dakari,Johnson,Dakari Johnson,Kentucky/USA,Kentucky,USA,Kentucky,USA,1995-09-22,2.13,2017,25,115.7,1
+1461,Jaylen,Johnson,Jaylen Johnson,Louisville/USA,Louisville,USA,Louisville,USA,1996-08-07,2.06,0,15,104.3,0
+1462,Omari,Johnson,Omari Johnson,Oregon State/Jamaica,Oregon State,Jamaica,Oregon State,Jamaica,1989-05-26,2.06,2017,15,99.8,1
+1463,Robert,Johnson,Robert Johnson,,,,,,,,0,1,,0
+1464,Damian,Jones,Damian Jones,Vanderbilt/USA,Vanderbilt,USA,Vanderbilt,USA,1995-06-30,2.13,2016,11,111.1,3
+1465,Jalen,Jones,Jalen Jones,Texas A&M/USA,Texas A&M,USA,Texas A&M,USA,1993-05-27,2.01,2017,7,99.8,1
+1466,Jarrod,Jones,Jarrod Jones,,,,,,,,0,20,,0
+1467,Marvin,Jones,Marvin Jones,,,,,,,,0,23,,0
+1468,Matt,Jones,Matt Jones,Duke/USA,Duke,USA,Duke,USA,1994-12-05,1.96,0,30,92.5,0
+1469,Perry,Jones III,Perry Jones III,Baylor/USA,Baylor,USA,Baylor,USA,1991-09-24,2.11,2012,22,106.6,3
+1470,Derrick,Jones Jr.,Derrick Jones Jr.,Nevada-Las Vegas/USA,Nevada-Las Vegas,USA,Nevada-Las Vegas,USA,1997-02-15,2.01,2016,20,90.7,3
+1471,Alpha,Kaba,Alpha Kaba, /France, ,France,,France,1996-01-29,2.08,0,1,109.8,0
+1472,Tiwian,Kendley,Tiwian Kendley,,,,,,,,0,41,,0
+1473,Luke,Kennard,Luke Kennard,Duke/USA,Duke,USA,Duke,USA,1996-06-24,1.96,2017,10,93.4,2
+1474,Stanton,Kidd,Stanton Kidd,,,,,,,,0,40,,0
+1475,George,King,George King,University of Colorado Boulder/USA,University of Colorado Boulder,USA,University of Colorado Boulder,USA,1994-01-15,1.98,2018,28,99.8,1
+1476,Nick,King,Nick King,,,,,,,,0,17,,0
+1477,Kevin,Knox,Kevin Knox,University of Kentucky/USA,University of Kentucky,USA,Kentucky,USA,1999-08-11,2.06,2018,24,97.5,1
+1478,Oleksandr,Kobets,Oleksandr Kobets,,,,,,,,0,6,,0
+1479,Furkan,Korkmaz,Furkan Korkmaz,Turkey/Turkey,Turkey,Turkey,,Turkey,1997-07-24,2.01,2017,27,86.2,2
+1480,Luke,Kornet,Luke Kornet,Vanderbilt/USA,Vanderbilt,USA,Vanderbilt,USA,1995-07-15,2.16,2017,24,113.4,2
+1481,Egor,Koulechov,Egor Koulechov,,,,,,,,0,22,,0
+1482,Arnoldas,Kulboka,Arnoldas Kulboka,,,,,,1998-01-04,2.08,0,5,97.5,0
+1483,Rodions,Kurucs,Rodions Kurucs,Latvia/Latvia,Latvia,Latvia,,Latvia,1998-02-05,2.06,2018,4,95.3,1
+1484,Ben,Lammers,Ben Lammers,,,,,,,,0,5,,0
+1485,Jock,Landale,Jock Landale, ,,, ,Australia,1995-10-25,2.11,0,21,115.7,0
+1486,Terry,Larrier,Terry Larrier,University of Connecticut,,,University of Connecticut,USA,1995-08-15,2.03,0,31,87.1,0
+1487,Jake,Layman,Jake Layman,Maryland/USA,Maryland,USA,Maryland,USA,1994-03-07,2.06,2016,29,97.5,3
+1488,TJ,Leaf,TJ Leaf,UCLA/USA,UCLA,USA,California-Los Angeles,USA,1997-04-30,2.08,2017,15,102.1,2
+1489,Manu,Lecomte,Manu Lecomte,,,,,,,,0,8,,0
+1490,Zach,LeDay,Zach LeDay,,,,,,,,0,1,,0
+1491,Jeff,Ledbetter,Jeff Ledbetter,Idaho/USA,Idaho,USA,Idaho,USA,1988-06-15,1.9,0,31,88.5,0
+1492,Marcus,Lee,Marcus Lee,,,,,,,,0,7,,0
+1493,William,Lee,William Lee,,,,,,,,0,19,,0
+1494,Walter,Lemon Jr.,Walter Lemon Jr.,Bradley/USA,Bradley,USA,Bradley,USA,1992-07-26,1.9,2017,6,81.6,2
+1495,Justin,Leon,Justin Leon,Florida/USA,Florida,USA,Florida,USA,1995-07-29,2.03,0,25,93.4,0
+1496,Travis,Leslie,Travis Leslie,,,,,,,,0,33,,0
+1497,Caris,LeVert,Caris LeVert,Michigan/USA,Michigan,USA,Michigan,USA,1994-08-25,2.01,2016,4,92.5,3
+1498,JeQuan,Lewis,JeQuan Lewis,VCU/USA,VCU,USA,VCU,USA,1994-09-04,1.83,0,21,77.1,0
+1499,Trey,Lewis,Trey Lewis,,,,,,,,0,40,,0
+1500,Augusto,Lima,Augusto Lima,,,,,,,,0,38,,0
+1501,Scotty,Lindsey,Scotty Lindsey,,,,,,,,0,10,,0
+1502,Zack,Lofton,Zack Lofton,,,,,,,,0,10,,0
+1503,Shawn,Long,Shawn Long,,,,,,,,0,,,0
+1504,Jordan,Loyd,Jordan Loyd,Indianapolis/USA,Indianapolis,USA,Indianapolis,USA,1993-07-27,1.93,2018,38,95.3,1
+1505,Tyler,Lydon,Tyler Lydon,Syracuse/USA,Syracuse,USA,Syracuse,USA,1996-04-09,2.08,2017,9,102.1,2
+1506,Jairus,Lyles,Jairus Lyles,,,,,,,,0,40,,0
+1507,Scott,Machado,Scott Machado,Iona/USA,Iona,USA,Iona,USA,1990-06-08,1.85,2012,9,93.0,1
+1508,Daryl,Macon,Daryl Macon,,,,,,,,0,20,,0
+1509,J.P.,Macura,J.P. Macura,Xavier (Ohio)/USA,Xavier (Ohio),USA,Xavier (Ohio),USA,1995-06-05,1.96,2018,5,93.0,1
+1510,Josh,Magette,Josh Magette,Alabama-Huntsville/USA,Alabama-Huntsville,USA,Alabama-Huntsville,USA,1989-11-28,1.85,2017,1,72.6,1
+1511,Anas,Mahmoud,Anas Mahmoud,,,,,,,,0,19,,0
+1512,Devyn,Marble,Devyn Marble,,,,Iowa,USA,1992-09-21,1.98,2014,26,90.7,1
+1513,Hassan,Martin,Hassan Martin,,,,,,,,0,2,,0
+1514,Kelan,Martin,Kelan Martin,Butler University,,,Butler University,USA,1995-08-03,2.01,0,22,99.8,0
+1515,Frank,Mason,Frank Mason,Kansas/USA,Kansas,USA,Kansas,USA,1994-04-03,1.8,2017,30,86.2,2
+1516,Yante,Maten,Yante Maten,Georgia/USA,Georgia,USA,Georgia,USA,1996-08-14,2.03,2018,20,108.9,1
+1517,Jordan,Mathews,Jordan Mathews,Gonzaga/USA,Gonzaga,USA,Gonzaga,USA,1994-06-22,1.93,0,16,92.1,0
+1518,Mangok,Mathiang,Mangok Mathiang,Louisville/Australia,Louisville,Australia,Louisville,Australia,1992-10-08,2.08,2017,5,104.3,1
+1519,Dakota,Mathias,Dakota Mathias,Purdue,,,Purdue,,1995-07-11,1.93,0,,90.7,0
+1520,EC,Matthews,EC Matthews,,,,,,,,0,19,,0
+1521,Brandon,McCoy,Brandon McCoy, USA,,,,USA,1998-06-11,2.16,0,23,113.4,0
+1522,Chris,McCullough,Chris McCullough,Syracuse/USA,Syracuse,USA,Syracuse,USA,1995-02-05,2.11,2015,10,90.7,3
+1523,KJ,McDaniels,KJ McDaniels,,,,,,,,0,,,0
+1524,Bryant,McIntosh,Bryant McIntosh,,,,,,,,0,23,,0
+1525,MiKyle,McIntosh,MiKyle McIntosh, Canada/Canada, Canada,Canada,,Canada,1994-07-19,2.01,0,15,106.6,0
+1526,Trey,McKinney-Jones,Trey McKinney-Jones,Miami (Fla.)/USA,Miami (Fla.),USA,Miami (FL),USA,1990-08-27,1.96,2017,31,99.8,1
+1527,Alfonzo,McKinnie,Alfonzo McKinnie,Wisc.-Green Bay/USA,Wisc.-Green Bay,USA,Wisc.-Green Bay,USA,1992-09-17,2.03,2017,11,97.5,2
+1528,Jordan,McLaughlin,Jordan McLaughlin,,,,,,,,0,4,,0
+1529,Kennedy,Meeks,Kennedy Meeks,North Carolina/USA,North Carolina,USA,North Carolina,USA,1995-02-05,2.08,0,5,122.5,0
+1530,De'Anthony,Melton,De'Anthony Melton,Southern California/USA,Southern California,USA,Southern California,USA,1998-05-28,1.93,2018,28,90.7,1
+1531,Chimezie,Metu,Chimezie Metu,University of Southern California/USA/USA,,,Southern California,USA,1997-03-22,2.08,2018,31,102.1,1
+1532,David,Michineau,David Michineau,Guadeloupe/Guadeloupe,Guadeloupe,Guadeloupe,,Guadeloupe,1994-06-06,1.93,0,16,81.6,0
+1533,Isaiah,Miles,Isaiah Miles,"St. Joseph's, PA",,,"St. Joseph's, PA",USA,1994-06-09,2.01,0,26,103.0,0
+1534,Malcolm,Miller,Malcolm Miller,Holy Cross/USA,Holy Cross,USA,Holy Cross,USA,1993-03-06,2.01,2017,38,95.3,2
+1535,Codi,Miller McIntyre,Codi Miller McIntyre,,,,,,,,0,38,,0
+1536,Naz,Mitrou-Long,Naz Mitrou-Long,Iowa State/Canada,Iowa State,Canada,Iowa State,Canada,1993-08-03,1.93,2017,40,98.9,2
+1537,Matt,Mobley,Matt Mobley,,,,,,,,0,40,,0
+1538,Malik,Monk,Malik Monk,Kentucky/USA,Kentucky,USA,Kentucky,USA,1998-02-04,1.9,2017,5,90.7,2
+1539,Ben,Moore,Ben Moore,Southern Methodist/USA,Southern Methodist,USA,Southern Methodist,USA,1995-05-13,2.03,2017,31,99.8,2
+1540,Doral,Moore,Doral Moore,,,,,,1997-01-21,2.16,0,19,127.0,0
+1541,Jamel,Morris,Jamel Morris,Fairmont State/USA,Fairmont State,USA,Fairmont State,USA,1992-11-14,1.93,0,10,90.7,0
+1542,Jaylen,Morris,Jaylen Morris,Molloy/USA,Molloy,USA,Molloy,USA,1995-09-19,1.96,2017,21,83.9,1
+1543,Monte,Morris,Monte Morris,Iowa State/USA,Iowa State,USA,Iowa State,USA,1995-06-27,1.9,2017,9,79.4,2
+1544,Langston,Morris-Walker,Langston Morris-Walker,Oregon State/USA,Oregon State,USA,Oregon State,USA,1994-06-27,1.96,0,29,97.5,0
+1545,Johnathan,Motley,Johnathan Motley,Baylor/USA,Baylor,USA,Baylor,USA,1995-05-04,2.08,2017,16,104.3,2
+1546,Roger,Moute a Bidias,Roger Moute a Bidias,California/Cameroon,California,Cameroon,California,Cameroon,1995-04-22,1.98,0,14,93.4,0
+1547,Byron,Mullens,Byron Mullens,Ohio State/USA,Ohio State,USA,Ohio State,USA,1989-02-14,2.13,2009,26,122.5,5
+1548,Kamari,Murphy,Kamari Murphy,Miami (Fla.)/USA,Miami (Fla.),USA,Miami (Fla.),USA,1993-12-14,2.06,0,4,98.9,0
+1549,Dzanan,Musa,Dzanan Musa,Bosnia and Herzegovina/Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,,Bosnia and Herzegovina,1999-05-08,2.06,2018,4,94.3,1
+1550,Svi,Mykhailiuk,Svi Mykhailiuk,University of Kansas/Ukraine,University of Kansas,Ukraine,University of Kansas,Ukraine,1997-06-10,2.03,2018,10,93.0,1
+1551,Emmett,Naar,Emmett Naar,,,,,,,,0,28,,0
+1552,Tyler,Nelson,Tyler Nelson,,,,,,,,0,22,,0
+1553,Malik,Newman,Malik Newman,,,,,,,,0,,,0
+1554,Georges,Niang,Georges Niang,Iowa State/USA,Iowa State,USA,Iowa State,USA,1993-06-17,2.03,2016,40,104.3,3
+1555,Landry,Nnoko,Landry Nnoko,Clemson/Cameroon,Clemson,Cameroon,Clemson,Cameroon,1994-04-09,2.08,0,20,113.4,0
+1556,Frank,Ntilikina,Frank Ntilikina,France/France,France,France,,France,1998-07-28,1.98,2017,24,90.7,2
+1557,Kendrick,Nunn,Kendrick Nunn,,,,,,,,0,11,,0
+1558,Ike,Nwamu,Ike Nwamu,UNLV/USA,UNLV,USA,UNLV,USA,1993-06-03,1.96,0,20,95.3,0
+1559,Daniel,Ochefu,Daniel Ochefu,Villanova/USA,Villanova,USA,Villanova,USA,1993-12-15,2.11,2016,,111.1,0
+1560,Tai,Odiase,Tai Odiase,,,,,,,,0,28,,0
+1561,Semi,Ojeleye,Semi Ojeleye,Southern Methodist/USA,Southern Methodist,USA,Southern Methodist,USA,1994-12-05,2.01,2017,2,109.3,2
+1562,Elie,Okobo,Elie Okobo,France/France,France,France,,France,1997-10-23,1.9,2018,28,86.2,1
+1563,Josh,Okogie,Josh Okogie,Georgia Institute of Technology/Nigeria,Georgia Institute of Technology,Nigeria,Georgia Tech,Nigeria,1998-09-01,1.93,2018,22,96.2,1
+1564,Stan,Okoye,Stan Okoye,,,,,,,,0,9,,0
+1565,Cameron,Oliver,Cameron Oliver,Nevada/USA,Nevada,USA,Nevada,USA,1996-07-11,2.03,0,29,102.1,0
+1566,Nuni,Omot,Nuni Omot,,,,,,,,0,11,,0
+1567,Chinanu,Onuaku,Chinanu Onuaku,Louisville/USA,Louisville,USA,Louisville,USA,1996-11-01,2.08,2016,29,111.1,2
+1568,Cedi,Osman,Cedi Osman,Anadolu Efes/Turkey,Anadolu Efes,Turkey,,Turkey,1995-04-08,2.03,2017,7,97.5,2
+1569,Georgios,Papagiannis,Georgios Papagiannis,Greece/Greece,Greece,Greece,,Greece,1997-07-03,2.16,2016,29,108.9,2
+1570,Norvel,Pelle,Norvel Pelle, USA/USA, USA,USA,Iona,USA,1993-02-03,2.11,0,27,98.0,0
+1571,Ajdin,Penava,Ajdin Penava,,,,,,,,0,41,,0
+1572,London,Perrantes,London Perrantes,Virginia/USA,Virginia,USA,Virginia,USA,1994-10-03,1.88,2017,23,86.2,1
+1573,Alec,Peters,Alec Peters,Valparaiso/USA,Valparaiso,USA,Valparaiso,USA,1995-04-13,2.06,2017,28,106.6,1
+1574,Roddy,Peters,Roddy Peters,,,,,,,,0,23,,0
+1575,Luke,Petrasek,Luke Petrasek,Columbia/USA,Columbia,USA,Columbia,USA,1995-08-17,2.08,0,23,94.3,0
+1576,Theo,Pinson,Theo Pinson,North Carolina/USA,North Carolina,USA,University of North Carolina at Cha,USA,1995-11-05,1.98,2018,4,98.9,1
+1577,Malik,Pope,Malik Pope, USA,,,,USA,1996-07-25,2.08,0,17,99.8,0
+1578,Marcus,Posley,Marcus Posley,St. Bonaventure/USA,St. Bonaventure,USA,St. Bonaventure,USA,1994-04-14,1.85,0,9,88.5,0
+1579,Giddy,Potts,Giddy Potts,,,,,,,,0,38,,0
+1580,Alex,Poythress,Alex Poythress,Kentucky/USA,Kentucky,USA,Kentucky,USA,1993-09-06,2.06,2016,1,106.6,3
+1581,Phil,Pressey,Phil Pressey,,,,Missouri,United States,1991-02-17,,2013,,,0
+1582,Billy,Preston,Billy Preston,University of Kansas/USA,University of Kansas,USA,University of Kansas,USA,1997-10-26,2.08,0,7,108.9,0
+1583,Rodney,Purvis,Rodney Purvis,Connecticut/USA,Connecticut,USA,Connecticut,USA,1994-02-14,1.93,2017,26,93.0,1
+1584,Raphiael,Putney,Raphiael Putney, USA/USA, USA,USA,Massachusetts,USA,1990-04-21,2.08,0,31,83.9,0
+1585,Zhou,Qi,Zhou Qi,China/China,China,China,,China,1996-01-16,2.16,2017,14,95.3,1
+1586,Tim,Quarterman,Tim Quarterman,Louisiana State/USA,Louisiana State,USA,Louisiana State,USA,1994-10-27,1.98,2016,,86.2,0
+1587,Ivan,Rabb,Ivan Rabb,California/USA,California,USA,California,USA,1997-02-04,2.08,2017,19,99.8,2
+1588,Chasson,Randle,Chasson Randle,Stanford/USA,Stanford,USA,Stanford,USA,1993-02-05,1.88,2016,41,83.9,2
+1589,Levi,Randolph,Levi Randolph, USA/USA, USA,USA,,USA,1992-10-03,1.96,0,7,93.0,0
+1590,Xavier,Rathan-Mayes,Xavier Rathan-Mayes,Florida State/Canada,Florida State,Canada,Florida State,Canada,1994-04-29,1.93,2017,17,95.3,1
+1591,Tyler,Rawson,Tyler Rawson,,,,,,,,0,26,,0
+1592,Kendrick,Ray,Kendrick Ray,,,,,,,,0,40,,0
+1593,Duop,Reath,Duop Reath,Louisiana State,,,Louisiana State,,1996-06-26,2.11,0,,105.2,0
+1594,Davon,Reed,Davon Reed,Miami/USA,Miami,USA,Miami (FL),USA,1995-06-11,1.96,2017,15,94.3,2
+1595,Cam,Reynolds,Cam Reynolds,,,,,,,,0,30,,0
+1596,Malachi,Richardson,Malachi Richardson,Syracuse/USA,Syracuse,USA,Syracuse,USA,1996-01-05,1.98,2016,27,93.0,2
+1597,Demetre,Rivers,Demetre Rivers,,,,,,,,0,5,,0
+1598,Jeff,Roberson,Jeff Roberson,,,,,,,,0,11,,0
+1599,Devin,Robinson,Devin Robinson,Florida/USA,Florida,USA,Florida,USA,1995-03-07,2.03,2017,41,90.7,2
+1600,Duncan,Robinson,Duncan Robinson,,,,,,,,0,20,,0
+1601,Jerome,Robinson,Jerome Robinson,Boston College/USA,Boston College,USA,Boston College,USA,1997-02-22,1.96,2018,16,86.2,1
+1602,Junior,Robinson,Junior Robinson,,,,,,,,0,1,,0
+1603,Mitchell,Robinson,Mitchell Robinson,Western Kentucky University/USA,Western Kentucky University,USA,,USA,1998-04-01,2.16,2018,24,108.9,1
+1604,Desi,Rodriguez,Desi Rodriguez,,,,,,,,0,16,,0
+1605,Jalen,Ross,Jalen Ross,,,,,,,,0,41,,0
+1606,Maverick,Rowan,Maverick Rowan,North Carolina State/USA,North Carolina State,USA,North Carolina State,USA,1996-07-14,2.01,0,31,99.8,0
+1607,Andrew,Rowsey,Andrew Rowsey,,,,,,,,0,38,,0
+1608,Brandon,Sampson,Brandon Sampson, USA/USA, USA,USA,,USA,1997-05-01,1.96,2018,11,83.5,1
+1609,Victor,Sanders,Victor Sanders,,,,,,,,0,9,,0
+1610,Issuf,Sanon,Issuf Sanon,,,,,,1999-10-30,1.93,0,41,83.9,0
+1611,Mike,Scott,Mike Scott,,,,,,,,0,6,,0
+1612,Shannon,Scott,Shannon Scott,Ohio State/USA,Ohio State,USA,Ohio State,USA,1992-12-21,1.85,0,5,83.9,0
+1613,Philip,Scrubb,Philip Scrubb,,,,,,,,0,41,,0
+1614,Wayne,Selden,Wayne Selden,Kansas/USA,Kansas,USA,Kansas,USA,1994-09-30,1.96,2016,6,104.3,3
+1615,Collin,Sexton,Collin Sexton,University of Alabama/USA,University of Alabama,USA,Alabama,USA,1999-01-04,1.88,2018,7,86.2,1
+1616,Landry,Shamet,Landry Shamet,Wichita State University/USA,Wichita State University,USA,Wichita State,USA,1997-03-13,1.96,2018,16,85.3,1
+1617,Shavon,Shields,Shavon Shields,Louisiana State/USA,Louisiana State,USA,Louisiana State,USA,1994-06-05,2.01,0,23,102.1,0
+1618,Kobi,Simmons,Kobi Simmons,Arizona/USA,Arizona,USA,Arizona,USA,1997-07-04,1.93,2017,7,77.1,1
+1619,Anfernee,Simons,Anfernee Simons,USA/USA,USA,USA,IMG Academy,USA,1999-06-08,1.93,2018,29,83.9,1
+1620,Henry,Sims,Henry Sims,,,,Georgetown,United States,1990-03-27,2.08,2012,4,112.5,3
+1621,Kenneth,Smith,Kenneth Smith,Louisiana Tech/USA,Louisiana Tech,USA,Louisiana Tech,USA,1993-01-28,1.9,0,24,81.6,0
+1622,Scoochie,Smith,Scoochie Smith,University of Dayton / USA,University of Dayton , USA,University of Dayton,USA,1994-11-11,1.88,0,7,83.9,0
+1623,Zach,Smith,Zach Smith,,,,,,,,0,1,,0
+1624,Zhaire,Smith,Zhaire Smith,Texas Tech University/USA,Texas Tech University,USA,Texas Tech,USA,1999-06-04,1.93,2018,27,90.3,1
+1625,Dennis,Smith Jr.,Dennis Smith Jr.,North Carolina State/USA,North Carolina State,USA,North Carolina State,USA,1997-11-25,1.9,2017,24,88.5,2
+1626,Ray,Spalding,Ray Spalding,Louisville/USA,Louisville,USA,Louisville,USA,1997-03-11,2.08,2018,28,97.5,1
+1627,Omari,Spellman,Omari Spellman,Villanova University/USA,Villanova University,USA,Villanova,USA,1997-07-21,2.06,2018,1,111.1,1
+1628,Andre,Spight,Andre Spight,,,,,,,,0,9,,0
+1629,Jonathan,Stark,Jonathan Stark,,,,,,,,0,22,,0
+1630,DJ,Stephens,DJ Stephens, USA/USA, USA,USA,Memphis,USA,1990-12-19,1.96,2013,19,85.3,1
+1631,Kendall,Stephens,Kendall Stephens,,,,,,,,0,26,,0
+1632,Jordan,Stevens,Jordan Stevens,,,,,,,,0,7,,0
+1633,Elijah,Stewart,Elijah Stewart,,,,,,,,0,15,,0
+1634,Jarnell,Stokes,Jarnell Stokes,Tennessee/USA,Tennessee,USA,Tennessee,USA,1994-01-07,2.06,2014,19,115.7,3
+1635,Diamond,Stone,Diamond Stone,Maryland/USA,Maryland,USA,Maryland,USA,1997-02-10,2.11,2016,,115.7,0
+1636,Edmond,Sumner,Edmond Sumner,Xavier/USA,Xavier,USA,Xavier,USA,1995-12-31,1.98,2017,15,79.8,2
+1637,Caleb,Swanigan,Caleb Swanigan,Purdue/USA,Purdue,USA,Purdue,USA,1997-04-18,2.06,2017,30,113.4,2
+1638,Joesean,Tate,Joesean Tate,,,,,,,,0,21,,0
+1639,Marquis,Teague,Marquis Teague,Kentucky/USA,Kentucky,USA,Kentucky,USA,1993-02-28,1.88,2012,19,85.7,3
+1640,Jared,Terrell,Jared Terrell,,,,,,,,0,22,,0
+1641,Emanuel,Terry,Emanuel Terry,,,,,,,,0,9,,0
+1642,Khyri,Thomas,Khyri Thomas,Creighton University/USA,Creighton University,USA,Creighton,USA,1996-05-08,1.9,2018,10,95.3,1
+1643,Rashawn,Thomas,Rashawn Thomas,Corpus Christi/USA,Corpus Christi,USA,Corpus Christi,USA,1994-08-15,2.03,0,25,104.3,0
+1644,Zach,Thomas,Zach Thomas,,,,,,,,0,40,,0
+1645,Shevon,Thompson,Shevon Thompson,George Mason/Jamaica,George Mason,Jamaica,George Mason,Jamaica,1993-06-10,2.13,0,38,109.8,0
+1646,Trevor,Thompson,Trevor Thompson,Ohio State/USA,Ohio State,USA,Ohio State,USA,1994-06-12,2.13,0,4,113.4,0
+1647,Sindarius,Thornwell,Sindarius Thornwell,South Carolina/USA,South Carolina,USA,South Carolina,USA,1994-11-15,1.96,2017,16,97.5,2
+1648,Justin,Tillman,Justin Tillman,,,,,,,,0,20,,0
+1649,JP,Tokoto,JP Tokoto,,,,,,,,0,,,0
+1650,Gary,Trent Jr.,Gary Trent Jr., USA/USA, USA,USA,,USA,1999-01-18,1.98,2018,29,93.0,1
+1651,Travis,Trice II,Travis Trice II, USA/USA, USA,USA,,USA,1993-01-22,1.88,0,21,79.4,0
+1652,Allonzo,Trier,Allonzo Trier,University of Arizona/USA,University of Arizona,USA,University of Arizona,USA,1996-01-17,1.96,2018,24,90.7,1
+1653,Melo,Trimble,Melo Trimble,Maryland/USA,Maryland,USA,Maryland,USA,1995-02-02,1.9,0,6,88.5,0
+1654,Reggie,Upshaw,Reggie Upshaw,,,,,,,,0,16,,0
+1655,Jarrod,Uthoff,Jarrod Uthoff, USA/USA, USA,USA,,USA,1993-05-19,2.06,2016,,100.2,0
+1656,Rashad,Vaughn,Rashad Vaughn,Nevada-Las Vegas/USA,Nevada-Las Vegas,USA,UNLV,USA,1996-08-16,1.98,2015,8,95.3,3
+1657,Juan Pablo,Vaulet,Juan Pablo Vaulet,Bahia Basket (Argentina)/Argentina,Bahia Basket (Argentina),Argentina,,Argentina,1996-03-22,1.98,0,4,90.7,0
+1658,Craig,Victor,Craig Victor,Louisiana State/USA,Louisiana State,USA,Louisiana State,USA,1995-02-27,2.06,0,21,106.6,0
+1659,Moritz,Wagner,Moritz Wagner,University of Michigan/Germany,University of Michigan,Germany,Michigan,Germany,1997-04-26,2.11,2018,17,111.1,1
+1660,Devondrick,Walker,Devondrick Walker,N.W. Oklahoma/USA,N.W. Oklahoma,USA,Northwestern Oklahoma State,USA,1992-07-11,1.96,0,27,93.0,0
+1661,Tyrius,Walker,Tyrius Walker,,,,,,,,0,24,,0
+1662,Lonnie,Walker IV,Lonnie Walker IV,University of Miami/USA,University of Miami,USA,Miami (FL),USA,1998-12-14,1.96,2018,31,93.0,1
+1663,Derrick,Walton Jr.,Derrick Walton Jr.,Michigan/USA,Michigan,USA,Michigan,USA,1995-04-03,1.85,2017,6,86.2,1
+1664,Casper,Ware Jr.,Casper Ware Jr.,,,,,,,,0,,,0
+1665,Kyle,Washington,Kyle Washington,,,,,,,,0,10,,0
+1666,Yuta,Watanabe,Yuta Watanabe,,,,,,,,0,4,,0
+1667,Christian,Watford,Christian Watford, USA/USA, USA,USA,,USA,1991-04-28,2.06,0,19,99.8,0
+1668,Paul,Watson,Paul Watson,Fresno State/USA,Fresno State,USA,Fresno State,USA,1994-12-30,2.03,0,24,95.3,0
+1669,James,Webb III,James Webb III,Boise State/USA,Boise State,USA,Boise State,USA,1993-08-19,2.06,2017,4,91.6,1
+1670,Tai,Webster,Tai Webster,,,,,,,,0,20,,0
+1671,Thomas,Welsh,Thomas Welsh, USA/USA, USA,USA,California-Los Angeles,USA,1996-02-03,2.13,2018,9,115.7,1
+1672,Derrick,White,Derrick White,Colorado/USA,Colorado,USA,Colorado,USA,1994-07-02,1.93,2017,31,86.2,2
+1673,Okaro,White,Okaro White,Florida State/USA,Florida State,USA,Florida State,USA,1992-08-13,2.03,2016,41,93.0,2
+1674,Andrew,White III,Andrew White III,Syracuse/USA,Syracuse,USA,Syracuse,USA,1993-06-16,2.01,2017,1,95.3,1
+1675,Sekou,Wiggs,Sekou Wiggs, USA/USA, USA,USA,,USA,1994-10-08,1.93,0,6,83.0,0
+1676,CJ,Wilcox,CJ Wilcox,Washington/USA,Washington,USA,Washington,USA,1990-12-30,1.96,2014,15,88.5,3
+1677,Thomas,Wilder,Thomas Wilder,,,,,,,,0,40,,0
+1678,Jacob,Wiley,Jacob Wiley,,,,,,,,0,,,0
+1679,Devin,Williams,Devin Williams,West Virginia/USA,West Virginia,USA,West Virginia,USA,1994-05-31,2.06,0,30,115.7,0
+1680,Johnathan,Williams,Johnathan Williams,,,,,,,,0,17,,0
+1681,Kenrich,Williams,Kenrich Williams, USA/USA, USA,USA,,USA,1994-12-02,2.01,2018,23,95.3,1
+1682,Troy,Williams,Troy Williams,Indiana/USA,Indiana,USA,Indiana,USA,1994-12-30,2.01,2016,30,98.9,3
+1683,Robert,Williams III,Robert Williams III,Texas A&M University/USA,Texas A&M University,USA,Texas A&M,USA,1997-10-17,2.08,2018,2,108.9,1
+1684,Matt,Williams Jr.,Matt Williams Jr.,Central Florida/USA,Central Florida,USA,Central Florida,USA,1993-10-14,1.96,2017,6,95.3,1
+1685,Derek,Willis,Derek Willis,Kentucky/USA,Kentucky,USA,Kentucky,USA,1995-06-21,2.06,0,28,104.3,0
+1686,D.J.,Wilson,D.J. Wilson,Michigan/USA,Michigan,USA,Michigan,USA,1996-02-19,2.08,2017,21,104.8,2
+1687,Thomas,Wimbush,Thomas Wimbush,Fairmont State / USA,Fairmont State , USA,Fairmont State,USA,1993-12-08,2.01,0,1,90.7,0
+1688,Alec,Wintering,Alec Wintering,,,,,,,,0,5,,0
+1689,Christian,Wood,Christian Wood,UNLV/USA,UNLV,USA,Nevada-Las Vegas,USA,1995-09-27,2.08,2015,23,97.1,3
+1690,Jay,Wright,Jay Wright,Louisiana-Lafayette/USA,Louisiana-Lafayette,USA,Louisiana-Lafayette,USA,1994-07-29,1.85,0,26,77.1,0
+1691,Guerschon,Yabusele,Guerschon Yabusele,France/France,France,France, ,France,1995-12-17,2.03,2017,2,117.9,2
+1692,Trae,Young,Trae Young,University of Oklahoma/USA,University of Oklahoma,USA,Oklahoma,USA,1998-09-19,1.88,2018,1,81.6,1
+1693,Ante,Zizic,Ante Zizic,Croatia/Croatia,Croatia,Croatia,,Croatia,1997-01-04,2.11,2017,7,115.2,2
+1694,Thomas,Bryant,Thomas Bryant,,,,,,,,0,,,0
+1695,Joe,Chealey,Joe Chealey,,,,,,,,0,,,0
+1696,Devyn,Marble,Devyn Marble,,,,,,,,0,,,0
+1697,Jonah,Bolden,Jonah Bolden,,,,,,,,0,,,0
+1698,Isaac,Bonga,Isaac Bonga,,,,,,,,0,,,0
+1699,Isaac,Bonga,Isaac Bonga,,,,,,,,0,,,0
+1700,Justin,Harper,Justin Harper,Richmond/USA,Richmond,USA,Richmond,USA,1989-08-30,,2011,,,0
+1701,Tony,Taylor,Tony Taylor,,,,,,,,0,,,0
+1702,Jonah,Bolden,Jonah Bolden,,,,,,,,0,,,0
+1703,Ding,Yanyuhang,Ding Yanyuhang,,,,,,,,0,,,0
+1704,Jaylen,Adams,Jaylen Adams,,,,,,,,0,1,,0
+1705,Peyton,Aldridge,Peyton Aldridge,,,,,,,,0,40,,0
+1706,Grayson,Allen,Grayson Allen,Duke University/USA,Duke University,USA,Duke,USA,1995-10-08,1.96,2018,40,89.8,1
+1707,Jaron,Blossomgame,Jaron Blossomgame,Clemson/USA,Clemson,USA,Clemson,USA,1993-09-16,2.03,2018,7,99.8,1
+1708,Dee,Bost,Dee Bost,Mississippi State,,,Mississippi State, ,1989-10-12,1.88,0,19,79.4,0
+1709,Tony,Bradley,Tony Bradley,North Carolina/USA,North Carolina,USA,North Carolina,USA,1998-01-08,2.08,2017,40,112.5,2
+1710,Amida,Brimah,Amida Brimah,,,,,,,,0,,,0
+1711,Jevon,Carter,Jevon Carter,,,,,,,,0,19,,0
+1712,Antonius,Cleveland,Antonius Cleveland,Southeast Missouri State/USA,Southeast Missouri State,USA,Southeast Missouri State,USA,1994-02-02,1.98,2017,6,89.8,1
+1713,John,Collins,John Collins,Wake Forest/USA,Wake Forest,USA,Wake Forest,USA,1997-09-23,2.08,2017,1,106.6,2
+1714,Markel,Crawford,Markel Crawford,,,,,,,,0,19,,0
+1715,Deyonta,Davis,Deyonta Davis,Michigan State/USA,Michigan State,USA,Michigan State,USA,1996-12-02,2.11,2016,14,107.5,3
+1716,Tyler,Dorsey,Tyler Dorsey,Oregon/USA,Oregon,USA,Oregon,USA,1996-02-18,1.96,2017,19,83.0,2
+1717,Drew,Eubanks,Drew Eubanks,,,,,,,,0,31,,0
+1718,Brandon,Goodwin,Brandon Goodwin,,,,,,,,0,19,,0
+1719,Jordan,Green,Jordan Green,Texas A&M/USA,Texas A&M,USA,Texas A&M,USA,1993-05-05,1.96,0,31,86.2,0
+1720,Isaac,Haas,Isaac Haas,,,,,,1995-10-02,2.18,0,40,131.5,0
+1721,Tommy,Hamilton,Tommy Hamilton,,,,,,,,0,31,,0
+1722,Olivier,Hanlan,Olivier Hanlan,Boston College/Canada,Boston College,Canada,Boston College,Canada,1993-02-15,1.93,0,31,86.2,0
+1723,Myke,Henry,Myke Henry,DePaul/USA,DePaul,USA,DePaul,USA,1992-12-23,1.98,2017,19,95.3,1
+1724,Brady,Heslip,Brady Heslip,,,,,,,,0,,,0
+1725,Malcolm,Hill,Malcolm Hill,,,,,,,,0,40,,0
+1726,Kevin,Huerter,Kevin Huerter,"University of Maryland, College Par/USA","University of Maryland, College Par",USA,Maryland,USA,1998-08-27,2.01,2018,1,86.2,1
+1727,Jaren,Jackson Jr.,Jaren Jackson Jr.,Michigan State University/USA,Michigan State University,USA,Michigan State,USA,1999-09-15,2.11,2018,19,109.8,1
+1728,Cory,Jefferson,Cory Jefferson,,,,,,,,0,,,0
+1729,Robert,Johnson,Robert Johnson,,,,,,,,0,1,,0
+1730,Alpha,Kaba,Alpha Kaba, /France, ,France,,France,1996-01-29,2.08,0,1,109.8,0
+1731,Stanton,Kidd,Stanton Kidd,,,,,,,,0,,,0
+1732,Jock,Landale,Jock Landale, ,,, ,Australia,1995-10-25,2.11,0,21,115.7,0
+1733,Terry,Larrier,Terry Larrier,University of Connecticut,,,University of Connecticut,USA,1995-08-15,2.03,0,31,87.1,0
+1734,Zach,LeDay,Zach LeDay,,,,,,,,0,1,,0
+1735,Jeff,Ledbetter,Jeff Ledbetter,Idaho/USA,Idaho,USA,Idaho,USA,1988-06-15,1.9,0,31,88.5,0
+1736,William,Lee,William Lee,,,,,,,,0,19,,0
+1737,Trey,Lewis,Trey Lewis,,,,,,,,0,40,,0
+1738,Jairus,Lyles,Jairus Lyles,,,,,,,,0,40,,0
+1739,Anas,Mahmoud,Anas Mahmoud,,,,,,,,0,19,,0
+1740,Kelan,Martin,Kelan Martin,Butler University,,,Butler University,USA,1995-08-03,2.01,0,22,99.8,0
+1741,EC,Matthews,EC Matthews,,,,,,,,0,19,,0
+1742,Erik,McCree,Erik McCree,Louisiana Tech/USA,Louisiana Tech,USA,Louisiana Tech,USA,1993-12-20,2.03,2017,40,102.1,1
+1743,Trey,McKinney-Jones,Trey McKinney-Jones,Miami (Fla.)/USA,Miami (Fla.),USA,Miami (FL),USA,1990-08-27,1.96,2017,31,99.8,1
+1744,Chimezie,Metu,Chimezie Metu,University of Southern California/USA/USA,,,Southern California,USA,1997-03-22,2.08,2018,31,102.1,1
+1745,Naz,Mitrou-Long,Naz Mitrou-Long,Iowa State/Canada,Iowa State,Canada,Iowa State,Canada,1993-08-03,1.93,2017,40,98.9,2
+1746,Matt,Mobley,Matt Mobley,,,,,,,,0,40,,0
+1747,Jaylen,Morris,Jaylen Morris,Molloy/USA,Molloy,USA,Molloy,USA,1995-09-19,1.96,2017,21,83.9,1
+1748,Georges,Niang,Georges Niang,Iowa State/USA,Iowa State,USA,Iowa State,USA,1993-06-17,2.03,2016,40,104.3,3
+1749,London,Perrantes,London Perrantes,Virginia/USA,Virginia,USA,Virginia,USA,1994-10-03,1.88,2017,23,86.2,1
+1750,Raphiael,Putney,Raphiael Putney, USA/USA, USA,USA,Massachusetts,USA,1990-04-21,2.08,0,31,83.9,0
+1751,Ivan,Rabb,Ivan Rabb,California/USA,California,USA,California,USA,1997-02-04,2.08,2017,19,99.8,2
+1752,Kendrick,Ray,Kendrick Ray,,,,,,,,0,40,,0
+1753,Junior,Robinson,Junior Robinson,,,,,,,,0,1,,0
+1754,Maverick,Rowan,Maverick Rowan,North Carolina State/USA,North Carolina State,USA,North Carolina State,USA,1996-07-14,2.01,0,31,99.8,0
+1755,Brandon,Sampson,Brandon Sampson, USA/USA, USA,USA,,USA,1997-05-01,1.96,2018,11,83.5,1
+1756,Wayne,Selden,Wayne Selden,Kansas/USA,Kansas,USA,Kansas,USA,1994-09-30,1.96,2016,6,104.3,3
+1757,Kobi,Simmons,Kobi Simmons,Arizona/USA,Arizona,USA,Arizona,USA,1997-07-04,1.93,2017,7,77.1,1
+1758,Zach,Smith,Zach Smith,,,,,,,,0,1,,0
+1759,Omari,Spellman,Omari Spellman,Villanova University/USA,Villanova University,USA,Villanova,USA,1997-07-21,2.06,2018,1,111.1,1
+1760,Diamond,Stone,Diamond Stone,Maryland/USA,Maryland,USA,Maryland,USA,1997-02-10,2.11,2016,,115.7,0
+1761,Zach,Thomas,Zach Thomas,,,,,,,,0,40,,0
+1762,Lonnie,Walker IV,Lonnie Walker IV,University of Miami/USA,University of Miami,USA,Miami (FL),USA,1998-12-14,1.96,2018,31,93.0,1
+1763,Christian,Watford,Christian Watford, USA/USA, USA,USA,,USA,1991-04-28,2.06,0,19,99.8,0
+1764,Derrick,White,Derrick White,Colorado/USA,Colorado,USA,Colorado,USA,1994-07-02,1.93,2017,31,86.2,2
+1765,Thomas,Wilder,Thomas Wilder,,,,,,,,0,40,,0
+1766,Trae,Young,Trae Young,University of Oklahoma/USA,University of Oklahoma,USA,Oklahoma,USA,1998-09-19,1.88,2018,1,81.6,1
+1767,Markel,Crawford,Markel Crawford,,,,,,,,0,,,0
+1768,William,Lee,William Lee,,,,,,,,0,,,0
+1769,C.J.,Anderson,C.J. Anderson,,,,,,,,0,,,0
+1770,Will,Cherry,Will Cherry,,,,,,,,0,,,0
+1771,Donte,Ingram,Donte Ingram,Loyola (Chicago)/USA,Loyola (Chicago),USA,Loyola (Chicago),USA,1996-08-15,1.98,0,8,97.5,0
+1772,Brandon,Sampson,Brandon Sampson, USA/USA, USA,USA,,USA,1997-05-01,1.96,2018,11,83.5,1
+1773,Kennedy,Meeks,Kennedy Meeks,North Carolina/USA,North Carolina,USA,North Carolina,USA,1995-02-05,2.08,0,5,122.5,0
+1774,Taren,Sullivan,Taren Sullivan,,,,,,,,0,,,0
+1775,Gabe,Vincent,Gabe Vincent,,,,,,,,0,,,0
+1776,Jeffrey,Coby,Jeffrey Coby,,,,,,,,0,,,0
+1777,Lucas,Hausman,Lucas Hausman,,,,,,,,0,,,0
+1778,Donte,Greene,Donte Greene,,,,,,,,0,,,0
+1779,Tre,Kelley,Tre Kelley,,,,,,,,0,,,0
+1780,Jimmer,Fredette,Jimmer Fredette,Brigham Young/USA,Brigham Young,USA,Brigham Young,USA,1989-02-25,1.88,2011,28,88.5,6
+1781,Jeremy,Tyler,Jeremy Tyler,,,,,,,,0,,,0
+1782,Scott,Machado,Scott Machado,Iona/USA,Iona,USA,Iona,USA,1990-06-08,1.85,2012,9,93.0,1
+1783,Josh,Childress,Josh Childress,,,,,,,,0,,,0
+1784,Amit,Alon,Amit Alon,,,,,,,,0,,,0
+1785,Juan Carlos,Bergel,Juan Carlos Bergel,,,,,,,,0,,,0
+1786,Keron,DeShields,Keron DeShields,,,,,,,,0,,,0
+1787,Ariel,Eslava,Ariel Eslava,,,,,,,,0,,,0
+1788,Anthony,Fisher,Anthony Fisher,,,,,,,,0,,,0
+1789,Samme,Givens,Samme Givens,,,,,,,,0,,,0
+1790,Daniel,Koperberg,Daniel Koperberg,,,,,,,,0,,,0
+1791,Guy,Lavie,Guy Lavie,,,,,,,,0,,,0
+1792,Liran,Merkado,Liran Merkado,,,,,,,,0,,,0
+1793,Roman,Sorkin,Roman Sorkin,,,,,,,,0,,,0
+1794,Willy,Workman,Willy Workman,,,,,,,,0,,,0
+1795,Yan,Peng,Yan Peng,,,,,,,,0,,,0
+1796,Cai,Liang,Cai Liang,,,,,,,,0,,,0
+1797,Huang,Xu,Huang Xu,,,,,,,,0,,,0
+1798,Luis,Scola,Luis Scola,,,,,,,,0,,,0
+1799,Tang,Zihao,Tang Zihao,,,,,,,,0,,,0
+1800,Tian,Yuchen,Tian Yuchen,,,,,,,,0,,,0
+1801,Lu,Wei,Lu Wei,,,,,,,,0,,,0
+1802,Luo,Xudong,Luo Xudong,,,,,,,,0,,,0
+1803,Dong,Hanlin,Dong Hanlin,,,,,,,,0,,,0
+1804,Zhu,Ying,Zhu Ying,,,,,,,,0,,,0
+1805,Zhang,Zhaoxu,Zhang Zhaoxu,,,,,,,,0,,,0
+1806,Wang,Tong,Wang Tong,,,,,,,,0,,,0
+1807,Luo,Zhi,Luo Zhi,,,,,,,,0,,,0
+1808,Luo,Hanchen,Luo Hanchen,,,,,,,,0,,,0
+1809,Donte,Grantham,Donte Grantham,Clemson/USA,Clemson,USA,Clemson,USA,1995-03-19,2.03,2018,25,97.5,1
+1810,Scotty,Hopson,Scotty Hopson,,,,,,,,0,,,0
+1811,John,Petrucelli,John Petrucelli,Molloy/USA,Molloy,USA,Molloy,USA,1992-10-27,1.93,0,,86.2,0
+1812,John,Petrucelli,John Petrucelli,Molloy College/USA,Molloy College,USA,Molloy College,USA,1992-10-27,1.93,0,,86.2,0
+1813,Angel,Rodriguez,Angel Rodriguez,,,,,,,,0,,,0
+1814,Dez,Wells,Dez Wells,,,,,,,,0,,,0
+1815,Haywood,Highsmith,Haywood Highsmith, USA/USA, USA,USA,,USA,1996-12-09,2.01,2018,27,99.8,0
+1816,Julian,Washburn,Julian Washburn,Texas-El Paso/USA,Texas-El Paso,USA,Texas-El Paso,USA,1991-12-18,2.03,2018,19,94.8,1
+1817,Stephan,Hicks,Stephan Hicks,,,,,,,,0,15,,0
+1818,Stephan,Hicks,Stephan Hicks,,,,,,,,0,,,0
+1819,Jordan,Sibert,Jordan Sibert, USA/USA, USA,USA,Dayton,USA,1992-08-01,,2018,,,0
+1820,Tahjere,McCall,Tahjere McCall,Tennessee State/USA,Tennessee State,USA,Tennessee State,USA,1994-08-17,1.96,2018,4,86.2,0
+1821,Dairis,Bertans,Dairis Bertans,,,,,,,,0,23,,0
+1822,Dairis,Bertans,Dairis Bertans,,,,,,,,0,23,,0
+1823,Dairis,Bertans,Dairis Bertans,,,,,,,,0,23,,0
+1824,Dairis,Bertans,Dairis Bertans,,,,,,,,0,23,,0
+1825,Dairis,Bertans,Dairis Bertans,Latvia/Latvia,Latvia,Latvia,,Latvia,1989-09-09,1.93,2018,23,90.7,1
+1826,Cody,Demps,Cody Demps,Sacramento State/USA,Sacramento State,USA,Sacramento State,USA,1993-12-02,1.93,0,15,88.5,0
+1827,Dusty,Hannahs,Dusty Hannahs,Arkansas/USA,Arkansas,USA,Arkansas,USA,1993-09-02,1.93,2018,19,88.5,0
+1828,Jemerrio,Jones,Jemerrio Jones, USA/USA, USA,USA,New Mexico State,USA,1995-04-09,1.96,2018,17,78.9,1
+1829,Isaac,Humphries,Isaac Humphries,Kentucky/Australia,Kentucky,Australia,University of Kentucky,Australia,1998-01-05,2.13,2018,1,117.9,1
+1830,Billy,Garrett,Billy Garrett,DePaul/USA,DePaul,USA,DePaul University,USA,1994-10-16,1.98,2018,28,97.5,1
+1831,Michael,Frazier,Michael Frazier,Florida/USA,Florida,USA,Florida,USA,1994-03-08,1.93,0,14,90.7,1
+1832,Tarik,Phillip,Tarik Phillip, USA/USA, USA,USA,West Virginia,USA,1993-08-10,1.9,0,41,88.5,1
+1833,Brandon ,Goodwin,Brandon  Goodwin,,,,,,,,0,,,0
+1834,Tim,Bond,Tim Bond,,,,,,,,0,,,0
+1835,Angel,Rodriguez,Angel Rodriguez,,,,,,,,0,,,0
+1836,Shirelijian,Muxtar,Shirelijian Muxtar,,,,,,,,0,,,0
+1837,Yongpeng,Zhang,Yongpeng Zhang,,,,,,,,0,,,0
+1838,Kai,Guo,Kai Guo,,,,,,,,0,,,0
+1839,Tianyi,Yao,Tianyi Yao,,,,,,,,0,,,0
+1840,Zhun,Zheng,Zhun Zheng,,,,,,,,0,,,0
+1841,Yifeng,Heng,Yifeng Heng,,,,,,,,0,,,0
+1842,Kun,Si,Kun Si,,,,,,,,0,,,0
+1843,Ying-Chun,Chen,Ying-Chun Chen,,,,,,,,0,,,0
+1844,Mingxu,Ju,Mingxu Ju,,,,,,,,0,,,0
+1845,Nickeil,Alexander-Walker,Nickeil Alexander-Walker, Canada,,,Virginia Tech,Canada,1998-02-09,1.96,0,4,92.5,0
+1846,RJ,Barrett,RJ Barrett, Canada/Canada, Canada,Canada,Duke University,Canada,2000-07-14,2.01,0,24,91.6,0
+1847,Darius,Bazley,Darius Bazley, USA,,, ,USA,2000-06-12,2.06,0,40,94.3,0
+1848,Goga,Bitadze,Goga Bitadze, Georgia,,, ,Georgia,1999-07-20,2.11,0,15,111.1,0
+1849,Bol,Bol,Bol Bol, Sudan/Sudan, Sudan,Sudan,University of Oregon,Sudan,1999-11-16,2.18,0,9,94.3,0
+1850,Jordan,Bone,Jordan Bone, USA,,,University of Tennessee,USA,1997-11-05,1.88,0,23,81.2,0
+1851,Jarrell,Brantley,Jarrell Brantley, USA,,,College of Charleston,USA,1996-06-07,2.01,0,40,113.4,0
+1852,Ignas,Brazdeikis,Ignas Brazdeikis, Lithuania,,,University of Michigan,Lithuania,1999-01-08,2.01,0,24,100.2,0
+1853,Brandon,Clarke,Brandon Clarke, Canada,,,Gonzaga University,Canada,1996-09-19,2.03,0,25,93.9,0
+1854,Nicolas,Claxton,Nicolas Claxton,,,,University of Georgia,,1999-04-17,2.11,0,4,99.8,0
+1855,Jarrett,Culver,Jarrett Culver, USA/USA, USA,USA,Texas Tech University,USA,1999-02-20,2.01,0,28,88.5,0
+1856,Sekou,Doumbouya,Sekou Doumbouya, Guinea/Guinea, Guinea,Guinea, ,Guinea,2000-12-23,2.06,0,10,94.8,0
+1857,Carsen,Edwards,Carsen Edwards, USA/USA, USA,USA,Purdue University,USA,1998-03-12,1.83,0,27,90.3,0
+1858,Bruno,Fernando,Bruno Fernando, Angola,,,University of Maryland,Angola,1998-08-15,2.08,0,27,105.7,0
+1859,Daniel,Gafford,Daniel Gafford, USA,,,University of Arkansas,USA,1998-10-01,2.11,0,6,108.0,0
+1860,Darius,Garland,Darius Garland, USA/USA, USA,USA,Vanderbilt University,USA,2000-01-26,1.88,0,7,79.4,0
+1861,Kyle,Guy,Kyle Guy, USA/USA, USA,USA,University of Virginia,USA,1997-08-11,1.85,0,30,75.8,0
+1862,Rui,Hachimura,Rui Hachimura, Japan/Japan, Japan,Japan,Gonzaga University,Japan,1998-02-08,2.03,0,41,104.3,0
+1863,Jaylen,Hands,Jaylen Hands, USA,,,UCLA,USA,1999-02-12,1.9,0,4,79.4,0
+1864,Jaxson,Hayes,Jaxson Hayes, USA,,,University of Texas at Arlington,USA,2000-05-20,2.11,0,1,99.8,0
+1865,Dewan,Hernandez,Dewan Hernandez, USA,,,University of Miami,USA,1996-12-09,2.08,0,38,105.7,0
+1866,Tyler,Herro,Tyler Herro, USA/USA, USA,USA,University of Kentucky,USA,2000-01-20,1.98,0,20,88.5,0
+1867,Talen,Horton-Tucker,Talen Horton-Tucker, USA/USA, USA,USA,Iowa State University,USA,2000-11-25,1.93,0,17,106.6,0
+1868,DeAndre,Hunter,DeAndre Hunter,,,,Virginia,,1997-12-01,2.01,0,17,102.1,0
+1869,Justin,James,Justin James, USA,,,,USA,1997-01-24,2.01,0,30,86.2,0
+1870,Ty,Jerome,Ty Jerome, USA/USA, USA,USA,University of Virginia,USA,1997-07-07,1.96,0,27,88.0,0
+1871,Cameron,Johnson,Cameron Johnson, USA/USA, USA,USA,University of North Carolina at Cha,USA,1996-03-03,2.06,0,22,93.0,0
+1872,Keldon,Johnson,Keldon Johnson, USA/USA, USA,USA,University of Kentucky,USA,1999-10-11,1.98,0,31,95.7,0
+1873,Mfiondu,Kabengele,Mfiondu Kabengele, Canada/Canada, Canada,Canada,Florida State University,Canada,1997-08-14,2.08,0,16,116.1,0
+1874,Romeo,Langford,Romeo Langford, USA,,,Indiana University,USA,1999-10-25,1.98,0,2,97.5,0
+1875,Nassir,Little,Nassir Little, USA/USA, USA,USA,University of North Carolina at Cha,USA,2000-02-11,1.98,0,29,99.8,0
+1876,Marcos,Louzada Silva,Marcos Louzada Silva, Brazil,,, ,Brazil,1999-07-02,1.98,0,1,86.2,0
+1877,Terance,Mann,Terance Mann, USA,,,Florida State University,USA,1996-10-18,2.01,0,16,97.5,0
+1878,Vanja,Marinkovic,Vanja Marinkovic, Serbia,,, ,Serbia,1997-01-09,1.98,0,30,88.0,0
+1879,Cody,Martin,Cody Martin,,,,North Carolina State,,1995-09-28,2.01,0,5,93.0,0
+1880,Jalen,McDaniels,Jalen McDaniels, USA/USA, USA,USA,University of San Diego,USA,1998-01-31,2.08,0,5,87.1,0
+1881,Ja,Morant,Ja Morant, USA/USA, USA,USA,Murray State University,USA,1999-08-10,1.9,0,19,79.4,0
+1882,Jaylen,Nowell,Jaylen Nowell, USA,,,University of Washington,USA,1999-07-09,1.93,0,22,91.6,0
+1883,Chuma,Okeke,Chuma Okeke, USA/USA, USA,USA,Auburn University,USA,1998-08-18,2.03,0,26,104.3,0
+1884,KZ,Okpala,KZ Okpala,,,,Stanford,,1999-04-28,2.06,0,28,95.3,0
+1885,Miye,Oni,Miye Oni, USA/USA, USA,USA,Yale University,USA,1997-08-04,1.98,0,40,93.4,0
+1886,Eric,Paschall,Eric Paschall, USA,,,Villanova University,USA,1996-11-04,2.01,0,11,115.2,0
+1887,Jordan,Poole,Jordan Poole, USA/USA, USA,USA,University of Michigan,USA,1999-06-19,1.96,0,11,86.6,0
+1888,Kevin,Porter Jr.,Kevin Porter Jr., USA/USA, USA,USA,University of Southern California,USA,2000-05-04,1.98,0,7,98.0,0
+1889,Cameron,Reddish,Cameron Reddish, USA/USA, USA,USA,Duke University,USA,1999-09-01,2.03,0,1,94.3,0
+1890,Isaiah,Roby,Isaiah Roby, USA/USA, USA,USA,University of Nebraska?Lincoln,USA,1998-02-03,2.03,0,8,97.1,0
+1891,Luka,Samanic,Luka Samanic, Croatia/Croatia, Croatia,Croatia, ,Croatia,2000-01-09,2.11,0,31,103.0,0
+1892,Admiral,Schofield,Admiral Schofield, United Kingdom/United Kingdom, United Kingdom,United Kingdom,University of Tennessee,United Kingdom,1997-03-30,1.96,0,27,109.3,0
+1893,Marial,Shayok,Marial Shayok, Canada,,,Iowa State University,Canada,1995-07-26,1.96,0,27,88.9,0
+1894,Deividas,Sirvydis,Deividas Sirvydis, Lithuania,,, ,Lithuania,2000-06-10,2.03,0,10,86.2,0
+1895,Alen,Smailagic,Alen Smailagic, Serbia/Serbia, Serbia,Serbia, ,Serbia,2000-08-18,2.06,0,11,98.0,0
+1896,Matisse,Thybulle,Matisse Thybulle, USA/USA, USA,USA,University of Washington,USA,1997-03-04,1.96,0,27,90.7,0
+1897,P.J.,Washington,P.J. Washington, USA/USA, USA,USA,University of Kentucky,USA,1998-08-23,2.01,0,5,107.0,0
+1898,Tremont,Waters,Tremont Waters,,,,Louisiana State,,1998-01-10,1.8,0,2,78.0,0
+1899,Quinndary,Weatherspoon,Quinndary Weatherspoon, USA,,,Mississippi State University,USA,1996-09-10,1.93,0,31,93.9,0
+1900,Coby,White,Coby White, USA/USA, USA,USA,University of North Carolina at Cha,USA,2000-02-16,1.96,0,6,86.6,0
+1901,Grant,Williams,Grant Williams, USA,,,University of Tennessee,USA,1998-11-30,2.01,0,2,108.9,0
+1902,Zion,Williamson,Zion Williamson, USA/USA, USA,USA,Duke University,USA,2000-07-06,2.01,0,23,129.3,0
+1903,Dylan,Windler,Dylan Windler, USA/USA, USA,USA,Belmont University,USA,1996-09-22,2.03,0,7,88.9,0
+1904,Justin,Wright-Foreman,Justin Wright-Foreman, USA,,,Hofstra University,USA,1997-10-27,1.88,0,40,86.2,0
+1905,Marcus,Allen,Marcus Allen, USA,,,,USA,1994-09-14,1.9,0,17,85.7,0
+1906,Rosco,Allen,Rosco Allen,Stanford,,,Stanford,Hungary,1993-05-05,2.08,0,17,97.5,0
+1907,Brandon,Ashley,Brandon Ashley,Arizona/USA,Arizona,USA,Arizona,USA,1994-07-15,2.06,0,30,104.3,0
+1908,Ky,Bowman,Ky Bowman,Boston College,,,Boston College,USA,1998-06-16,1.85,0,11,85.3,0
+1909,Bryce,Brown,Bryce Brown,Auburn University,,,Auburn University,USA,1997-07-24,1.9,0,30,90.3,0
+1910,Jordan,Caroline,Jordan Caroline,"University of Nevada, Las Vegas",,,"University of Nevada, Las Vegas",USA,1996-01-15,2.01,0,17,106.6,0
+1911,Semaj,Christon,Semaj Christon,Xavier/USA,Xavier,USA,Xavier,USA,1992-11-01,1.9,2016,,86.2,0
+1912,Charles,Cooke,Charles Cooke,Dayton/USA,Dayton,USA,Dayton,USA,1994-07-01,1.96,2017,20,88.9,1
+1913,Milton,Doyle,Milton Doyle,Loyola (Chicago)/USA,Loyola (Chicago),USA,Loyola (Chicago),USA,1993-10-31,1.93,2017,4,81.6,1
+1914,Jimmer,Fredette,Jimmer Fredette,Brigham Young/USA,Brigham Young,USA,Brigham Young,USA,1989-02-25,1.88,2011,28,88.5,6
+1915,Kyle,Guy,Kyle Guy, USA/USA, USA,USA,University of Virginia,USA,1997-08-11,1.85,0,30,75.8,0
+1916,Tyler,Herro,Tyler Herro, USA/USA, USA,USA,University of Kentucky,USA,2000-01-20,1.98,0,20,88.5,0
+1917,Aric,Holman,Aric Holman,Mississippi State University,,,Mississippi State University,USA,1997-07-11,2.08,0,17,102.1,0
+1918,Talen,Horton-Tucker,Talen Horton-Tucker, USA/USA, USA,USA,Iowa State University,USA,2000-11-25,1.93,0,17,106.6,0
+1919,BJ,Johnson,BJ Johnson, USA/USA, USA,USA,La Salle,USA,1995-12-21,2.01,2018,30,90.7,1
+1920,Dedric,Lawson,Dedric Lawson,University of Kansas,,,University of Kansas,USA,1997-10-01,2.06,0,11,106.6,0
+1921,Codi,Miller-McIntyre,Codi Miller-McIntyre,,,,,,,,0,,,0
+1922,Trey,Mourning,Trey Mourning,Georgetown University,,,Georgetown University, ,1900-01-01,2.06,0,20,99.8,0
+1923,Zach,Norvell Jr.,Zach Norvell Jr.,Gonzaga University/USA,Gonzaga University,USA,Gonzaga University,USA,1997-12-09,1.96,0,17,93.0,0
+1924,Kendrick,Nunn,Kendrick Nunn,Oakland University (MI)/USA,Oakland University (MI),USA,Oakland University,USA,1995-08-03,1.9,0,20,88.5,0
+1925,Eric,Paschall,Eric Paschall, USA,,,Villanova University,USA,1996-11-04,2.01,0,11,115.2,0
+1926,Jordan,Poole,Jordan Poole, USA/USA, USA,USA,University of Michigan,USA,1999-06-19,1.96,0,11,86.6,0
+1927,Davon,Reed,Davon Reed,Miami/USA,Miami,USA,Miami (FL),USA,1995-06-11,1.96,2017,15,94.3,2
+1928,Malachi,Richardson,Malachi Richardson,Syracuse/USA,Syracuse,USA,Syracuse,USA,1996-01-05,1.98,2016,27,93.0,2
+1929,Duncan,Robinson,Duncan Robinson,Michigan/USA,Michigan,USA,Michigan,USA,1994-04-22,2.03,2018,20,95.3,1
+1930,Brandon,Sampson,Brandon Sampson, USA/USA, USA,USA,,USA,1997-05-01,1.96,2018,11,83.5,1
+1931,Alen,Smailagic,Alen Smailagic, Serbia/Serbia, Serbia,Serbia, ,Serbia,2000-08-18,2.06,0,11,98.0,0
+1932,Caleb,Swanigan,Caleb Swanigan,Purdue/USA,Purdue,USA,Purdue,USA,1997-04-18,2.06,2017,30,113.4,2
+1933,Hollis,Thompson,Hollis Thompson,,,,Georgetown,USA,1991-04-03,2.03,2013,,93.4,2
+1934,Juan,Toscano-Anderson,Juan Toscano-Anderson, USA/USA, USA,USA,,USA,1993-03-10,1.98,0,11,94.8,0
+1935,Travis,Wear,Travis Wear,UCLA/USA,UCLA,USA,UCLA,USA,1990-09-21,2.06,2014,17,99.3,2
+1936,Joe,Young,Joe Young,Oregon/USA,Oregon,USA,Oregon,USA,1992-06-27,1.88,2015,15,83.9,3
+1937,Marcus,Allen,Marcus Allen, USA,,,,USA,1994-09-14,1.9,0,17,85.7,0
+1938,Braian,Angola-Rodas,Braian Angola-Rodas,,,,,,,,0,,,0
+1939,Ky,Bowman,Ky Bowman,Boston College,,,Boston College,USA,1998-06-16,1.85,0,11,85.3,0
+1940,Jordan,Caroline,Jordan Caroline,"University of Nevada, Las Vegas",,,"University of Nevada, Las Vegas",USA,1996-01-15,2.01,0,17,106.6,0
+1941,Devin,Davis,Devin Davis,,,,,,,,0,,,0
+1942,Jimmer,Fredette,Jimmer Fredette,Brigham Young/USA,Brigham Young,USA,Brigham Young,USA,1989-02-25,1.88,2011,28,88.5,6
+1943,Abdul,Gaddy,Abdul Gaddy,,,,,,,,0,,,0
+1944,Tyler,Herro,Tyler Herro, USA/USA, USA,USA,University of Kentucky,USA,2000-01-20,1.98,0,20,88.5,0
+1945,Jeremiah,Hill,Jeremiah Hill, USA/USA, USA,USA,,USA,1995-09-04,1.88,0,26,77.1,0
+1946,Aric,Holman,Aric Holman,Mississippi State University,,,Mississippi State University,USA,1997-07-11,2.08,0,17,102.1,0
+1947,Talen,Horton-Tucker,Talen Horton-Tucker, USA/USA, USA,USA,Iowa State University,USA,2000-11-25,1.93,0,17,106.6,0
+1948,DaQuan,Jeffries,DaQuan Jeffries,University of Tulsa,,,University of Tulsa,USA,1997-08-30,1.96,0,26,102.1,0
+1949,Peter,Jok,Peter Jok,Iowa/South Sudan,Iowa,South Sudan,Iowa,South Sudan,1994-03-30,1.98,0,26,93.0,0
+1950,Dedric,Lawson,Dedric Lawson,University of Kansas,,,University of Kansas,USA,1997-10-01,2.06,0,11,106.6,0
+1951,Erik,McCree,Erik McCree,Louisiana Tech/USA,Louisiana Tech,USA,Louisiana Tech,USA,1993-12-20,2.03,2017,40,102.1,1
+1952,Codi,Miller-McIntyre,Codi Miller-McIntyre,,,,,,,,0,,,0
+1953,Trey,Mourning,Trey Mourning,Georgetown University,,,Georgetown University, ,1900-01-01,2.06,0,20,99.8,0
+1954,Zach,Norvell Jr.,Zach Norvell Jr.,Gonzaga University/USA,Gonzaga University,USA,Gonzaga University,USA,1997-12-09,1.96,0,17,93.0,0
+1955,Kendrick,Nunn,Kendrick Nunn,Oakland University (MI)/USA,Oakland University (MI),USA,Oakland University,USA,1995-08-03,1.9,0,20,88.5,0
+1956,Eric,Paschall,Eric Paschall, USA,,,Villanova University,USA,1996-11-04,2.01,0,11,115.2,0
+1957,John,Petrucelli,John Petrucelli,Molloy College/USA,Molloy College,USA,Molloy College,USA,1992-10-27,1.93,0,,86.2,0
+1958,Jordan,Poole,Jordan Poole, USA/USA, USA,USA,University of Michigan,USA,1999-06-19,1.96,0,11,86.6,0
+1959,Duncan,Robinson,Duncan Robinson,Michigan/USA,Michigan,USA,Michigan,USA,1994-04-22,2.03,2018,20,95.3,1
+1960,Alen,Smailagic,Alen Smailagic, Serbia/Serbia, Serbia,Serbia, ,Serbia,2000-08-18,2.06,0,11,98.0,0
+1961,Juan,Toscano-Anderson,Juan Toscano-Anderson, USA/USA, USA,USA,,USA,1993-03-10,1.98,0,11,94.8,0
+1962,Travis,Wear,Travis Wear,UCLA/USA,UCLA,USA,UCLA,USA,1990-09-21,2.06,2014,17,99.3,2
+1963,Gabe,York,Gabe York,Arizona/USA,Arizona,USA,Arizona,USA,1993-08-02,1.9,0,26,83.5,0
+1964,Joe,Young,Joe Young,Oregon/USA,Oregon,USA,Oregon,USA,1992-06-27,1.88,2015,15,83.9,3
+1965,Muhammad-Ali,Abdur-Rahkman,Muhammad-Ali Abdur-Rahkman,,,,,,,,0,7,,0
+1966,Travis,Bader,Travis Bader,,,,,,,,0,31,,0
+1967,Jordan,Barnett,Jordan Barnett,,,,,,,,0,31,,0
+1968,Phil,Booth,Phil Booth,,,,,,,,0,7,,0
+1969,Jarrell,Brantley,Jarrell Brantley, USA,,,College of Charleston,USA,1996-06-07,2.01,0,40,113.4,0
+1970,Jevon,Carter,Jevon Carter,West Virginia University/USA,West Virginia University,USA,West Virginia,USA,1995-09-14,1.88,2018,19,88.9,1
+1971,Isaiah,Cousins,Isaiah Cousins,Oklahoma/USA,Oklahoma,USA,Oklahoma,USA,1994-03-13,1.93,0,40,86.6,0
+1972,Drew,Eubanks,Drew Eubanks, USA/USA, USA,USA,,USA,1997-02-01,2.08,2018,31,111.1,1
+1973,Keenan,Evans,Keenan Evans,Texas Tech/USA,Texas Tech,USA,,USA,1996-08-23,1.9,0,10,86.2,0
+1974,Tre'Shaun,Fletcher,Tre'Shaun Fletcher,,,,,,,,0,40,,0
+1975,Darius,Garland,Darius Garland, USA/USA, USA,USA,Vanderbilt University,USA,2000-01-26,1.88,0,7,79.4,0
+1976,Dusty,Hannahs,Dusty Hannahs,Arkansas/USA,Arkansas,USA,Arkansas,USA,1993-09-02,1.93,2018,19,88.5,0
+1977,Tyler,Harvey,Tyler Harvey,,,,,,,,0,19,,0
+1978,Jalen,Hudson,Jalen Hudson,,,,,,,,0,7,,0
+1979,Keldon,Johnson,Keldon Johnson, USA/USA, USA,USA,University of Kentucky,USA,1999-10-11,1.98,0,31,95.7,0
+1980,Jairus,Lyles,Jairus Lyles,,,,,,,,0,,,0
+1981,Josh,Magette,Josh Magette,Alabama-Huntsville/USA,Alabama-Huntsville,USA,Alabama-Huntsville,USA,1989-11-28,1.85,2017,1,72.6,1
+1982,Tanner,McGrew,Tanner McGrew,,,,,,,,0,40,,0
+1983,Ben,Moore,Ben Moore,Southern Methodist/USA,Southern Methodist,USA,Southern Methodist,USA,1995-05-13,2.03,2017,31,99.8,2
+1984,Doral,Moore,Doral Moore,,,,,,1997-01-21,2.16,0,19,127.0,0
+1985,Darius,Morris,Darius Morris,,,,,,,,0,,,0
+1986,Malik,Newman,Malik Newman,,,,,,,,0,,,0
+1987,Miye,Oni,Miye Oni, USA/USA, USA,USA,Yale University,USA,1997-08-04,1.98,0,40,93.4,0
+1988,Darel,Poirier,Darel Poirier,,,,,,,,0,31,,0
+1989,Kevin,Porter Jr.,Kevin Porter Jr., USA/USA, USA,USA,University of Southern California,USA,2000-05-04,1.98,0,7,98.0,0
+1990,Willie,Reed,Willie Reed,St. Louis/USA,St. Louis,USA,Saint Louis,USA,1990-05-16,2.11,2015,,111.1,1
+1991,Thomas,Robinson,Thomas Robinson,,,,,,,,0,,,0
+1992,Luka,Samanic,Luka Samanic, Croatia/Croatia, Croatia,Croatia, ,Croatia,2000-01-09,2.11,0,31,103.0,0
+1993,Simisola,Shittu,Simisola Shittu,,,,,,,,0,19,,0
+1994,Julian,Washburn,Julian Washburn,Texas-El Paso/USA,Texas-El Paso,USA,Texas-El Paso,USA,1991-12-18,2.03,2018,19,94.8,1
+1995,Yuta,Watanabe,Yuta Watanabe,George Washington/Japan,George Washington,Japan,George Washington,Japan,1994-10-13,2.06,2018,19,93.0,1
+1996,Quinndary,Weatherspoon,Quinndary Weatherspoon, USA,,,Mississippi State University,USA,1996-09-10,1.93,0,31,93.9,0
+1997,JaCorey,Williams,JaCorey Williams,,,,,,,,0,7,,0
+1998,Dylan,Windler,Dylan Windler, USA/USA, USA,USA,Belmont University,USA,1996-09-22,2.03,0,7,88.9,0
+1999,Justin,Wright-Foreman,Justin Wright-Foreman, USA,,,Hofstra University,USA,1997-10-27,1.88,0,40,86.2,0
+2000,Yovel,Zoosman,Yovel Zoosman,,,,,,,,0,7,,0
+2001,Jaron,Johnson,Jaron Johnson,Louisiana Tech,,,Louisiana Tech,USA,1992-05-05,1.98,0,17,93.0,0
+2002,Jaron,Johnson,Jaron Johnson,Louisiana Tech,,,Louisiana Tech,USA,1992-05-05,1.98,0,17,93.0,0
+2003,Muhammad-Ali,Abdur-Rahkman,Muhammad-Ali Abdur-Rahkman,,,,,,,,0,7,,0
+2004,DeVaughn,Akoon-Purcell,DeVaughn Akoon-Purcell,Illinois State/Trinidad and Tobago,Illinois State,Trinidad and Tobago,Illinois State,Trinidad and Tobago,1993-06-05,,2018,,,0
+2005,Goga,Bitadze,Goga Bitadze, Georgia,,, ,Georgia,1999-07-20,2.11,0,15,111.1,0
+2006,Phil,Booth,Phil Booth,,,,,,,,0,7,,0
+2007,Brian,Bowen,Brian Bowen,,,,,,,,0,,,0
+2008,Trahson,Burrell,Trahson Burrell,Memphis/USA,Memphis,USA,Memphis,USA,1992-11-16,2.01,0,8,86.2,0
+2009,Joe,Chealey,Joe Chealey,Charleston (SC)/USA,Charleston (SC),USA,Charleston (SC),USA,1995-11-01,1.9,2018,5,86.2,1
+2010,Jamaal,Franklin,Jamaal Franklin,San Diego State/USA,San Diego State,USA,San Diego State,USA,1991-07-21,1.96,2013,38,86.2,2
+2011,Robert,Franks,Robert Franks,Washington State University,,,Washington State University, ,1996-12-18,2.03,0,5,104.3,0
+2012,Darius,Garland,Darius Garland, USA/USA, USA,USA,Vanderbilt University,USA,2000-01-26,1.88,0,7,79.4,0
+2013,Jay,Henderson,Jay Henderson,Louisville,,,Louisville,USA,1995-04-08,1.93,0,15,81.6,0
+2014,Dewan,Hernandez,Dewan Hernandez, USA,,,University of Miami,USA,1996-12-09,2.08,0,38,105.7,0
+2015,Jalen,Hudson,Jalen Hudson,,,,,,,,0,7,,0
+2016,Sagaba,Konate,Sagaba Konate,West Virginia University,,,West Virginia University,Mali,1997-03-19,2.03,0,38,113.4,0
+2017,Daryl,Macon,Daryl Macon,Arkansas/USA,Arkansas,USA,Arkansas,USA,1995-11-29,1.9,2018,8,83.9,1
+2018,Cody,Martin,Cody Martin,,,,North Carolina State,,1995-09-28,2.01,0,5,93.0,0
+2019,Jalen,McDaniels,Jalen McDaniels, USA/USA, USA,USA,University of San Diego,USA,1998-01-31,2.08,0,5,87.1,0
+2020,Markis,McDuffie,Markis McDuffie,Wichita State University,,,Wichita State University,USA,1997-09-06,2.03,0,15,88.9,0
+2021,Youssou,Ndoye,Youssou Ndoye, Senegal/Senegal, Senegal,Senegal,,Senegal,1991-07-15,2.13,0,8,113.4,0
+2022,Duane,Notice,Duane Notice, Canada/Canada, Canada,Canada,,Canada,1994-09-07,1.88,0,38,99.8,0
+2023,Cameron,Payne,Cameron Payne,Murray State/USA,Murray State,USA,Murray State,USA,1994-08-08,,2015,,,0
+2024,Dyshawn,Pierre,Dyshawn Pierre,Dayton,,,Dayton,,1993-11-17,1.98,0,8,104.3,0
+2025,Kevin,Porter Jr.,Kevin Porter Jr., USA/USA, USA,USA,University of Southern California,USA,2000-05-04,1.98,0,7,98.0,0
+2026,Kerwin,Roach,Kerwin Roach,University of Texas at Austin,,,University of Texas at Austin,USA,1996-10-24,1.93,0,5,81.6,0
+2027,Isaiah,Roby,Isaiah Roby, USA/USA, USA,USA,University of Nebraska?Lincoln,USA,1998-02-03,2.03,0,8,97.1,0
+2028,Richard,Solomon,Richard Solomon,,,,,,,,0,,,0
+2029,Travin,Thibodeaux,Travin Thibodeaux, USA/USA, USA,USA,,USA,1996-02-16,2.03,0,15,106.6,0
+2030,Adonis,Thomas,Adonis Thomas,Memphis/USA,Memphis,USA,Memphis,USA,1993-03-25,1.98,2013,38,106.6,1
+2031,Corey,Walden,Corey Walden, USA/USA, USA,USA,,USA,1992-08-05,1.88,0,38,86.2,0
+2032,P.J.,Washington,P.J. Washington, USA/USA, USA,USA,University of Kentucky,USA,1998-08-23,2.01,0,5,107.0,0
+2033,Shayne,Whittington,Shayne Whittington,,,,Western Michigan,USA,1991-03-27,2.11,2014,15,113.4,1
+2034,Lindell,Wigginton,Lindell Wigginton,Iowa State University,,,Iowa State University,Canada,1998-03-28,1.88,0,38,86.2,0
+2035,JaCorey,Williams,JaCorey Williams,,,,,,,,0,7,,0
+2036,Dylan,Windler,Dylan Windler, USA/USA, USA,USA,Belmont University,USA,1996-09-22,2.03,0,7,88.9,0
+2037,Yovel,Zoosman,Yovel Zoosman,,,,,,,,0,7,,0
+2038,Jarrell,Brantley,Jarrell Brantley, USA,,,College of Charleston,USA,1996-06-07,2.01,0,40,113.4,0
+2039,Deonte,Burton,Deonte Burton,Iowa State/USA,Iowa State,USA,Iowa State,USA,1994-01-31,1.96,2018,25,111.1,1
+2040,Luguentz,Dort,Luguentz Dort,Arizona State University,,,Arizona State University,Canada,1999-04-19,1.93,0,25,97.5,0
+2041,Carsen,Edwards,Carsen Edwards, USA/USA, USA,USA,Purdue University,USA,1998-03-12,1.83,0,27,90.3,0
+2042,Tacko,Fall,Tacko Fall,Central Florida,,,Central Florida,Senegal,1995-12-10,2.29,0,2,140.6,0
+2043,Tre'Shaun,Fletcher,Tre'Shaun Fletcher,,,,,,,,0,40,,0
+2044,Donte,Grantham,Donte Grantham,Clemson/USA,Clemson,USA,Clemson,USA,1995-03-19,2.03,2018,25,97.5,1
+2045,Romeo,Langford,Romeo Langford, USA,,,Indiana University,USA,1999-10-25,1.98,0,2,97.5,0
+2046,Jairus,Lyles,Jairus Lyles,,,,,,,,0,,,0
+2047,Tanner,McGrew,Tanner McGrew,,,,,,,,0,40,,0
+2048,Yannis,Morin,Yannis Morin,France/France,France,France,,France,1993-08-31,2.08,0,25,95.3,0
+2049,Miye,Oni,Miye Oni, USA/USA, USA,USA,Yale University,USA,1997-08-04,1.98,0,40,93.4,0
+2050,Willie,Reed,Willie Reed,St. Louis/USA,St. Louis,USA,Saint Louis,USA,1990-05-16,2.11,2015,,111.1,1
+2051,Max,Strus,Max Strus,DePaul University,,,DePaul University,USA,1996-03-28,1.98,0,2,97.5,0
+2052,Emanuel,Terry,Emanuel Terry,Lincoln Memorial (TN)/USA,Lincoln Memorial (TN),USA,Lincoln Memorial (TN),USA,1996-08-21,,2018,,,0
+2053,Tremont,Waters,Tremont Waters,,,,Louisiana State,,1998-01-10,1.8,0,2,78.0,0
+2054,Grant,Williams,Grant Williams, USA,,,University of Tennessee,USA,1998-11-30,2.01,0,2,108.9,0
+2055,Justin,Wright-Foreman,Justin Wright-Foreman, USA,,,Hofstra University,USA,1997-10-27,1.88,0,40,86.2,0
+2056,Zach,Norvell Jr.,Zach Norvell Jr.,Gonzaga University/USA,Gonzaga University,USA,Gonzaga University,USA,1997-12-09,1.96,0,17,93.0,0
+2057,Eric,Mika,Eric Mika,Brigham Young,,,Brigham Young,USA,1995-01-05,2.08,0,,104.3,0
+2058,Jordan,Howard,Jordan Howard, USA/USA, USA,USA,,USA,1996-01-06,,0,,,0
+2059,Dakota,Mathias,Dakota Mathias,Purdue,,,Purdue,,1995-07-11,1.93,0,,90.7,0
+2060,Kyle,Alexander,Kyle Alexander,Tennessee,,,Tennessee,,1996-10-21,2.11,0,,99.8,0
+2061,Ibrahima,Faye,Ibrahima Faye,Senegal,,,Senegal,,1997-01-10,2.06,0,,102.1,0
+2062,Jeremiah,Martin,Jeremiah Martin,Memphis,,,Memphis,,1996-06-19,1.9,0,,83.9,0
+2063,Nick,Mayo,Nick Mayo,Eastern Kentucky,,,Eastern Kentucky,,1997-08-18,2.03,0,,106.6,0
+2064,Chris,Silva,Chris Silva,South Carolina,,,South Carolina,,1996-09-19,2.06,0,,102.1,0
+2065,Nick,Weiler Babb,Nick Weiler Babb,Iowa State,,,Iowa State,,1995-12-12,1.96,0,,93.0,0
+2066,Malik,Dunbar,Malik Dunbar,Auburn,,,Auburn,,1996-01-27,1.98,0,,104.3,0
+2067,Ebuka,Izundu,Ebuka Izundu,Miami,,,Miami,,1996-06-28,2.08,0,,105.2,0
+2068,Kevin,McClain,Kevin McClain,Belmont,,,Belmont,,1996-10-21,1.9,0,,86.2,0
+2069,Devontae,Cacok,Devontae Cacok,UNCW,,,UNCW,,1996-10-08,2.01,0,,108.9,0
+2070,Conner,Frankamp,Conner Frankamp,Wichita State,,,Wichita State,,1995-07-16,1.85,0,,76.7,0
+2071,Nick,Perkins,Nick Perkins,Buffalo,,,Buffalo,,1996-10-15,2.03,0,,112.9,0
+2072,Justin,James,Justin James,Wyoming,,,Wyoming,,1997-01-24,2.01,0,,83.0,0
+2073,Isaiah,Pineiro,Isaiah Pineiro,San Diego,,,San Diego,,1995-02-05,1.98,0,,100.2,0
+2074,Alex,Robinson,Alex Robinson,TCU,,,TCU,,1995-05-20,1.85,0,,79.8,0
+2075,Javon,Bess,Javon Bess,Saint Louis University,,,Saint Louis University,USA,1996-04-01,1.98,0,23,99.8,0
+2076,Trevon,Bluiett,Trevon Bluiett,Xavier/USA,Xavier,USA,Xavier (Ohio),USA,1994-11-04,1.98,0,23,89.8,1
+2077,Zylan,Cheatham,Zylan Cheatham,Arizona State,,,Arizona State,USA,1995-11-17,2.03,0,23,99.8,0
+2078,Aubrey,Dawkins,Aubrey Dawkins,Central Florida,,,Central Florida,USA,1995-05-08,1.98,0,23,93.0,0
+2079,Zion,Williamson,Zion Williamson, USA/USA, USA,USA,Duke University,USA,2000-07-06,2.01,0,23,129.3,0
+2080,Bruno,Caboclo,Bruno Caboclo,Brazil/Brazil,Brazil,Brazil,,Brazil,1995-09-21,2.06,2014,19,98.9,5
+2081,Austin,Hollins,Austin Hollins,,,,,,,,0,40,,0
+2082,George,King,George King,University of Colorado Boulder/USA,University of Colorado Boulder,USA,University of Colorado Boulder,USA,1994-01-15,1.98,2018,28,99.8,1
+2083,Austin,Hollins,Austin Hollins,,,,,,,,0,,,0
+2084,William,Howard,William Howard,,,,,,,,0,,,0
+2085,Kenny,Williams,Kenny Williams,,,,,,,,0,,,0
+2086,Darnell,Edge,Darnell Edge,,,,,,,,0,,,0
+2087,Frankie,Ferrari,Frankie Ferrari,,,,,,,,0,,,0
+2088,Juwan,Morgan,Juwan Morgan,,,,,,,,0,,,0
+2089,Josh,Sharma,Josh Sharma,,,,,,,,0,,,0
+2090,Marques,Bolden,Marques Bolden,,,,,,,,0,,,0
+2091,Sandy,Cohen III,Sandy Cohen III,,,,,,,,0,,,0
+2092,Anthony,Lawrence II,Anthony Lawrence II,,,,,,,,0,,,0
+2093,Dylan,Osetkowski,Dylan Osetkowski,,,,,,,,0,,,0
+2094,Dean,Wade,Dean Wade,,,,,,,,0,,,0
+2095,Shaq,Buchanan,Shaq Buchanan,,,,,,,,0,,,0
+2096,Lyle,Hexom,Lyle Hexom,,,,,,,,0,,,0
+2097,John,Konchar,John Konchar,,,,,,,,0,,,0
+2098,Ben,Lawson,Ben Lawson,,,,,,,,0,,,0
+2099,Paris,Lee,Paris Lee,,,,,,,,0,,,0
+2100,Adam,Mokoka,Adam Mokoka,France/France,France,France, ,France,1998-07-18,1.96,0,6,95.3,0
+2101,Jaylen,Adams,Jaylen Adams,St. Bonaventure/USA,St. Bonaventure,USA,St. Bonaventure,USA,1996-05-04,1.88,2018,1,86.2,1
+2102,Travis,Bader,Travis Bader,,,,,,,,0,31,,0
+2103,Jordan,Barnett,Jordan Barnett,,,,,,,,0,31,,0
+2104,RJ,Barrett,RJ Barrett, Canada/Canada, Canada,Canada,Duke University,Canada,2000-07-14,2.01,0,24,91.6,0
+2105,Canyon,Barry,Canyon Barry, USA/USA, USA,USA,,USA,1994-01-07,1.98,0,22,97.5,0
+2106,Tyus,Battle,Tyus Battle,Syracuse University,,,Syracuse University,USA,1997-09-23,1.98,0,22,93.0,0
+2107,Michael,Bethea Jr.,Michael Bethea Jr.,Chico State/USA,Chico State,USA,Chico State,USA,1995-01-22,1.98,0,10,83.9,0
+2108,Bennie,Boatwright,Bennie Boatwright,University of Southern California,,,University of Southern California,USA,1996-07-13,2.08,0,10,106.6,0
+2109,Ignas,Brazdeikis,Ignas Brazdeikis, Lithuania,,,University of Michigan,Lithuania,1999-01-08,2.01,0,24,100.2,0
+2110,Oshae,Brissett,Oshae Brissett,Syracuse University,,,Syracuse University,Canada,1998-06-20,2.03,0,16,95.3,0
+2111,Charles,Brown,Charles Brown,,,,,USA,1998-02-02,2.01,0,1,90.3,0
+2112,Robert,Carter,Robert Carter,Maryland,,,Maryland,USA,1994-04-04,2.06,0,16,108.9,0
+2113,Tyler,Cavanaugh,Tyler Cavanaugh,George Washington/USA,George Washington,USA,George Washington,USA,1994-02-09,2.06,2017,40,108.0,2
+2114,Will,Cherry,Will Cherry,,,,,,,,0,,,0
+2115,Amir,Coffey,Amir Coffey,University of Minnesota,,,University of Minnesota,USA,1997-06-17,2.03,0,16,93.0,0
+2116,Bonzie,Colson,Bonzie Colson,Notre Dame/USA,Notre Dame,USA,Notre Dame,USA,1996-01-12,1.98,2018,21,102.1,1
+2117,Matt,Costello,Matt Costello,Michigan State/USA,Michigan State,USA,Michigan State,USA,1993-08-05,2.08,2017,22,108.9,1
+2118,Markel,Crawford,Markel Crawford,,,,,,,,0,,,0
+2119,Sekou,Doumbouya,Sekou Doumbouya, Guinea/Guinea, Guinea,Guinea, ,Guinea,2000-12-23,2.06,0,10,94.8,0
+2120,Drew,Eubanks,Drew Eubanks, USA/USA, USA,USA,,USA,1997-02-01,2.08,2018,31,111.1,1
+2121,Matt,Farrell,Matt Farrell, USA/USA, USA,USA,,USA,1996-03-15,1.85,0,21,79.4,0
+2122,Kaiser,Gates,Kaiser Gates,,,,,,,,0,,,0
+2123,Johnny,Hamilton,Johnny Hamilton,,,,,,,,0,,,0
+2124,Amir,Hinton,Amir Hinton,Shaw University,,,Shaw University,USA,1997-02-14,1.96,0,24,86.2,0
+2125,Jaylen,Hoard,Jaylen Hoard,Wake Forest University/France,Wake Forest University,France,Wake Forest University,France,1999-03-30,2.03,0,29,95.3,0
+2126,Keith,Hornsby,Keith Hornsby,,,,,,,,0,,,0
+2127,Isaac,Humphries,Isaac Humphries,Kentucky/Australia,Kentucky,Australia,University of Kentucky,Australia,1998-01-05,2.13,2018,1,117.9,1
+2128,Zak,Irvin,Zak Irvin, USA/USA, USA,USA,,USA,1994-09-05,1.98,0,24,97.5,0
+2129,Keldon,Johnson,Keldon Johnson, USA/USA, USA,USA,University of Kentucky,USA,1999-10-11,1.98,0,31,95.7,0
+2130,Mfiondu,Kabengele,Mfiondu Kabengele, Canada/Canada, Canada,Canada,Florida State University,Canada,1997-08-14,2.08,0,16,116.1,0
+2131,Louis,King,Louis King,University of Oregon/USA,University of Oregon,USA,University of Oregon,USA,1999-04-06,2.06,0,10,93.0,0
+2132,Skal,Labissiere,Skal Labissiere,Kentucky/Haiti,Kentucky,Haiti,Kentucky,Haiti,1996-03-18,2.11,2016,29,106.6,3
+2133,Trey,Lewis,Trey Lewis,,,,,,,,0,,,0
+2134,Nassir,Little,Nassir Little, USA/USA, USA,USA,University of North Carolina at Cha,USA,2000-02-11,1.98,0,29,99.8,0
+2135,Zach,Lofton,Zach Lofton,New Mexico State/USA,New Mexico State,USA,New Mexico State,USA,1992-11-18,,2018,,,0
+2136,Terance,Mann,Terance Mann, USA,,,Florida State University,USA,1996-10-18,2.01,0,16,97.5,0
+2137,Luke,Maye,Luke Maye,University of North Carolina at Cha,,,University of North Carolina at Cha,USA,1997-03-07,2.03,0,21,108.9,0
+2138,Tahjere,McCall,Tahjere McCall,Tennessee State/USA,Tennessee State,USA,Tennessee State,USA,1994-08-17,1.96,2018,4,86.2,0
+2139,Jordan,McLaughlin,Jordan McLaughlin,,,,,,,,0,,,0
+2140,Marquise,Moore,Marquise Moore,George Mason/USA,George Mason,USA,George Mason,USA,1994-12-22,1.88,0,22,94.3,0
+2141,Darius,Morris,Darius Morris,,,,,,,,0,,,0
+2142,Xavier,Munford,Xavier Munford,Rhode Island/USA,Rhode Island,USA,Rhode Island,USA,1992-06-01,1.93,2015,11,78.5,2
+2143,Amine,Noua,Amine Noua, ,,, ,France,1997-02-07,2.03,0,1,88.9,0
+2144,Jaylen,Nowell,Jaylen Nowell, USA,,,University of Washington,USA,1999-07-09,1.93,0,22,91.6,0
+2145,Darel,Poirier,Darel Poirier,,,,,,,,0,31,,0
+2146,Naz,Reid,Naz Reid,Louisiana State University/USA,Louisiana State University,USA,Louisiana State University,USA,1999-08-26,2.08,0,22,112.9,0
+2147,Thomas,Robinson,Thomas Robinson,,,,,,,,0,,,0
+2148,Luka,Samanic,Luka Samanic, Croatia/Croatia, Croatia,Croatia, ,Croatia,2000-01-09,2.11,0,31,103.0,0
+2149,Jordan,Sibert,Jordan Sibert, USA/USA, USA,USA,Dayton,USA,1992-08-01,,2018,,,0
+2150,Deividas,Sirvydis,Deividas Sirvydis, Lithuania,,, ,Lithuania,2000-06-10,2.03,0,10,86.2,0
+2151,Jared,Terrell,Jared Terrell,Rhode Island/USA,Rhode Island,USA,Rhode Island,USA,1995-02-10,1.9,2018,22,103.0,1
+2152,Rayjon,Tucker,Rayjon Tucker,,,,,USA,1997-09-24,1.96,0,21,95.3,0
+2153,Nick,Ward,Nick Ward,Michigan State University,,,Michigan State University,USA,1997-09-02,2.06,0,1,111.1,0
+2154,Quinndary,Weatherspoon,Quinndary Weatherspoon, USA,,,Mississippi State University,USA,1996-09-10,1.93,0,31,93.9,0
+2155,Isaiah,Whitehead,Isaiah Whitehead,Seton Hall/USA,Seton Hall,USA,Seton Hall,USA,1995-03-08,1.93,2016,10,96.6,3
+2156,Todd,Withers,Todd Withers,Queens University/USA,Queens University,USA,,USA,1996-05-06,2.03,0,10,98.0,0
+2157,Kenny,Wooten,Kenny Wooten,University of Oregon,,,University of Oregon,USA,1998-04-17,2.06,0,24,90.7,0
+2158,Brandon,Ashley,Brandon Ashley,Arizona/USA,Arizona,USA,Arizona,USA,1994-07-15,2.06,0,30,104.3,0
+2159,Bryce,Brown,Bryce Brown,Auburn University,,,Auburn University,USA,1997-07-24,1.9,0,30,90.3,0
+2160,Moses,Brown,Moses Brown,UCLA,,,UCLA,USA,1999-10-13,2.16,0,14,107.5,0
+2161,Bruno,Caboclo,Bruno Caboclo,Brazil/Brazil,Brazil,Brazil,,Brazil,1995-09-21,2.06,2014,19,98.9,5
+2162,Jevon,Carter,Jevon Carter,West Virginia University/USA,West Virginia University,USA,West Virginia,USA,1995-09-14,1.88,2018,19,88.9,1
+2163,Chris,Chiozza,Chris Chiozza, USA/USA, USA,USA,University of Florida,USA,1995-11-21,1.83,2018,14,79.4,1
+2164,Nicolas,Claxton,Nicolas Claxton,,,,University of Georgia,,1999-04-17,2.11,0,4,99.8,0
+2165,Chris,Clemons,Chris Clemons,Campbell University/USA,Campbell University,USA,Campbell University,USA,1997-07-23,1.75,0,14,81.6,0
+2166,Tyler,Cook,Tyler Cook,University of Iowa,,,University of Iowa,USA,1997-09-23,2.06,0,9,115.7,0
+2167,Isaia,Cordinier,Isaia Cordinier,France/France,France,France,,France,1996-11-28,1.96,0,4,89.4,0
+2168,Terence,Davis,Terence Davis,University of Mississippi,,,University of Mississippi,USA,1997-05-16,1.93,0,9,93.0,0
+2169,Brandon,Goodwin,Brandon Goodwin, USA/USA, USA,USA,,USA,1995-10-02,1.88,2018,9,81.6,1
+2170,Kyle,Guy,Kyle Guy, USA/USA, USA,USA,University of Virginia,USA,1997-08-11,1.85,0,30,75.8,0
+2171,Jaylen,Hands,Jaylen Hands, USA,,,UCLA,USA,1999-02-12,1.9,0,4,79.4,0
+2172,Dusty,Hannahs,Dusty Hannahs,Arkansas/USA,Arkansas,USA,Arkansas,USA,1993-09-02,1.93,2018,19,88.5,0
+2173,Tyler,Harvey,Tyler Harvey,,,,,,,,0,19,,0
+2174,Austin,Hollins,Austin Hollins,,,,,,,,0,40,,0
+2175,Justin,James,Justin James, USA,,,,USA,1997-01-24,2.01,0,30,86.2,0
+2176,BJ,Johnson,BJ Johnson, USA/USA, USA,USA,La Salle,USA,1995-12-21,2.01,2018,30,90.7,1
+2177,John,Konchar,John Konchar,,,,,USA,1996-03-22,1.96,0,19,95.3,0
+2178,Shamorie,Ponds,Shamorie Ponds,St. John's University/USA,St. John's University,USA,St. John's University,USA,1998-06-29,1.85,0,14,81.6,0
+2179,Michael,Porter Jr.,Michael Porter Jr.,University of Missouri/USA,University of Missouri,USA,Missouri,USA,1998-06-29,2.08,0,9,95.3,1
+2180,Simisola,Shittu,Simisola Shittu,,,,,,,,0,19,,0
+2181,Skylar,Spencer,Skylar Spencer,San Diego State / USA,San Diego State , USA,San Diego State,USA,1994-07-11,2.06,0,9,106.6,0
+2182,Keifer,Sykes,Keifer Sykes, USA/USA, USA,USA,,USA,1993-12-30,1.83,0,9,81.6,0
+2183,Hollis,Thompson,Hollis Thompson,,,,Georgetown,USA,1991-04-03,2.03,2013,,93.4,2
+2184,Jarred,Vanderbilt,Jarred Vanderbilt,University of Kentucky/USA,University of Kentucky,USA,Kentucky,USA,1999-04-03,2.06,2018,9,97.1,1
+2185,Julian,Washburn,Julian Washburn,Texas-El Paso/USA,Texas-El Paso,USA,Texas-El Paso,USA,1991-12-18,2.03,2018,19,94.8,1
+2186,Yuta,Watanabe,Yuta Watanabe,George Washington/Japan,George Washington,Japan,George Washington,Japan,1994-10-13,2.06,2018,19,93.0,1
+2187,Johnathan,Williams,Johnathan Williams,Gonzaga/USA,Gonzaga,USA,Gonzaga University,USA,1995-05-22,2.06,2018,17,103.4,1
+2188,Noah,Allen,Noah Allen, USA/USA, USA,USA,,USA,1995-02-01,2.01,0,41,97.5,0
+2189,Elijah,Brown,Elijah Brown,Oregon/USA,Oregon,USA,,USA,1995-02-19,1.93,0,41,90.7,0
+2190,A.J.,Davis,A.J. Davis, USA,,,,USA,1995-03-15,2.06,0,27,97.5,0
+2191,Daniel,Gafford,Daniel Gafford, USA,,,University of Arkansas,USA,1998-10-01,2.11,0,6,108.0,0
+2192,Rui,Hachimura,Rui Hachimura, Japan/Japan, Japan,Japan,Gonzaga University,Japan,1998-02-08,2.03,0,41,104.3,0
+2193,Zach,Hankins,Zach Hankins,Xavier University,,,Xavier University,USA,1996-07-27,2.11,0,27,111.1,0
+2194,Jared,Harper,Jared Harper,Auburn University,,,Auburn University,USA,1997-09-14,1.8,0,28,79.4,0
+2195,Haywood,Highsmith,Haywood Highsmith, USA/USA, USA,USA,,USA,1996-12-09,2.01,2018,27,99.8,0
+2196,Jonathan,Holmes,Jonathan Holmes,,,,,,,,0,,,0
+2197,Jalen,Lecque,Jalen Lecque, ,,, ,USA,2000-06-13,1.93,0,28,83.9,0
+2198,Sheldon,McClellan,Sheldon McClellan,Miami (Fla.)/USA,Miami (Fla.),USA,Miami (Fla.),USA,1992-12-21,1.98,2016,,90.7,0
+2199,Shake,Milton,Shake Milton,USA/USA,USA,USA,Southern Methodist,USA,1996-09-26,1.98,2018,27,93.9,1
+2200,Adam,Mokoka,Adam Mokoka,France/France,France,France, ,France,1998-07-18,1.96,0,6,95.3,0
+2201,Mychal,Mulder,Mychal Mulder,Kentucky/USA,Kentucky,USA,Kentucky,Canada,1994-06-12,1.93,0,6,83.9,0
+2202,Retin,Obasohan,Retin Obasohan,Alabama/Belgium,Alabama,Belgium,,Belgium,1993-07-06,1.9,0,28,99.8,0
+2203,James,Palmer Jr.,James Palmer Jr.,University of Nebraska?Lincoln,,,University of Nebraska?Lincoln,USA,1996-07-31,1.98,0,28,95.3,0
+2204,Anzejs,Pasecniks,Anzejs Pasecniks,Latvia/Latvia,Latvia,Latvia, ,Latvia,1995-12-20,2.16,0,41,103.9,0
+2205,Tarik,Phillip,Tarik Phillip, USA/USA, USA,USA,West Virginia,USA,1993-08-10,1.9,0,41,88.5,1
+2206,Rayvonte,Rice,Rayvonte Rice,Illinois,,,Illinois,,1992-07-14,1.93,0,28,99.8,0
+2207,Justin,Robinson,Justin Robinson,Virginia Tech,,,Virginia Tech,USA,1997-12-10,1.88,0,41,88.5,0
+2208,Admiral,Schofield,Admiral Schofield, United Kingdom/United Kingdom, United Kingdom,United Kingdom,University of Tennessee,United Kingdom,1997-03-30,1.96,0,27,109.3,0
+2209,Marial,Shayok,Marial Shayok, Canada,,,Iowa State University,Canada,1995-07-26,1.96,0,27,88.9,0
+2210,Matisse,Thybulle,Matisse Thybulle, USA/USA, USA,USA,University of Washington,USA,1997-03-04,1.96,0,27,90.7,0
+2211,Justin,Tillman,Justin Tillman, USA/USA, USA,USA,,USA,1996-02-02,2.03,0,28,99.8,0
+2212,Dakarai,Tucker,Dakarai Tucker,Utah/USA,Utah,USA,Utah,USA,1994-05-13,1.96,0,28,88.5,0
+2213,Coby,White,Coby White, USA/USA, USA,USA,University of North Carolina at Cha,USA,2000-02-16,1.96,0,6,86.6,0
+2214,Jeff,Withey,Jeff Withey,Kansas/USA,Kansas,USA,Kansas,USA,1990-03-07,2.13,2013,,104.8,3
+2215,Chris,Clemons,Chris Clemons,Campbell University/USA,Campbell University,USA,Campbell University,USA,1997-07-23,1.75,0,14,81.6,0
+2216,Shamorie,Ponds,Shamorie Ponds,St. John's University/USA,St. John's University,USA,St. John's University,USA,1998-06-29,1.85,0,14,81.6,0
+2217,Yanyuhang,Ding,Yanyuhang Ding,,,,,,,,0,,,0
+2218,Yi,Jianlian,Yi Jianlian,,,,,,,,0,,,0
+2219,Pe'Shon,Howard,Pe'Shon Howard,,,,,,,,0,,,0
+2220,Kris,Clyburn,Kris Clyburn,UNLV,,,UNLV,,1996-04-20,1.98,0,,81.6,0
+2221,Daulton,Hommes,Daulton Hommes,Point Loma,,,Point Loma,,1996-07-04,2.03,0,,97.5,0
+2222,Fletcher,Magee,Fletcher Magee,Wofford,,,Wofford,,1996-11-13,1.93,0,,88.5,0
+2223,Donta,Hall,Donta Hall,Alabama,,,Alabama,,1997-08-07,2.06,0,,104.3,0
+2224,Matt,McQuaid,Matt McQuaid,Michigan St,,,Michigan St,,1996-09-28,1.96,0,,90.7,0
+2225,Marcquise,Reed,Marcquise Reed,Clemson,,,Clemson,,1995-04-21,1.9,0,,86.2,0
+2226,Terry,Harris,Terry Harris,North Carolina A&T,,,North Carolina A&T,,1996-03-20,1.98,0,,97.5,0
+2227,Christ,Koumadje,Christ Koumadje,Florida State,,,Florida State,,1996-07-07,2.24,0,,122.5,0
+2228,Deshon,Taylor,Deshon Taylor,Fresno State,,,Fresno State,,1996-03-17,1.88,0,,83.9,0
+2229,Luka,Babic,Luka Babic,,,,,,1991-09-29,2.01,0,,,0
+2230,Roko,Badzim,Roko Badzim,,,,,,1997-08-18,1.96,0,,,0
+2231,Marjan,Cakarun,Marjan Cakarun,,,,,,1990-04-27,2.06,0,,,0
+2232,Mateo,Dreznjak,Mateo Dreznjak,,,,,,1999-09-03,1.96,0,,,0
+2233,Pavle,Marcinkovic,Pavle Marcinkovic,,,,,,1989-06-05,1.98,0,,,0
+2234,Marin,Maric,Marin Maric,,,,,,1994-02-21,2.11,0,,,0
+2235,Kresimir,Radovcic,Kresimir Radovcic,,,,,,1997-04-19,1.96,0,,,0
+2236,Ivan,Ramljak,Ivan Ramljak,,,,,,1990-08-09,2.03,0,,,0
+2237,Roko,Rogic,Roko Rogic,,,,,,1992-09-25,1.85,0,,,0
+2238,Antonio,Vrankovic,Antonio Vrankovic,,,,,,1996-10-28,2.13,0,,,0
+2239,Domagoj,Vukovic,Domagoj Vukovic,,,,,,1993-10-29,2.08,0,,,0
+2240,Zeljko,Sakic,Zeljko Sakic,,,,,,1988-04-14,2.08,0,,,0
