@@ -1,0 +1,7 @@
+
+Steps to install nba_api 
+
+1 - Just run the command below:
+	pip install nba_api
+
+The documentation can be found on https://pypi.org/project/nba-api/ and https://github.com/swar/nba_api/blob/master/docs/nba_api/stats/examples.md
