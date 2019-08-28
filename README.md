@@ -14,7 +14,7 @@ Overall points
 
 Data:
 
-We knew we would need data on player stats, as well as where the player was from, and the team they played for. Using an external csv with player stats from (FILL IN WHEN THE DATA STARTS) to present day, we were able to see the stats of ~2200 players, which we deemed to be a large enough sample to be representative of the cities and teams. 
+We knew we would need data on player stats, as well as where the player was from, and the team they played for. Using an external csv with player stats from 1980 to present day, we were able to see the stats of ~2200 players, which we deemed to be a large enough sample to be representative of the cities and teams. 
 
 APIs used:
 
